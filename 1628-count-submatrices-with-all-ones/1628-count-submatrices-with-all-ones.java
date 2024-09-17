@@ -21,8 +21,6 @@ class Solution {
                 if (mat[i][j] == 0) current_state[j] = 0;
                 else current_state[j]++;
             }
-            System.out.println(Arrays.toString(current_state));
-            System.out.println(find_sum_of_all_heights_of_histogram(current_state));
             res += find_sum_of_all_heights_of_histogram(current_state);
         }
         return res;
@@ -42,7 +40,7 @@ class Solution {
             st.add(new Pair(current, i));
         }
         st.clear();
-        
+
         for (int i = n - 1; i >= 0; i--) {
             int current = arr[i];
             while (st.size() > 0 && st.peek().val >= current) st.pop();
