@@ -8,12 +8,10 @@ class Solution {
             ages[i] = ages[n - 1 - i];
             ages[n - 1 - i] = temp;
         }
-        System.out.println(Arrays.toString(ages));
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < n; i++) {
             int current = ages[i];
             int res = binarySearch(i , current, ages);
-            System.out.println(current + " " + res);
             if (!map.containsKey(current)) map.put(current, res);
         }
         for (int i = 0; i < n; i++) {
