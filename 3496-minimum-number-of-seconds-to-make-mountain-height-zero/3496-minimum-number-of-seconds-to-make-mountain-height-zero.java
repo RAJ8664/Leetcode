@@ -26,6 +26,8 @@ class Solution {
                 maximum x such that (1 + 2 + 3 + .... + x) <= mid / arr[i];
                 x * (x + 1) / 2 <= mid / arr[i];
                 x * (x + 1) <= 2 * mid / arr[i];
+                arr[i] * (x * (x + 1) / 2) <= mid;
+
             */
             long low = 1;
             long high = k + 1;
@@ -39,7 +41,6 @@ class Solution {
                 }
                 else high = x - 1;
             }
-
             total_height += high;
         }
         return total_height >= k;
