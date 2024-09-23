@@ -45,6 +45,7 @@ Leetcode Solutions
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Leetcode Solutions
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
+| [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -100,11 +102,13 @@ Leetcode Solutions
 | ------- |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/RAJ8664/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +132,7 @@ Leetcode Solutions
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
