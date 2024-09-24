@@ -7,7 +7,6 @@ class MyLinkedList {
             next = null;
         }
     }
-
     private Node head;
     public MyLinkedList() {
         head = null;
@@ -89,7 +88,6 @@ class MyLinkedList {
             current_ind++;
         }
         prev.next = next.next;
-
     }
 
     private int getSize() {
@@ -100,15 +98,6 @@ class MyLinkedList {
             temp = temp.next;
         }
         return size;
-    }
-
-    private void printList() {
-        Node temp = head;
-        while (temp != null) {
-            System.out.print(temp.data + " ");
-            temp = temp.next;
-        }
-        System.out.println();
     }
 }
 
