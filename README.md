@@ -43,6 +43,7 @@ Leetcode Solutions
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
+| [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -165,6 +166,7 @@ Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -231,4 +233,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
+## Backtracking
+|  |
+| ------- |
+| [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
