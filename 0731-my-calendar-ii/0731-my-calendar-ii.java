@@ -1,6 +1,3 @@
-// Approach -1
-
-
 class MyCalendarTwo {
     private TreeMap<Integer, Integer> bookings;
     public MyCalendarTwo() {
