@@ -1,5 +1,4 @@
 class Solution {
-
     static class Pair {
         int row, col;
         public Pair(int row, int col) {
@@ -17,21 +16,10 @@ class Solution {
         int vis1[][] = new int[n + 1][m + 1];
         int vis2[][] = new int[n + 1][m + 1];
 
-        for (int j = 0; j < m; j++) {
-            if (vis1[0][j] == 0) bfs(0 , j , heights, vis1);
-        }
-
-        for (int i = 0; i < n; i++) {
-            if (vis1[i][0] == 0) bfs(i , 0 , heights, vis1);
-        }
-
-        for (int i = 0; i < n; i++) {
-            if (vis2[i][m - 1] == 0) bfs(i , m - 1, heights, vis2);
-        }
-
-        for (int j = 0; j < m; j++) {
-            if (vis2[n - 1][j] == 0) bfs(n - 1, j , heights, vis2);
-        }
+        for (int j = 0; j < m; j++) if (vis1[0][j] == 0) bfs(0 , j , heights, vis1);
+        for (int i = 0; i < n; i++) if (vis1[i][0] == 0) bfs(i , 0 , heights, vis1);
+        for (int i = 0; i < n; i++) if (vis2[i][m - 1] == 0) bfs(i , m - 1, heights, vis2);
+        for (int j = 0; j < m; j++) if (vis2[n - 1][j] == 0) bfs(n - 1, j , heights, vis2);
 
         List<List<Integer>> res = new ArrayList<>();
         for (int i = 0; i < n; i++) {
