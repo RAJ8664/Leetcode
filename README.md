@@ -78,6 +78,7 @@ Leetcode Solutions
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -125,6 +126,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
@@ -209,6 +211,7 @@ Leetcode Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Iterator
 |  |
@@ -249,6 +252,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/RAJ8664/Leetcode/tree/master/0061-rotate-list) |
+| [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Segment Tree
