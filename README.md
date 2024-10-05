@@ -66,6 +66,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
@@ -276,4 +277,8 @@ Leetcode Solutions
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
