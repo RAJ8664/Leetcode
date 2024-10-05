@@ -75,6 +75,7 @@ Leetcode Solutions
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RAJ8664/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/RAJ8664/Leetcode/tree/master/0670-maximum-swap) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -232,6 +233,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/RAJ8664/Leetcode/tree/master/0670-maximum-swap) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Data Stream
