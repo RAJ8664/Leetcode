@@ -60,6 +60,7 @@ Leetcode Solutions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -253,6 +254,7 @@ Leetcode Solutions
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -316,4 +318,5 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
