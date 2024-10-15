@@ -9,8 +9,8 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             int currentChar = s.charAt(i) - 'a';
             if (seen[currentChar]) continue; 
-                while (!stack.isEmpty() && stack.peek() > currentChar && i < lastIndex[stack.peek()]) {
-                seen[stack.pop()] = false;
+            while (!stack.isEmpty() && stack.peek() > currentChar && i < lastIndex[stack.peek()]) {
+            seen[stack.pop()] = false;
             }
             stack.push(currentChar); 
             seen[currentChar] = true;
