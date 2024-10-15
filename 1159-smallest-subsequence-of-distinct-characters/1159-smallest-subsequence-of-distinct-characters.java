@@ -10,7 +10,7 @@ class Solution {
             int currentChar = s.charAt(i) - 'a';
             if (seen[currentChar]) continue; 
             while (!stack.isEmpty() && stack.peek() > currentChar && i < lastIndex[stack.peek()]) {
-            seen[stack.pop()] = false;
+                seen[stack.pop()] = false;
             }
             stack.push(currentChar); 
             seen[currentChar] = true;
