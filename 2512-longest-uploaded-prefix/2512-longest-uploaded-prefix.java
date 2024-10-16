@@ -8,7 +8,6 @@ class LUPrefix {
         Arrays.fill(arr, 0);
         Arrays.fill(seg, 0);
         set = new HashSet<>();
-        build(arr, seg, 0 , 0 , (int)(1e5));
     }
     
     public void upload(int video) {
