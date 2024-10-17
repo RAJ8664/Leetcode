@@ -42,6 +42,7 @@ Leetcode Solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RAJ8664/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0713-subarray-product-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
@@ -160,6 +161,7 @@ Leetcode Solutions
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
@@ -257,6 +259,7 @@ Leetcode Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Iterator
@@ -341,6 +344,7 @@ Leetcode Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
