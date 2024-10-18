@@ -86,7 +86,6 @@ class Solution {
             }
         }
         res.add(sum);
-
         int start = 0;
         for (int i = k; i < n; i++) {
             int prev = arr[start++];
@@ -103,12 +102,10 @@ class Solution {
                 sum -= last.node * 1L * last.freq;
                 removed.add(new Pair(last.node, map.getOrDefault(last.node, 0)));
             }
-
             int now = arr[i];
             if(set.contains(new Pair(now, map.getOrDefault(now, 0)))) sum -= now * 1L * map.getOrDefault(now, 0);
             set.remove(new Pair(now, map.getOrDefault(now, 0)));
             if (removed.contains(new Pair(now, map.getOrDefault(now, 0)))) removed.remove(new Pair(now, map.getOrDefault(now, 0)));
-
 
             map.put(now, map.getOrDefault(now, 0) + 1);
             sum += now * 1L * map.getOrDefault(now, 0);
@@ -144,7 +141,6 @@ class Solution {
             }
             res.add(sum);
         }
-        
         long answer[] = new long[res.size()];
         for (int i = 0; i < res.size(); i++) answer[i] = res.get(i);
         return answer;
