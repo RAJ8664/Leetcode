@@ -4,13 +4,11 @@ class Solution {
         int res = 0;
         for (int i = n - 2; i >= 0; i--) {
             if (nums[i] <= nums[i + 1]) continue;
-            int temp = 0;
             int find = solve(nums[i]);
             if (find <= 1) return -1;
-            temp++;
             nums[i] = find;
             if (nums[i] > nums[i + 1]) return -1;
-            res += temp;
+            res++;
         }
         return res;
     }
