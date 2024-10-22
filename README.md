@@ -19,6 +19,7 @@ Leetcode Solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/RAJ8664/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -81,6 +82,7 @@ Leetcode Solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -408,4 +410,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
