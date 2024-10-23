@@ -31,10 +31,8 @@ class Solution {
     public TreeNode replaceValueInTree(TreeNode root) {
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(root, 0, root.val, null, -1));
-        ArrayList<Pair> res = new ArrayList<>();
         ArrayList<Integer> level_sum = new ArrayList<>();
         HashMap<TreeNode, Integer> map = new HashMap<>();
-        res.add(new Pair(root, 0 , root.val, null, -1));
         while (q.size() > 0) {
             int len = q.size();
             int sum = 0;
@@ -42,13 +40,11 @@ class Solution {
                 TreeNode curr = q.peek().current;
                 if (q.peek().current.left != null) {
                     q.offer(new Pair(q.peek().current.left, q.peek().level + 1, q.peek().current.left.val, q.peek().current, 0));
-                    res.add(new Pair(q.peek().current.left, q.peek().level + 1, q.peek().current.left.val, q.peek().current, 0));
                     if (q.peek().current.right != null) map.put(q.peek().current.left, q.peek().current.right.val);
                     else map.put(q.peek().current.left, 0);
                 }
                 if (q.peek().current.right != null) {
                     q.offer(new Pair(q.peek().current.right, q.peek().level + 1, q.peek().current.right.val, q.peek().current, 1));
-                    res.add(new Pair(q.peek().current.right, q.peek().level + 1, q.peek().current.right.val, q.peek().current, 1));
                     if (q.peek().current.left != null) map.put(q.peek().current.right, q.peek().current.left.val);
                     else map.put(q.peek().current.right, 0);
                 }
@@ -72,7 +68,6 @@ class Solution {
                 if (current_level == 0) {
                     new_q.peek().val = 0;
                     new_q.poll();
-                    continue;
                 }
                 if (current_level != 0) {
                     int sum = 0;
