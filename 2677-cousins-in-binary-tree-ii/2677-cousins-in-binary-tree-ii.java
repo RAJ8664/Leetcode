@@ -57,7 +57,6 @@ class Solution {
             }
             level_sum.add(sum);
         }     
-        dbg.print(map);
         int current_level = 0;
         Queue<TreeNode> new_q = new LinkedList<>();
         new_q.offer(root);
