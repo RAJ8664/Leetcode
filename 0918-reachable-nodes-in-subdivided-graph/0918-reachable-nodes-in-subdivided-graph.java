@@ -19,7 +19,7 @@ class Solution {
     }
     private ArrayList<ArrayList<Pair>> adj;
     public int reachableNodes(int[][] edges, int maxMoves, int n) {
-        if (edges.length == 0) return n - 1;
+        if (edges.length == 0) return 1;
         adj = new ArrayList<>();
         for (int i = 0; i <= n + 1; i++) adj.add(new ArrayList<>());
         for (int curr[] : edges) {
