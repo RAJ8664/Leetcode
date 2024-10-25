@@ -75,6 +75,7 @@ Leetcode Solutions
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -138,6 +139,7 @@ Leetcode Solutions
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RAJ8664/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/RAJ8664/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
@@ -417,6 +419,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Binary Indexed Tree
 |  |
@@ -448,6 +451,7 @@ Leetcode Solutions
 | ------- |
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/RAJ8664/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/RAJ8664/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Topological Sort
 |  |
