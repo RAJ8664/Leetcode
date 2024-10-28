@@ -9,7 +9,6 @@ class Solution {
                 res.add((long)ele);
             }
         }
-        Collections.sort(res);
         int maxi = -1;
         for (int i = 0; i < res.size(); i++) {
             long current = res.get(i);
