@@ -144,6 +144,7 @@ Leetcode Solutions
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -384,6 +385,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
