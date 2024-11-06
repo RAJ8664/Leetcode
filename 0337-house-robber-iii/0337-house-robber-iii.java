@@ -20,6 +20,8 @@ class Solution {
     private int dp2[];
     public int rob(TreeNode root) {
         build_tree(root);
+        //dp1 = taking value at node i;
+        //dp2 = not taking value at node i;
         dp1 = new int[(int)(1e4) + 1];
         dp2 = new int[(int)(1e4) + 1];
         dfs(1, -1);
