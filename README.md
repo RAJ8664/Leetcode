@@ -99,6 +99,7 @@ Leetcode Solutions
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Breadth-First Search
@@ -179,6 +180,7 @@ Leetcode Solutions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
 | ------- |
@@ -466,6 +468,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
