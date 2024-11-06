@@ -35,13 +35,11 @@ class Solution {
             return;
         }
         for (int v : adj.get(u)) {
-            if (v != par) dfs(v, u);
-        }
-        for (int v : adj.get(u)) {
-            if (v != par) dp2[u] += Math.max(dp1[v] , dp2[v]);
-        }
-        for (int v : adj.get(u)) {
-            if (v != par) dp1[u] += dp2[v];
+            if (v != par) {
+                dfs(v, u);
+                dp2[u] += Math.max(dp1[v] , dp2[v]);
+                dp1[u] += dp2[v];
+            }
         }
         dp1[u] += cost[u];
     }
