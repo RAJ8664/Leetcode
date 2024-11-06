@@ -1,7 +1,6 @@
 # Leetcode
-Leetcode Solutions
-
 #Leetcode Profile https://leetcode.com/u/RkRoy/
+Leetcode Solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
