@@ -301,6 +301,7 @@ Leetcode Solutions
 | [0337-house-robber-iii](https://github.com/RAJ8664/Leetcode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0806-domino-and-tromino-tiling](https://github.com/RAJ8664/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
