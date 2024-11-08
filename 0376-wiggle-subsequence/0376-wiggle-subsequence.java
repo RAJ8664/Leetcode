@@ -10,7 +10,7 @@ class Solution {
 
     private int solve(int ind, int prev_diff, int prev_ind, int arr[]) {
         if (ind >= arr.length) return 0;
-        if (dp[ind][prev_ind + 1][prev_diff + 1] != -1) return 0;
+        if (dp[ind][prev_ind + 1][prev_diff + 1] != -1) return dp[ind][prev_ind + 1][prev_diff + 1];
         if (prev_ind == -1) {
             int op1 = 0, op2 = 0;
             op1 = 1 + solve(ind + 1, prev_diff, ind, arr);
