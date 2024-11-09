@@ -143,6 +143,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RAJ8664/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -300,6 +301,7 @@ Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/RAJ8664/Leetcode/tree/master/0337-house-robber-iii) |
 | [0376-wiggle-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -396,6 +398,7 @@ Leetcode Solutions
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RAJ8664/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/RAJ8664/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
