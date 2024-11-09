@@ -60,6 +60,7 @@ Leetcode Solutions
 | ------- |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0376-wiggle-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/RAJ8664/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
@@ -220,6 +221,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
@@ -443,12 +445,14 @@ Leetcode Solutions
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -470,6 +474,7 @@ Leetcode Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
 ## Heap (Priority Queue)
 |  |
@@ -491,6 +496,7 @@ Leetcode Solutions
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Geometry
 |  |
@@ -545,4 +551,8 @@ Leetcode Solutions
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
