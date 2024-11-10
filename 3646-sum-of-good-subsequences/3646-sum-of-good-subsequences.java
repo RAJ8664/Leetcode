@@ -6,22 +6,22 @@ class Solution {
         for (long i : nums) {
             long sum = i, count = 1;
             if (dp.containsKey(i - 1)) {
-                long[] v = dp.get(i - 1);
-                sum = (sum + v[1] * i) % mod;
-                sum = (sum + v[0]) % mod;
-                count = (count + v[1]) % mod;
+                long[] temp = dp.get(i - 1);
+                sum = (sum + temp[1] * i) % mod;
+                sum = (sum + temp[0]) % mod;
+                count = (count + temp[1]) % mod;
             }
             if (dp.containsKey(i + 1)) {
-                long[] v = dp.get(i + 1);
-                sum = (sum + v[1] * i) % mod;
-                sum = (sum + v[0]) % mod;
-                count = (count + v[1]) % mod;
+                long[] temp = dp.get(i + 1);
+                sum = (sum + temp[1] * i) % mod;
+                sum = (sum + temp[0]) % mod;
+                count = (count + temp[1]) % mod;
             }
             res = (res + sum) % mod;
-            long[] v = dp.getOrDefault(i, new long[] {0, 0});
-            v[0] = (v[0] + sum) % mod;
-            v[1] = (v[1] + count) % mod;
-            dp.put(i, v);
+            long[] temp = dp.getOrDefault(i, new long[] {0, 0});
+            temp[0] = (temp[0] + sum) % mod;
+            temp[1] = (temp[1] + count) % mod;
+            dp.put(i, temp);
         }
         return (int)res;
     }
