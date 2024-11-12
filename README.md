@@ -113,6 +113,7 @@ Leetcode Solutions
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RAJ8664/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -199,6 +200,7 @@ Leetcode Solutions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
@@ -239,6 +241,7 @@ Leetcode Solutions
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +345,7 @@ Leetcode Solutions
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
@@ -360,6 +364,7 @@ Leetcode Solutions
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RAJ8664/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -454,6 +459,7 @@ Leetcode Solutions
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 ## Ordered Set
 |  |
 | ------- |
@@ -503,6 +509,7 @@ Leetcode Solutions
 | ------- |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 ## Geometry
 |  |
 | ------- |
