@@ -19,9 +19,7 @@ class Solution {
 
     private boolean ok(int mid, int arr[], int n) {
         int sum = 0;
-        for (int ele : arr) {
-            sum += (ele + mid - 1) / mid;
-        }
+        for (int ele : arr) sum += (ele + mid - 1) / mid;
         return sum > n;
     }
 }
