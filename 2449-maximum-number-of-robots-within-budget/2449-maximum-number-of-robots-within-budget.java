@@ -1,9 +1,7 @@
 class Solution {
     public int maximumRobots(int[] chargeTimes, int[] runningCosts, long budget) {
         int n = chargeTimes.length;
-        int low = 1;
-        int high = n;
-        int ans = 0;
+        int low = 1, high = n, ans = 0;
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (ok(mid, chargeTimes, runningCosts, budget)) {
@@ -16,7 +14,7 @@ class Solution {
     }
 
     private boolean ok(int mid, int chargeTimes[], int runningCosts[], long budget) {
-        int n = chargeTimes.length;
+        int n = chargeTimes.length, start = 0;
         TreeSet<Integer> set = new TreeSet<>();
         HashMap<Integer, Integer> map = new HashMap<>();
         long current_sum = 0;
@@ -26,14 +24,11 @@ class Solution {
             map.put(current, map.getOrDefault(current, 0) + 1);
             current_sum += runningCosts[i];
         }
-        int current_maxi = set.last();
-        long current_budget = current_maxi * 1L +  mid * 1L * current_sum;
+        long current_budget = set.last() * 1L +  mid * 1L * current_sum;
         if (current_budget <= budget) return true;
-        int start = 0;
         for (int i = mid; i < n; i++) {
             int current = chargeTimes[i];
-            current_sum += runningCosts[i];
-            current_sum -= runningCosts[start];
+            current_sum += runningCosts[i]; current_sum -= runningCosts[start];
             map.put(current, map.getOrDefault(current, 0) + 1);
             map.put(chargeTimes[start], map.getOrDefault(chargeTimes[start], 0) -1);
             set.add(current);
