@@ -4,11 +4,7 @@ class Solution {
         HashMap<Character, ArrayList<Integer>> map = new HashMap<>();
         for (int i = 0; i < n; i++) {
             char current = s.charAt(i);
-            if (!map.containsKey(current)) map.put(current, new ArrayList<>());
-            ArrayList<Integer> temp = new ArrayList<>();
-            temp = map.get(current);
-            temp.add(i);
-            map.put(current, new ArrayList<>(temp));
+            map.computeIfAbsent(current, k->new ArrayList<>()).add(i);
         }
         int res = 0;
         for (char i = 'A'; i <= 'Z'; i++) {
