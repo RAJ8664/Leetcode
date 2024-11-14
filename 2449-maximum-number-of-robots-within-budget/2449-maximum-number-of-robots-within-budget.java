@@ -4,15 +4,9 @@ class Solution {
         int low = 1;
         int high = n;
         int ans = 0;
-        long pref[] = new long[n];
-        long sum = 0;
-        for (int i = 0; i < n; i++) {
-            sum += runningCosts[i];
-            pref[i] = sum;
-        }
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            if (ok(mid, chargeTimes, runningCosts, budget, pref)) {
+            if (ok(mid, chargeTimes, runningCosts, budget)) {
                 ans = mid;
                 low = mid + 1;
             }
@@ -21,7 +15,7 @@ class Solution {
         return ans;
     }
 
-    private boolean ok(int mid, int chargeTimes[], int runningCosts[], long budget, long pref[]) {
+    private boolean ok(int mid, int chargeTimes[], int runningCosts[], long budget) {
         int n = chargeTimes.length;
         TreeSet<Integer> set = new TreeSet<>();
         HashMap<Integer, Integer> map = new HashMap<>();
