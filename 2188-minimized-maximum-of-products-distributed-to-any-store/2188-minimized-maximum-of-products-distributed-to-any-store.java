@@ -4,7 +4,7 @@ class Solution {
         int maxi = 0;
         for (int ele : quantities) maxi = Math.max(maxi, ele);
         int low = 1;
-        int high = 100000;
+        int high = maxi;
         int ans = -1;
         while (low <= high) {
             int mid = low + (high - low) / 2;
