@@ -85,6 +85,7 @@ Leetcode Solutions
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -257,6 +258,7 @@ Leetcode Solutions
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0755-reach-a-number](https://github.com/RAJ8664/Leetcode/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -338,6 +340,7 @@ Leetcode Solutions
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/RAJ8664/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -431,6 +434,7 @@ Leetcode Solutions
 | [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -538,6 +542,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -553,6 +558,7 @@ Leetcode Solutions
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/RAJ8664/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
@@ -603,6 +609,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/RAJ8664/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
