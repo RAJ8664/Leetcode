@@ -30,7 +30,6 @@ class Solution {
         guard = new HashSet<>();
         for (int curr[] : guards) guard.add(new Pair(curr[0], curr[1]));
         for (int curr[] : walls) wall.add(new Pair(curr[0], curr[1]));
-
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (guard.contains(new Pair(i, j))) fill_bad(i, j, n, m);
@@ -46,7 +45,6 @@ class Solution {
         } 
         return count;
     }
-
 
     private void fill_bad(int row, int col, int n , int m) {
         int cr = row, cc = col;
