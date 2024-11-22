@@ -3,7 +3,7 @@ class Solution {
         int n = hours.length;
         HashMap<Integer,Integer> map = new HashMap<>();
         int sum = 0,ans = 0;
-        for(int i = 0;i<hours.length;i++){
+        for(int i = 0;i< hours.length; i++){
             if (hours[i] <= 8) sum += -1;
             else sum += 1;
             if(sum > 0) ans = i + 1;
