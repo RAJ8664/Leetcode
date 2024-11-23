@@ -114,6 +114,7 @@ Leetcode Solutions
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -421,6 +422,7 @@ Leetcode Solutions
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Monotonic Stack
@@ -534,6 +536,7 @@ Leetcode Solutions
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
