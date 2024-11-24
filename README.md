@@ -116,6 +116,7 @@ Leetcode Solutions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -423,6 +424,7 @@ Leetcode Solutions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Monotonic Stack
@@ -489,6 +491,7 @@ Leetcode Solutions
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
