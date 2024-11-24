@@ -681,4 +681,5 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1801-average-time-of-process-per-machine](https://github.com/RAJ8664/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/RAJ8664/Leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
