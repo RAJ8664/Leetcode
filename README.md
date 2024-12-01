@@ -104,6 +104,7 @@ Leetcode Solutions
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RAJ8664/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -233,6 +234,7 @@ Leetcode Solutions
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -280,6 +282,7 @@ Leetcode Solutions
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -318,6 +321,7 @@ Leetcode Solutions
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RAJ8664/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -549,6 +553,7 @@ Leetcode Solutions
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1028-interval-list-intersections](https://github.com/RAJ8664/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
