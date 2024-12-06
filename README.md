@@ -136,6 +136,7 @@ Leetcode Solutions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -247,6 +248,7 @@ Leetcode Solutions
 | [2554-minimum-total-distance-traveled](https://github.com/RAJ8664/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
@@ -298,6 +300,7 @@ Leetcode Solutions
 | [2449-maximum-number-of-robots-within-budget](https://github.com/RAJ8664/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -337,6 +340,7 @@ Leetcode Solutions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RAJ8664/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -515,6 +519,7 @@ Leetcode Solutions
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Data Stream
