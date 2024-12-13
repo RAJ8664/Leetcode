@@ -74,7 +74,7 @@ public class Solution {
         }
         List<Integer> res = new ArrayList<>(q);
         for (int i = 0; i < q; i++) res.add(0);
-        SegmentTree s = new SegmentTree(100001);
+        SegmentTree s = new SegmentTree((int)(1e5 + 1));
         for (int i = 1; i < n; i++) {
             s.set(a.get(i), i);
             for (int[] query : queryList.get(i)) {
