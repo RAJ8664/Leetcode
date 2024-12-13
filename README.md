@@ -18,6 +18,7 @@ Leetcode Solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/RAJ8664/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/RAJ8664/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -37,6 +38,7 @@ Leetcode Solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/RAJ8664/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -55,6 +57,7 @@ Leetcode Solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/RAJ8664/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
