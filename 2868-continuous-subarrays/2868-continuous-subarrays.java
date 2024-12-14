@@ -1,5 +1,4 @@
 class Solution {
-    
     public long continuousSubarrays(int[] nums) {
         int n = nums.length;
         int left = 0, right = 0;
