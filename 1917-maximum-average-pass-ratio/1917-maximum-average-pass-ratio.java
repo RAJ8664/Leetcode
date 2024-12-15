@@ -9,14 +9,12 @@ class Solution {
             this.total = total;
         }
     }
-
     static class sorting implements Comparator<Pair> {
         @Override
         public int compare(Pair first, Pair second) {
             return Double.compare(second.delta , first.delta);
         }
     }
-
     public double maxAverageRatio(int[][] classes, int extraStudents) {
         PriorityQueue<Pair> pq = new PriorityQueue<>(new sorting());
         for(int current[] : classes) {
@@ -25,7 +23,6 @@ class Solution {
             double delta = (double)(pass + 1) / (double)(total + 1) - (double)(pass) / (double)(total);
             pq.offer(new Pair(delta, pass, total)); 
         }
-
         while(extraStudents > 0) {
             double pass = pq.peek().pass;
             double total = pq.peek().total;
@@ -37,7 +34,6 @@ class Solution {
             pq.offer(new Pair(newDelta, pass, total));
             extraStudents--;
         }
-
         double ans = 0;
         int total = pq.size();
         while(!pq.isEmpty()) {
