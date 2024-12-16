@@ -5,7 +5,6 @@ class Solution {
         long res = solve((long)(n));
         return (int)(res);
     }
-
     private long solve(long n) {
         if (n == 1) return 0;
         if (memo.containsKey((long)(n))) return memo.get(n);
