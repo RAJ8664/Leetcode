@@ -34,7 +34,7 @@ class Solution {
             int u = equations[i].charAt(0) - 'a';
             int v = equations[i].charAt(3) - 'a';
             char current = equations[i].charAt(1);
-            if (current == '=') dsu.unite(u , v);
+            if (current == '=') dsu.unite(u, v);
         }
         for (int i = 0; i < n; i++) {
             int u = equations[i].charAt(0) - 'a';
