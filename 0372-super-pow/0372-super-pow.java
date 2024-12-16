@@ -8,7 +8,6 @@ class Solution {
         }
         return (int)(res);
     }
-
     static long fast_pow(long a, long p, long mod) {
         long res = 1;
         while (p > 0) {
@@ -24,5 +23,4 @@ class Solution {
         return res;
     }
     static long mul(long a, long b) {return (long) ((long) ((a % mod) * 1L * (b % mod)) % mod);}
-
 }
