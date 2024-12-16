@@ -37,7 +37,7 @@ class Solution {
             pq.poll();
             res[k++] = key;
             if (pq1.size() > 0) pq.offer(pq1.poll());
-            if (freq - 1 > 0) pq1.offer(new Pair(key , freq - 1 , 1));
+            if (freq - 1 > 0) pq1.offer(new Pair(key, freq - 1, 1));
         }
         return res;
     }
