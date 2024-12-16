@@ -36,7 +36,6 @@ class Solution {
         } 
         return res_node;
     }
-
     private ListNode insert(ListNode head, int val) {
         ListNode to_insert = new ListNode(val);
         to_insert.next = head;
