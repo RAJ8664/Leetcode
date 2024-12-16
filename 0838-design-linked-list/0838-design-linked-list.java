@@ -11,7 +11,6 @@ class MyLinkedList {
     public MyLinkedList() {
         head = null;
     }
-    
     public int get(int index) {
         if (index >= getSize()) return -1;
         int current_ind = 0;
@@ -22,7 +21,6 @@ class MyLinkedList {
         }
         return temp.data;
     }
-    
     public void addAtHead(int val) {
         if (head == null) {
             head = new Node(val);
@@ -32,7 +30,6 @@ class MyLinkedList {
         New_Node.next = head;
         head = New_Node;
     }
-    
     public void addAtTail(int val) {
         if (head == null) {
             head = new Node(val);
@@ -46,7 +43,6 @@ class MyLinkedList {
         Temp.next = New_Node;
         New_Node.next = null;
     }
-    
     public void addAtIndex(int index, int val) {
         if (index == 0) {
             addAtHead(val);
@@ -56,9 +52,7 @@ class MyLinkedList {
             addAtTail(val);
             return;
         }
-        if (index > getSize()) {
-            return;
-        }
+        if (index > getSize()) return;
         int current_ind = 0;
         Node prev = head;
         Node next = head;
@@ -71,7 +65,6 @@ class MyLinkedList {
         prev.next = New_Node;
         New_Node.next = next;
     }
-    
     public void deleteAtIndex(int index) {
         if (index == 0 && head == null) return;
         if (index == 0) {
@@ -89,7 +82,6 @@ class MyLinkedList {
         }
         prev.next = next.next;
     }
-
     private int getSize() {
         int size = 0;
         Node temp = head;
@@ -100,7 +92,6 @@ class MyLinkedList {
         return size;
     }
 }
-
 /**
  * Your MyLinkedList object will be instantiated and called as such:
  * MyLinkedList obj = new MyLinkedList();
