@@ -6,7 +6,6 @@ class Solution {
         this.len = w.length;
         CustomRandom(w);
     }
-    
     public int pickIndex() {
         double rand = random.nextDouble(); 
         int low = 0, high = probabilities.length - 1;
@@ -21,16 +20,11 @@ class Solution {
         probabilities = new double[w.length];
         random = new Random();
         int totalSum = 0;
-        for (int weight : w) {
-            totalSum += weight;
-        }
+        for (int weight : w) totalSum += weight;
         probabilities[0] = (double) w[0] / totalSum;
-        for (int i = 1; i < w.length; i++) {
-            probabilities[i] = probabilities[i - 1] + (double) w[i] / totalSum;
-        }
+        for (int i = 1; i < w.length; i++) probabilities[i] = probabilities[i - 1] + (double) w[i] / totalSum;
     }
 }
-
 /**
  * Your Solution object will be instantiated and called as such:
  * Solution obj = new Solution(w);
