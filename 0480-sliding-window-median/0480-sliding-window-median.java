@@ -3,11 +3,8 @@ class Solution {
         int n = nums.length;
         Comparator<Integer> comparator = new Comparator<Integer>() {
             public int compare(Integer a, Integer b) {
-                if(nums[a] != nums[b]) {
-                    return Integer.compare(nums[a], nums[b]);
-                } else {
-                    return a - b;
-                }
+                if(nums[a] != nums[b]) return Integer.compare(nums[a), nums[b]);
+                else return a - b;
             }
         };
         TreeSet<Integer> maxSet = new TreeSet<>(comparator.reversed());
