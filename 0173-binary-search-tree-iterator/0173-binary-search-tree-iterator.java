@@ -20,16 +20,13 @@ class BSTIterator {
         nodes = new ArrayList<>();
         Inorder(root);
     }
-    
     public int next() {
         return nodes.get(current_pointer++);
     }
-    
     public boolean hasNext() {
         if (current_pointer >= nodes.size()) return false;
         return true;
     }
-
     private void Inorder(TreeNode root) {
         if (root == null) return;
         Inorder(root.left);
