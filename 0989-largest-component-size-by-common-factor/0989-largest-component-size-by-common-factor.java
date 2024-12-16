@@ -11,12 +11,10 @@ class Solution {
                 size[i] = 1;
             }
         }
-
         public int find_parent(int u) {
             if (parent[u] == u) return parent[u] = u;
             return parent[u] = find_parent(parent[u]);
         }
-
         public void unite(int u, int v) {
             u = find_parent(u);
             v = find_parent(v);
@@ -30,7 +28,6 @@ class Solution {
             size[u] += size[v];
         }
     }
-
     public int largestComponentSize(int[] nums) {
         int n = nums.length;
         map = new HashMap<>();
@@ -40,9 +37,8 @@ class Solution {
         for (Map.Entry<Integer, ArrayList<Integer>> curr : map.entrySet()) {
             ArrayList<Integer> res = curr.getValue();
             for (int i = 0; i < res.size() - 1; i++) {
-                int u = res.get(i);
-                int v = res.get(i + 1);
-                dsu.unite(u , v);
+                int u = res.get(i), v = res.get(i + 1);
+                dsu.unite(u, v);
             }
         }
         int maxi = 0;
@@ -55,15 +51,15 @@ class Solution {
     private void compute_div(int n) {
         for (int i = 2; i * i <= n; i++) {
             if (n % i == 0) {
-                if (!map.containsKey(i)) map.put(i , new ArrayList<>());
+                if (!map.containsKey(i)) map.put(i, new ArrayList<>());
                 map.get(i).add(n);
                 if (n / i != i) {
-                    if (!map.containsKey(n / i)) map.put(n / i , new ArrayList<>());
+                    if (!map.containsKey(n / i)) map.put(n / i, new ArrayList<>());
                     map.get(n / i).add(n);
                 }
             }
         }
-        if (!map.containsKey(n)) map.put(n , new ArrayList<>());
+        if (!map.containsKey(n)) map.put(n, new ArrayList<>());
         map.get(n).add(n);
     }
 }
