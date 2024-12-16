@@ -7,7 +7,6 @@ class Solution {
                 map.put((ele1 + ele2) , map.getOrDefault(ele1 + ele2 , 0) + 1);
             } 
         }
-
         for (int ele1 : nums1) {
             for (int ele2 : nums2) {
                 int req = 0 - (ele1 + ele2);
