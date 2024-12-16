@@ -2,7 +2,6 @@ class Solution {
     public boolean isMatch(final String s, final String p) {
         return solve(s, p, 0, 0, new Boolean[s.length()][p.length()]);
     }
-
     private boolean solve(String s, String p, final int i, final int j, final Boolean[][] dp) {
         if(i >= s.length() && j >= p.length()) return true;
         if(j >= p.length()) return false;
