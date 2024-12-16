@@ -17,11 +17,8 @@ class Solution {
         return ans;
     }
     private boolean isVowel(char current) {
-        if (current == 'a' || current == 'A') return true;
-        if (current == 'e' || current == 'E') return true;
-        if (current == 'i' || current == 'I') return true;
-        if (current == 'o' || current == 'O') return true;
-        if (current == 'u' || current == 'U') return true;
+        if (current == 'a' || current == 'e' || current == 'i' || current == 'o' || current == 'u') return true;
+        if (current == 'A' || current == 'E' || current == 'I' || current == 'O' || current == 'U') return true;
         return false;
     }
 }
