@@ -27,7 +27,6 @@ class Solution {
         dfs(1, -1);
         return Math.max(dp1[1] , dp2[1]);
     }
-
     private void dfs(int u , int par) {
         if (adj.get(u).size() == 1 && u != 1) {
             dp1[u] = cost[u];
@@ -43,7 +42,6 @@ class Solution {
         }
         dp1[u] += cost[u];
     }
-    
     private void build_tree(TreeNode root) {
         adj = new ArrayList<>();
         cost = new int[(int)(1e5) + 1];
