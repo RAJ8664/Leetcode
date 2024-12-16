@@ -14,7 +14,6 @@ class MyCalendar {
     public MyCalendar() {
         bookings = new ArrayList<>();
     }
-    
     public boolean book(int start, int end) {
         for (int i = 0; i < bookings.size(); i++) {
             int current_start = bookings.get(i).start;
@@ -25,7 +24,6 @@ class MyCalendar {
         return true;
     }
 }
-
 /**
  * Your MyCalendar object will be instantiated and called as such:
  * MyCalendar obj = new MyCalendar();
