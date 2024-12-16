@@ -11,7 +11,7 @@ class Solution {
         Set<String> set = new HashSet<>();
         queue.offer(start.toString());
         set.add(start.toString());
-        int[][] directions = {{1, 3}, {0, 2, 4}, {1, 5}, {0, 4},{1, 3, 5}, {2, 4}};
+        int[][] directions = {{1, 3}, {0, 2, 4}, {1, 5}, {0, 4}, {1, 3, 5}, {2, 4}};
         int steps = 0;
         while (!queue.isEmpty()) {
             int size = queue.size();
