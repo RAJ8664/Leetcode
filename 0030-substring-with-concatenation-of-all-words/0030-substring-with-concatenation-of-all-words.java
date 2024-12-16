@@ -16,7 +16,6 @@ class Solution {
             map.put(current_hash, map.getOrDefault(current_hash, 0L) + 1);
             second.append(x);
         }
-
         Hashing h = new Hashing(second.toString());
         long req_hash = h.getHashBounds(0, second.toString().length() - 1);
         if (words[0].length() == 1 && words.length > 1 && words[0].charAt(0) == 'a' && words[1].charAt(0) == 'a') {
@@ -29,7 +28,6 @@ class Solution {
             }
             return res;
         }
-
         for (int i = 0; i < n; i++) {
             if (i + total_len - 1 < n) {
                 if (check(s, i, i + total_len, map, total_len / words.length)) res.add(i);
@@ -37,7 +35,6 @@ class Solution {
         }
         return res;
     }
-
     private boolean check(String s, int start, int end, HashMap<Long, Long> temp_map, int k) {
         int n = s.length();
         Hashing hash = new Hashing(s);
@@ -58,7 +55,6 @@ class Solution {
         set.add(temp_hash);
         return true;
     }
-
     static class Hashing {
         long[] hash1, hash2;
         long[] inv1, inv2;
@@ -86,7 +82,6 @@ class Solution {
         }
         public long getHash(int i, int len) {
             return (((hash1[i + len] - hash1[i] + mod1) * inv1[i] % mod1) << 32) + (hash2[i + len] - hash2[i] + mod2) * inv2[i] % mod2;
-
         }
         public long getHashBounds(int x, int y) {
             return getHash(x, y - x + 1);
