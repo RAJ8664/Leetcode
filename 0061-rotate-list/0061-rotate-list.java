@@ -17,12 +17,10 @@ class Solution {
             nodes.add(temp.val);
             temp = temp.next;
         }
-
         k = k % nodes.size();
         reverse(nodes, 0, nodes.size() - k - 1);
         reverse(nodes, nodes.size() - k, nodes.size() - 1);
         reverse(nodes, 0 , nodes.size() - 1);
-
         ListNode root = null;
         for (int i = 0; i < nodes.size(); i++) {
             int current = nodes.get(i);
@@ -30,7 +28,6 @@ class Solution {
         }
         return root;
     }
-
     private ListNode insert(ListNode head, int data) {
         ListNode new_node = new ListNode(data);
         if (head == null) return new ListNode(data);
@@ -40,12 +37,10 @@ class Solution {
         new_node.next = null;
         return head;
     }
-
     private void reverse(ArrayList<Integer> res, int low, int high) {
         while (low < high) {
             Collections.swap(res, low, high);
-            low++;
-            high--;
+            low++; high--;
         }
     }
 }
