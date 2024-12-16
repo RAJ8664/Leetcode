@@ -6,9 +6,7 @@ class Solution {
         int num = 0;
         for (int i = 0; i < n; i++) {
             char current = s.charAt(i);
-            if (Character.isDigit(current)) {
-                num = num * 10 + (int)(current - '0');
-            }
+            if (Character.isDigit(current)) num = num * 10 + (int)(current - '0');
             else {
                 if (num > 0) dig.add(num);
                 num = 0;
