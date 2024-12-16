@@ -35,11 +35,10 @@ class Solution {
         HashSet<Tuple> res = new HashSet<>();
         for (int i = 0; i < n; i++) {
             int req = target - arr[i];
-            int low = i + 1;
-            int high = n - 1;
+            int low = i + 1, high = n - 1;
             while (low < high) {
                 if (arr[low] + arr[high] == req) {
-                    res.add(new Tuple(arr[i] , arr[low] , arr[high]));
+                    res.add(new Tuple(arr[i] , arr[low], arr[high]));
                     low++;
                     high--;
                 } 
@@ -63,7 +62,7 @@ class Solution {
             }
             else if (second == third) {
                 long current_count = map.getOrDefault(first, 0);
-                current_count = mul(current_count, Math.max(1, nCk(map.getOrDefault(second, 0) , 2)));
+                current_count = mul(current_count, Math.max(1, nCk(map.getOrDefault(second, 0), 2)));
                 count = add(count, current_count);
             }
             else {
@@ -75,24 +74,21 @@ class Solution {
         }
         return (int)(count);
     }
-
-    static void precompFacts() {
+    private static void precompFacts() {
         factorials[0] = invFactorials[0] = 1;
-        for (int i = 1; i < factorials.length; i++)
-            factorials[i] = mul(factorials[i - 1], i);
+        for (int i = 1; i < factorials.length; i++) factorials[i] = mul(factorials[i - 1], i);
         invFactorials[factorials.length - 1] = exp(factorials[factorials.length - 1], mod - 2);
-        for (int i = invFactorials.length - 2; i >= 0; i--)
-            invFactorials[i] = mul(invFactorials[i + 1], i + 1);
+        for (int i = invFactorials.length - 2; i >= 0; i--) invFactorials[i] = mul(invFactorials[i + 1], i + 1);
     }
-    static long nCk(int n, int k) {
+    private static long nCk(int n, int k) {
         return mul(factorials[n], mul(invFactorials[k], invFactorials[n - k]));
     }
-    static long exp(long base, long exp) {
+    private static long exp(long base, long exp) {
         if (exp == 0) return 1;
         long half = exp(base, exp / 2);
         if (exp % 2 == 0) return mul(half, half);
         return mul(half, mul(half, base));
     }
-    static long mul(long a, long b) {return (long) ((long) ((a % mod) * 1L * (b % mod)) % mod);}
-    static long add(long a, long b) {a += b; if (a >= mod) a-= mod; return a;}
+    private static long mul(long a, long b) {return (long) ((long) ((a % mod) * 1L * (b % mod)) % mod);}
+    private static long add(long a, long b) {a += b; if (a >= mod) a-= mod; return a;}
 }
