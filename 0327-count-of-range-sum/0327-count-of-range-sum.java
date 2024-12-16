@@ -13,7 +13,6 @@ public class Solution {
         mergesort(sum, 0, sum.length - 1, temp);
         return count;
     }
-    
     private void mergesort(long[] sum, int start, int end, long[] temp) {
         if (start >= end) return;
         int mid = start + (end - start) / 2;
@@ -21,7 +20,6 @@ public class Solution {
         mergesort(sum, mid + 1, end, temp);
         merge(sum, start, mid, end, temp);
     }
-    
     private void merge(long[] sum, int start, int mid, int end, long[] temp) {
         int right = mid + 1, index = start, low = mid + 1, high = mid + 1;
         for (int left = start; left <= mid; left++) {
