@@ -9,11 +9,9 @@ class Solution {
             shuffled[i] = nums[i];
         }
     }
-    
     public int[] reset() {
         return original;
     }
-    
     public int[] shuffle() {
         ArrayList<Integer> temp = new ArrayList<>();
         for (int ele : shuffled) temp.add(ele);
