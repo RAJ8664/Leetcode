@@ -6,7 +6,6 @@ class AllOne {
         map = new HashMap<>();
         freqMap = new TreeMap<>();
     }
-    
     public void inc(String key) {
         if (map.containsKey(key)) {
             int freq = map.get(key);
@@ -20,7 +19,6 @@ class AllOne {
             freqMap.computeIfAbsent(1, k -> new HashSet<>()).add(key);
         }
     }
-    
     public void dec(String key) {
         if (!map.containsKey(key)) return;
         int freq = map.get(key);
@@ -38,12 +36,10 @@ class AllOne {
             freqMap.computeIfAbsent(freq - 1, k -> new HashSet<>()).add(key);
         }
     }
-    
     public String getMaxKey() {
         if (freqMap.isEmpty()) return "";
         return freqMap.lastEntry().getValue().iterator().next();
     }
-    
     public String getMinKey() {
         if (freqMap.isEmpty()) return "";
         return freqMap.firstEntry().getValue().iterator().next();
