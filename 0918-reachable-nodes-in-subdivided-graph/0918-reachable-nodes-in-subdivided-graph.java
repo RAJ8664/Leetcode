@@ -1,4 +1,5 @@
 class Solution {
+    private ArrayList<ArrayList<Pair>> adj;
     static class Pair {
         int node, weight;
         public Pair(int node, int weight) {
@@ -10,14 +11,12 @@ class Solution {
             return "(" + node + " " + weight + ")";
         }
     }
-
     static class custom_sort implements Comparator<Pair> {
         @Override
         public int compare(Pair first, Pair second) {
             return Integer.compare(first.weight , second.weight);
         }
     }
-    private ArrayList<ArrayList<Pair>> adj;
     public int reachableNodes(int[][] edges, int maxMoves, int n) {
         if (edges.length == 0) return 1;
         adj = new ArrayList<>();
@@ -28,7 +27,7 @@ class Solution {
             adj.get(v).add(new Pair(u, wt));
         }
         PriorityQueue<Pair> pq = new PriorityQueue<>(new custom_sort());
-        pq.offer(new Pair(0 , 0));
+        pq.offer(new Pair(0, 0));
         int dist[] = new int[n + 1];
         Arrays.fill(dist, (int)(1e9));
         dist[0] = 0;
@@ -46,13 +45,10 @@ class Solution {
             }
         }
         int ans = 0;
-        for (int i = 0; i < n; i++) {
-            if (dist[i] <= maxMoves) ans++;
-        }
-
+        for (int i = 0; i < n; i++) if (dist[i] <= maxMoves) ans++;
         for (int curr[] : edges) {
             int u = curr[0]; int v = curr[1]; int wt = curr[2];
-            int first = Math.max(0 , maxMoves - dist[u]);
+            int first = Math.max(0, maxMoves - dist[u]);
             int second = Math.max(0, maxMoves - dist[v]);
             ans += Math.min(wt, first + second);
         }
