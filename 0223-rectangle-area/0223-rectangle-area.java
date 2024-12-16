@@ -7,16 +7,13 @@ class Solution {
             this.x2 = x2;
             this.y2 = y2;
         }
-
         @Override
         public String toString() {
             return "(" + x1 + " " + y1 + " " + x2 + " " + y2 + ")";
         }
-
         public int getArea() {
             return Math.abs(x2 - x1) * Math.abs(y2 - y1);
         }
-
         public static int getIntersectionArea(Rectangle r1, Rectangle r2) {
             int intersectX1 = Math.max(r1.x1, r2.x1);
             int intersectY1 = Math.max(r1.y1, r2.y1);
@@ -29,7 +26,6 @@ class Solution {
             }
             return 0;  
         }
-
         public static int getAreaBetween(Rectangle r1, Rectangle r2) {
             int areaR1 = r1.getArea();
             int areaR2 = r2.getArea();
