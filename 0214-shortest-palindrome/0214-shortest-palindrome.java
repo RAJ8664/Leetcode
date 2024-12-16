@@ -18,19 +18,15 @@ class Solution {
             suff[n - 1 - i] = temp;
         }
         int maxi = 0;
-        for(int i = 0; i < n - 1; i++) {
-            if(pref[i] == suff[i]) maxi = i;
-        }
+        for(int i = 0; i < n - 1; i++) if (pref[i] == suff[i]) maxi = i;
         String current = s.substring(maxi + 1, n);
         String ans = new StringBuilder(current).reverse().toString();
         ans += s;
         return ans;
     }
-
     static boolean Is_Pallindrome(String s) {
         int n = s.length();
-        int low = 0;
-        int high = n - 1;
+        int low = 0, high = n - 1;
         while(low <= high) {
             if(s.charAt(low) != s.charAt(high)) return false;
             low++;
@@ -38,7 +34,6 @@ class Solution {
         }
         return true;
     }
-
     static class Hashing {
         long[] hash1, hash2;
         long[] inv1, inv2;
