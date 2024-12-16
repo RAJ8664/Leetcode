@@ -2,8 +2,7 @@ class Solution {
     private int flag;
     private Map<String, Boolean> memo;
     public boolean canPartitionKSubsets(int[] nums, int k) {
-        int n = nums.length;
-        int sum = 0;
+        int n = nums.length, sum = 0;
         flag = 0;
         for (int ele : nums) sum += ele;
         if (sum % k != 0) return false;
@@ -13,7 +12,6 @@ class Solution {
         reverse(nums);
         return solve(0, 0, nums, new boolean[n], k, target);
     }
-
     private boolean solve(int curIndex, int curSum, int[] nums, boolean[] visited, int k, int target) {
         if (k == 1) return true; 
         String memoKey = curSum + "-" + k + "-" + java.util.Arrays.toString(visited);
