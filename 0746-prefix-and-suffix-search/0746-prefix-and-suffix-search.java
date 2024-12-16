@@ -13,12 +13,10 @@ class WordFilter {
             }
         }
     }
-    
     public int f(String pref, String suff) {
         return map.getOrDefault(pref + ":" + suff , -1);
     }
 }
-
 /**
  * Your WordFilter object will be instantiated and called as such:
  * WordFilter obj = new WordFilter(words);
