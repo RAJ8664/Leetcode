@@ -12,12 +12,10 @@ class Solution {
         }
         return current_maxi;
     }
-
     private int solve(int arr[] , int low, int high, int len) {
-        int maxi_sum = 0, current_sum = 0;
+        int maxi_sum = 0, current_sum = 0, start = low;
         for (int i = low; i < low + len; i++) current_sum += arr[i];
         maxi_sum = Math.max(maxi_sum , current_sum);
-        int start = low;
         for (int i = low + len; i <= high; i++) {
             current_sum += arr[i];
             current_sum -= arr[start++];
