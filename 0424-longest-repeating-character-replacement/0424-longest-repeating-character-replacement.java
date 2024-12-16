@@ -3,12 +3,8 @@ class Solution {
         int n = s.length();
         ArrayList<ArrayList<Integer>> pos = new ArrayList<>();
         for (int i = 0; i <= 30; i++) pos.add(new ArrayList<>());
-        for (int i = 0; i < n; i++) {
-            pos.get(s.charAt(i) - 'A').add(i);
-        }
-        int low = 1;
-        int high = n;
-        int ans = -1;
+        for (int i = 0; i < n; i++) pos.get(s.charAt(i) - 'A').add(i);
+        int low = 1, high = n, ans = -1;
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (ok(mid, s, k, pos)) {
@@ -19,8 +15,7 @@ class Solution {
         }
         return ans;
     }
-
-    static boolean ok(int mid, String s, int k, ArrayList<ArrayList<Integer>> pos) {
+    private static boolean ok(int mid, String s, int k, ArrayList<ArrayList<Integer>> pos) {
         int n = s.length();
         int maxi = 0;
         for (int ch = 'A'; ch <= 'Z'; ch++) {
@@ -32,12 +27,10 @@ class Solution {
         }
         return maxi >= mid;
     }
-
-    static int solve(ArrayList<Integer> res, int k, String s) {
+    private static int solve(ArrayList<Integer> res, int k, String s) {
         int n = res.size();
         int left = 0 , right = 0;
-        int current_maxi = 0;
-        int maxi = 0;
+        int current_maxi = 0, maxi = 0;
         while (left < n) {
             while (right + 1 < n && res.get(right + 1) - res.get(right) - 1 <= k) {
                 k -= res.get(right + 1) - res.get(right) - 1;
