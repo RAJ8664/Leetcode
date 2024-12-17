@@ -69,6 +69,7 @@ Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
@@ -672,6 +673,7 @@ Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
 | [0282-expression-add-operators](https://github.com/RAJ8664/Leetcode/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
