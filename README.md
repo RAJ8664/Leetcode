@@ -1,6 +1,8 @@
 # Leetcode
 #Leetcode Profile https://leetcode.com/u/RkRoy/
 
+![Alt](https://repobeats.axiom.co/api/embed/66d4dc0e5da41cc7bb69b40d14848d53b426fbcf.svg "Repobeats analytics image")
+
 Leetcode Solutions
 
 <!---LeetCode Topics Start-->
