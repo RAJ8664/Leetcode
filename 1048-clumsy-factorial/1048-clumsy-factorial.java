@@ -20,7 +20,6 @@ class Solution {
         }
         res.add(current_res);
         if (res.size() == 0) return current_res;
-        System.out.println(res);
         int ans = res.get(0);
         for (int i = 1; i < res.size(); i++) ans -= res.get(i);
         return ans;
