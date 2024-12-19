@@ -3,7 +3,6 @@ class RecentCounter {
     public RecentCounter() {
         q = new LinkedList<>();
     }
-    
     public int ping(int t) {    
         while (q.size() > 0 && q.peek() < t - 3000) q.poll();
         q.add(t);
