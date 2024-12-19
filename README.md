@@ -128,6 +128,7 @@ Leetcode Solutions
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RAJ8664/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/RAJ8664/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -284,6 +285,7 @@ Leetcode Solutions
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -387,6 +389,7 @@ Leetcode Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RAJ8664/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -656,6 +659,7 @@ Leetcode Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
