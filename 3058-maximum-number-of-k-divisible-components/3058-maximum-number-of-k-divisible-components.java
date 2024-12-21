@@ -20,8 +20,7 @@ class Solution {
         }
         return count;
     }
-
-    public static void dfs(int u , int par ,ArrayList<ArrayList<Integer>> adj , int values[],long res[]) {
+    public static void dfs(int u, int par, ArrayList<ArrayList<Integer>> adj, int values[], long res[]) {
         if(adj.get(u).size() == 1 && u != 1) {
             res[u] = values[u];
             return;
