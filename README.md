@@ -27,6 +27,7 @@ Leetcode Solutions
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/RAJ8664/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/RAJ8664/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Leetcode Solutions
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/RAJ8664/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/RAJ8664/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
