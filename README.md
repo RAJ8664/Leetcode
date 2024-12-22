@@ -1,6 +1,8 @@
 # Leetcode
 #Leetcode Profile https://leetcode.com/u/RkRoy/
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/RkRoy?theme=dark&font=Ubuntu&ext=heatmap)
+
 ![Alt](https://repobeats.axiom.co/api/embed/66d4dc0e5da41cc7bb69b40d14848d53b426fbcf.svg "Repobeats analytics image")
 
 Leetcode Solutions
