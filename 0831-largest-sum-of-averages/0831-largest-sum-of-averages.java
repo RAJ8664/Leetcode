@@ -12,13 +12,13 @@ class Solution {
         double sum = 0;
         if (k == 1) {
             for (int i = ind; i < arr.length; i++) sum += arr[i];
-            return dp[ind][k] = sum * 1.0 / (arr.length - ind);
+            return dp[ind][k] = sum / (arr.length - ind);
         }
         double maxi = 0.0, count = 0.0;
         for (int i = ind; i < arr.length; i++) {
             sum += arr[i];
             count++;
-            double current = sum / count * 1.0;
+            double current = sum / count;
             maxi = Math.max(maxi, current + solve(i + 1, k - 1, arr));
         }
         return dp[ind][k] = maxi;
