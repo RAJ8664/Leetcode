@@ -138,6 +138,7 @@ Leetcode Solutions
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/RAJ8664/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
@@ -273,6 +274,7 @@ Leetcode Solutions
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RAJ8664/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -508,6 +510,7 @@ Leetcode Solutions
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
