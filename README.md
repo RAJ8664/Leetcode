@@ -96,6 +96,7 @@ Leetcode Solutions
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
@@ -500,6 +501,7 @@ Leetcode Solutions
 | [0474-ones-and-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0806-domino-and-tromino-tiling](https://github.com/RAJ8664/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
