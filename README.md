@@ -132,6 +132,7 @@ Leetcode Solutions
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RAJ8664/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RAJ8664/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -206,6 +207,7 @@ Leetcode Solutions
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RAJ8664/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -309,6 +311,7 @@ Leetcode Solutions
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -414,6 +417,7 @@ Leetcode Solutions
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RAJ8664/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RAJ8664/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -861,6 +865,7 @@ Leetcode Solutions
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/RAJ8664/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/RAJ8664/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
