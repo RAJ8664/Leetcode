@@ -4,10 +4,8 @@ class Solution {
         int n = nums.length;
         dp = new double[n + 1][k + 1];
         for (double current[] : dp) Arrays.fill(current, Double.MIN_VALUE / 10.0);
-        double res = solve(0, k, nums);
-        return res;
+        return solve(0, k, nums);
     }
-
     private double solve(int ind, int k, int arr[]) {
         if (ind == arr.length) return 0;
         if (dp[ind][k] != Double.MIN_VALUE / 10.0) return dp[ind][k];
