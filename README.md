@@ -111,6 +111,7 @@ Leetcode Solutions
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
+| [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0901-advantage-shuffle](https://github.com/RAJ8664/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -268,6 +269,7 @@ Leetcode Solutions
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -774,6 +776,7 @@ Leetcode Solutions
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
