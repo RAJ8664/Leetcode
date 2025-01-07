@@ -138,6 +138,7 @@ Leetcode Solutions
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RAJ8664/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RAJ8664/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RAJ8664/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -281,6 +282,7 @@ Leetcode Solutions
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/RAJ8664/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RAJ8664/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -705,6 +707,7 @@ Leetcode Solutions
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
