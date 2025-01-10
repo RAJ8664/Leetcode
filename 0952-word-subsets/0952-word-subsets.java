@@ -4,9 +4,7 @@ class Solution {
         int freq[] = new int[26];
         for (int i = 0; i < m; i++) {
             int temp_freq[] = new int[26];
-            for (int j = 0; j < words2[i].length(); j++) {
-                temp_freq[words2[i].charAt(j) - 'a']++;
-            }
+            for (int j = 0; j < words2[i].length(); j++) temp_freq[words2[i].charAt(j) - 'a']++;
             for (int j = 0; j < 26; j++) freq[j] = Math.max(freq[j], temp_freq[j]);
         }
         int vis[] = new int[n];
