@@ -117,6 +117,7 @@ Leetcode Solutions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
+| [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -274,6 +275,7 @@ Leetcode Solutions
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -425,6 +427,7 @@ Leetcode Solutions
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
