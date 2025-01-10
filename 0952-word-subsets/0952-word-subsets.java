@@ -11,7 +11,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int temp_freq[] = new int[26];
             for (int j = 0; j < words1[i].length(); j++) temp_freq[words1[i].charAt(j) - 'a']++;
-            System.out.println(Arrays.toString(temp_freq));
             for (int j = 0; j < 26; j++) if (temp_freq[j] < freq[j]) vis[i] = 1;
         }
         List<String> res = new ArrayList<>();
