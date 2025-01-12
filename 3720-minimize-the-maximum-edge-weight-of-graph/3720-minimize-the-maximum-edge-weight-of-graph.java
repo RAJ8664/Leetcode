@@ -1,5 +1,4 @@
 class Solution {
-    private ArrayList<ArrayList<Pair>> adj;
     private ArrayList<ArrayList<Pair>> Revadj;
     static class Pair {
         int node, weight;
@@ -13,14 +12,10 @@ class Solution {
         }
     }
     public int minMaxWeight(int n, int[][] edges, int threshold) {
-        adj = new ArrayList<>(); Revadj = new ArrayList<>();
-        for (int i = 0; i <= n + 1; i++) {
-            adj.add(new ArrayList<>());
-            Revadj.add(new ArrayList<>());
-        }
+        Revadj = new ArrayList<>();
+        for (int i = 0; i <= n + 1; i++) Revadj.add(new ArrayList<>());
         for (int edge[] : edges) {
             int u = edge[0], v = edge[1], wt = edge[2];
-            adj.get(u).add(new Pair(v, wt));
             Revadj.get(v).add(new Pair(u, wt));
         }
         if (check(n) == false) return -1;
@@ -40,7 +35,6 @@ class Solution {
                     dist[v] = Math.max(wt, curr_max);
                     q.offer(new Pair(v, dist[v]));
                 }
-
             }
         }
         int maxi = dist[0];
