@@ -316,6 +316,7 @@ Leetcode Solutions
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/RAJ8664/Leetcode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -463,6 +464,7 @@ Leetcode Solutions
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Trie
@@ -518,6 +520,7 @@ Leetcode Solutions
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
