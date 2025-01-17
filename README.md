@@ -138,6 +138,7 @@ Leetcode Solutions
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -454,6 +455,7 @@ Leetcode Solutions
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RAJ8664/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -533,6 +535,7 @@ Leetcode Solutions
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RAJ8664/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
+| [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
