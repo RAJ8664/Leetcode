@@ -10,7 +10,6 @@ class Solution {
             return "(" + first + " " + second + ")";
         }
     }
-
     static class custom_sort implements Comparator<Pair> {
         @Override
         public int compare(Pair first, Pair second) {
