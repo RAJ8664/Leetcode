@@ -18,10 +18,10 @@ class Solution {
             temp2 = second.freq;
             for (int i = 0; i < 30; i++) {
                 if (temp1[i] == temp2[i]) continue;
-                if (temp1[i] > temp2[i]) return 1;
-                return -1;
+                if (temp1[i] > temp2[i]) return -1;
+                return 1;
             }
-            return Integer.compare(second.ch, first.ch);
+            return Integer.compare(first.ch, second.ch);
         }
     }
     public String rankTeams(String[] votes) {
@@ -44,6 +44,6 @@ class Solution {
         Collections.sort(res, new custom_sort());
         StringBuilder ans = new StringBuilder();
         for (int i = 0; i < res.size(); i++) ans.append(res.get(i).ch);
-        return ans.reverse().toString();
+        return ans.toString();
     }
 }
