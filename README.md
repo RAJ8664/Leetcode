@@ -116,6 +116,7 @@ Leetcode Solutions
 | [0901-advantage-shuffle](https://github.com/RAJ8664/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -369,6 +370,7 @@ Leetcode Solutions
 | [0838-design-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
+| [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 | [0969-number-of-recent-calls](https://github.com/RAJ8664/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1337-design-skiplist](https://github.com/RAJ8664/Leetcode/tree/master/1337-design-skiplist) |
@@ -517,6 +519,7 @@ Leetcode Solutions
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -670,6 +673,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 ## Greedy
 |  |
 | ------- |
