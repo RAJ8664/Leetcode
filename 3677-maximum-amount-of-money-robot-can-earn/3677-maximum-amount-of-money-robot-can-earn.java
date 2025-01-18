@@ -3,12 +3,12 @@ class Solution {
     public int maximumAmount(int[][] coins) {
         int n = coins.length, m = coins[0].length;
         dp = new int[n + 1][m + 1][3];
-        for (int current[][] : dp) for (int current1[] : current) Arrays.fill(current1, -1);
+        for (int current[][] : dp) for (int current1[] : current) Arrays.fill(current1, (int)(-1e9));
         return solve(0, 0, 2, coins);
     }
     private int solve(int row, int col, int power, int grid[][]) {
         if (row < 0 || col < 0 || row >= grid.length || col >= grid[0].length) return Integer.MIN_VALUE / 10;
-        if (dp[row][col][power] != -1) return dp[row][col][power];
+        if (dp[row][col][power] != (int)(-1e9)) return dp[row][col][power];
         if (row == grid.length - 1 && col == grid[0].length - 1) {
             if (grid[row][col] > 0) return grid[row][col];
             else if (power > 0) return 0;
