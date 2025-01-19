@@ -1,50 +1,59 @@
-public class Solution {
-    int[] dx = {0, 0, 1, -1};
-    int[] dy = {1, -1, 0, 0};
-    List<int[]>[] g;
-    int start;
-    private int[] dijkstra() {
-        int[] dist = new int[g.length];
-        Arrays.fill(dist, Integer.MAX_VALUE / 2);
-        dist[start] = 0;
-        TreeSet<int[]> tree = new TreeSet<>((u, v) -> u[1] == v[1] ? u[0] - v[0] : u[1] - v[1]);
-        tree.add(new int[]{start, 0});
-        while (!tree.isEmpty()) {
-            int u = tree.first()[0], d = tree.pollFirst()[1];
-            for (int[] e : g[u]) {
-                int v = e[0], w = e[1];
-                if (Math.max(d, w) < dist[v]) {
-                    tree.remove(new int[]{v, dist[v]});
-                    dist[v] = Math.max(d, w);
-                    tree.add(new int[]{v, dist[v]});
-                }
-            }
+class Solution {
+    static class Pair {
+        int value, row, col;
+        public Pair(int value, int row, int col) {
+            this.value = value;
+            this.row = row;
+            this.col = col;
         }
-        return dist;
+        @Override
+        public String toString() {
+            return "(" + value + " " + row + " " + col + ")";
+        }
     }
-    public int trapRainWater(int[][] a) {
-        if (a == null || a.length == 0 || a[0].length == 0) return 0;
-        int r = a.length, c = a[0].length;
-        start = r * c;
-        g = new List[r * c + 1];
-        for (int i = 0; i < g.length; i++) g[i] = new ArrayList<>();
-        for (int i = 0; i < r; i++) {
-            for (int j = 0; j < c; j++) {
-                if (i == 0 || i == r - 1 || j == 0 || j == c - 1) g[start].add(new int[]{i * c + j, 0});
-                for (int k = 0; k < 4; k++) {
-                    int x = i + dx[k], y = j + dy[k];
-                    if (x >= 0 && x < r && y >= 0 && y < c) g[i * c + j].add(new int[]{x * c + y, a[i][j]});
+    static class custom_sort implements Comparator<Pair> {
+        @Override
+        public int compare(Pair first, Pair second) {
+            return Integer.compare(first.value, second.value);
+        }
+    }
+    public int trapRainWater(int[][] arr) {
+        int n = arr.length, m = arr[0].length;
+        PriorityQueue<Pair> pq = new PriorityQueue<>(new custom_sort());
+        int vis[][] = new int[n][m];
+        for (int j = 0; j < m; j++) {
+            vis[0][j] = 1;
+            pq.offer(new Pair(arr[0][j], 0, j));
+        }
+        for (int i = 0; i < n; i++) {
+            vis[i][m - 1] = 1;
+            pq.offer(new Pair(arr[i][m - 1], i, m - 1));
+        }
+        for (int i = 0; i < n; i++) {
+            vis[i][0] = 1;
+            pq.offer(new Pair(arr[i][0], i, 0));
+        }
+        for (int j = 0; j < m; j++) {
+            vis[n - 1][j] = 1;
+            pq.offer(new Pair(arr[n - 1][j], n - 1, j));
+        }
+        int dir[][] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        int res = 0;
+        while (pq.size() > 0) {
+            int cr = pq.peek().row;
+            int cc = pq.peek().col;
+            int cval = pq.peek().value;
+            pq.poll();
+            for (int dire[] : dir) {
+                int nr = cr + dire[0];
+                int nc = cc + dire[1];
+                if (nr >= 0 && nc >= 0 && nr < n && nc < m && vis[nr][nc] == 0) {
+                    vis[nr][nc] = 1;
+                    res += Math.max(0, cval - arr[nr][nc]);
+                    pq.offer(new Pair(Math.max(cval, arr[nr][nc]), nr, nc));
                 }
             }
         }
-        int ans = 0;
-        int[] dist = dijkstra();
-        for (int i = 0; i < r; i++) {
-            for (int j = 0; j < c; j++) {
-                int cb = dist[i * c + j];
-                if (cb > a[i][j]) ans += cb - a[i][j];
-            }
-        }
-        return ans;
+        return res;
     }
 }
