@@ -1,7 +1,6 @@
 class Solution {
     public int countServers(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+        int n = grid.length, m = grid[0].length;
         HashMap<Integer,Integer> row = new HashMap<>();
         HashMap<Integer,Integer> col = new HashMap<>();
         for(int i = 0; i < n; i++) {
@@ -11,7 +10,6 @@ class Solution {
                     col.put(j,col.getOrDefault(j,0) + 1);
                 }
             }
-
         }
         int count = 0;
         for(int i = 0; i < n; i++) {
