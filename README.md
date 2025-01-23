@@ -46,6 +46,7 @@ Leetcode Solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/RAJ8664/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
@@ -140,6 +141,7 @@ Leetcode Solutions
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -232,6 +234,7 @@ Leetcode Solutions
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -546,6 +549,7 @@ Leetcode Solutions
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
 | [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -625,6 +629,7 @@ Leetcode Solutions
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -902,6 +907,7 @@ Leetcode Solutions
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Binary Indexed Tree
