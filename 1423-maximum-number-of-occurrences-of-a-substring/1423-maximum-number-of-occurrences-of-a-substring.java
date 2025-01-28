@@ -1,13 +1,10 @@
 class Solution {
-    private ArrayList<String> ans;
+    private HashMap<String, Integer> map;
+    private int maxi;
     public int maxFreq(String s, int maxLetters, int minSize, int maxSize) {
         int n = s.length();
-        ans = new ArrayList<>();
+        map = new HashMap<>(); maxi = 0;
         for (int i = minSize; i <= maxSize; i++) getSubstringsOfLengthK(s, i, maxLetters);
-        HashMap<String, Integer> map = new HashMap<>();
-        for (String x : ans) map.put(x, map.getOrDefault(x, 0) + 1);
-        int maxi = 0;
-        for (int current : map.values()) maxi = Math.max(maxi, current);
         return maxi;
     }
     private ArrayList<String> getSubstringsOfLengthK(String s, int k, int maxLetters) {
@@ -18,7 +15,8 @@ class Solution {
                 String current = s.substring(i, i + k);
                 HashSet<Character> set = new HashSet<>();
                 for (int j = 0; j < current.length(); j++) set.add(current.charAt(j));
-                if (set.size() <= maxLetters) ans.add(current);
+                if (set.size() <= maxLetters) map.put(current, map.getOrDefault(current, 0) + 1);
+                maxi = Math.max(maxi, map.getOrDefault(current, 0));
             }
         }
         return res;
