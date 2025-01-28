@@ -35,7 +35,7 @@ class Solution {
         int mini = (int)(1e9);
         Collections.sort(res, new custom_sort());
         int cost[] = new int[res.size()];
-        for (int i = 0; i < res.size(); i++) cost[i] = res.get(i).idx2 - res.get(i).idx1 + 1;
+        for (int i = 0; i < res.size(); i++) cost[i] = res.get(i).len;
         SegMent_Tree seg = new SegMent_Tree(cost.length, cost);        
 
         /*
@@ -47,10 +47,11 @@ class Solution {
         */
 
         for (int i = 0; i < res.size(); i++) {
+            //binary search for closest j such that !(i , j) intersect --> then we can find the min val from j to res.size() - 1;
             int bs = binary_search(i, i + 1 , res.size() - 1, res);
             if (bs == -1) continue;
             long current = (int)(seg.query(1, 0, cost.length - 1, bs, cost.length - 1).mini);
-            current += res.get(i).idx2 - res.get(i).idx1 + 1;
+            current += res.get(i).len;
             mini = (int)(Math.min(mini, current));
         }
         if (mini == (int)(1e9)) return -1;
