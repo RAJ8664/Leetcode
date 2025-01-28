@@ -317,6 +317,7 @@ Leetcode Solutions
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/RAJ8664/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -478,6 +479,7 @@ Leetcode Solutions
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RAJ8664/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -705,6 +707,7 @@ Leetcode Solutions
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/RAJ8664/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/RAJ8664/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RAJ8664/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/RAJ8664/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
