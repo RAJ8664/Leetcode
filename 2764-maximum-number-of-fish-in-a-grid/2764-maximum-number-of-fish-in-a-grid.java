@@ -1,27 +1,49 @@
 class Solution {
-    int m, n;
-    int[][] raj = new int[][]{{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    static class Pair {
+        int row, col;
+        public Pair(int row, int col) {
+            this.row = row;
+            this.col = col;
+        }
+        @Override
+        public String toString() {
+            return "(" + row + " " + col + ")";
+        }
+    }
     public int findMaxFish(int[][] grid) {
-        m = grid.length;
-        n = grid[0].length;
-        int maxFish = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] > 0) {
-                    maxFish = Math.max(maxFish, dfs(grid, i, j));
+        int n = grid.length, m = grid[0].length;
+        int maxi = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] > 0) maxi = Math.max(maxi, dfs(i, j, grid));
+            }
+        }
+        return maxi;
+    }
+    private int dfs(int row, int col, int grid[][]) {
+        int n = grid.length, m = grid[0].length;
+        int fish = 0;
+        int vis[][] = new int[n + 1][m + 1];
+        int dir[][] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        Queue<Pair> q = new LinkedList<>();
+        q.offer(new Pair(row, col));
+        vis[row][col] = 1;
+        while (q.size() > 0) {
+            int cr = q.peek().row;
+            int cc = q.peek().col;
+            fish += grid[cr][cc];
+            q.poll();
+            for (int dire[] : dir) {
+                int nr = cr + dire[0];
+                int nc = cc + dire[1];
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] > 0 && vis[nr][nc] == 0) {
+                    vis[nr][nc] = 1;
+                    q.offer(new Pair(nr, nc));
                 }
             }
         }
-        return maxFish;
-    }
-    private int dfs(int[][] grid, int i, int j) {
-        int fish = grid[i][j];
-        grid[i][j] = 0;
-        for (int[] dir : raj) {
-            int ni = i + dir[0];
-            int nj = j + dir[1];
-            if (ni >= 0 && ni < m && nj >= 0 && nj < n && grid[ni][nj] > 0) fish += dfs(grid, ni, nj);
-        }
         return fish;
     }
+
+    
 }
