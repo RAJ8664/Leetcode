@@ -44,6 +44,7 @@ Leetcode Solutions
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0565-array-nesting](https://github.com/RAJ8664/Leetcode/tree/master/0565-array-nesting) |
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -243,6 +244,7 @@ Leetcode Solutions
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -926,6 +928,7 @@ Leetcode Solutions
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -986,6 +989,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/RAJ8664/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
