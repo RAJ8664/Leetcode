@@ -45,6 +45,7 @@ Leetcode Solutions
 | [0565-array-nesting](https://github.com/RAJ8664/Leetcode/tree/master/0565-array-nesting) |
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -117,6 +118,7 @@ Leetcode Solutions
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
+| [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
@@ -245,6 +247,7 @@ Leetcode Solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -644,6 +647,7 @@ Leetcode Solutions
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -929,6 +933,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
