@@ -296,6 +296,7 @@ Leetcode Solutions
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RAJ8664/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
@@ -585,6 +586,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/RAJ8664/Leetcode/tree/master/0337-house-robber-iii) |
 | [0376-wiggle-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -865,6 +867,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/RAJ8664/Leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
