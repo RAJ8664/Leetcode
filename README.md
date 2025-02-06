@@ -248,6 +248,7 @@ Leetcode Solutions
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
@@ -308,6 +309,7 @@ Leetcode Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJ8664/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/RAJ8664/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -471,6 +473,7 @@ Leetcode Solutions
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RAJ8664/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
