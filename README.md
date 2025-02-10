@@ -364,6 +364,7 @@ Leetcode Solutions
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/RAJ8664/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/RAJ8664/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -662,6 +663,7 @@ Leetcode Solutions
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/RAJ8664/Leetcode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -716,6 +718,7 @@ Leetcode Solutions
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RAJ8664/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RAJ8664/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RAJ8664/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/RAJ8664/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3651-transformed-array](https://github.com/RAJ8664/Leetcode/tree/master/3651-transformed-array) |
 ## Doubly-Linked List
