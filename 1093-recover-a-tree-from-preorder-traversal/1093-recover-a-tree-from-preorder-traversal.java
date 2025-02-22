@@ -9,7 +9,10 @@ class Solution {
                 ++curLevel;
                 ++i;
             }
-            while(i < n && S.charAt(i) >= '0' && S.charAt(i) <= '9') num = num * 10 + (S.charAt(i++) - '0');
+            while(i < n && S.charAt(i) >= '0' && S.charAt(i) <= '9') {
+                num = num * 10 + (S.charAt(i) - '0');
+                i++;
+            }
             TreeNode current = new TreeNode(num);
             map.put(curLevel, current);
             if(curLevel > 0) {
