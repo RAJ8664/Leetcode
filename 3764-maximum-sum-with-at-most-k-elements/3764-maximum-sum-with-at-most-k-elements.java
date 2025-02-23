@@ -6,18 +6,14 @@ class Solution {
         ArrayList<ArrayList<Integer>> elements = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             ArrayList<Integer> r = new ArrayList<>();
-            for (int j = 0; j < m; j++) {
-                r.add(grid[i][j]);
-            }
+            for (int j = 0; j < m; j++) r.add(grid[i][j]);
             Collections.sort(r);
             Collections.reverse(r);
             ArrayList<Integer> r1 = new ArrayList<>();
             for (int ele : r) if (r1.size() < limits[i]) r1.add(ele);
             elements.add(new ArrayList<>(r1));
         }
-        for (ArrayList<Integer> x : elements) {
-            for (int ele : x) arr.add(ele);
-        }
+        for (ArrayList<Integer> x : elements)  for (int ele : x) arr.add(ele);
         Collections.sort(arr);
         Collections.reverse(arr);
         long ans = 0;
