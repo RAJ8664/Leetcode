@@ -322,6 +322,7 @@ Leetcode Solutions
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RAJ8664/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/RAJ8664/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
