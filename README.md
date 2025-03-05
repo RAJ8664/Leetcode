@@ -318,6 +318,7 @@ Leetcode Solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAJ8664/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RAJ8664/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/RAJ8664/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
