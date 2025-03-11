@@ -9,8 +9,6 @@ class Solution {
                 map.put(s.charAt(right) , map.getOrDefault(s.charAt(right) , 0) + 1);
                 right++;
             }
-            
-            System.out.println(s.length() - right + 1);
             if(map.size() == 3) count += s.length() - (right) + 1;
             map.put(s.charAt(left) , map.getOrDefault(s.charAt(left) , 0) -1);
             if (map.get(s.charAt(left)) == 0) map.remove(s.charAt(left));
