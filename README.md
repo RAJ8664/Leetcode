@@ -369,6 +369,7 @@ Leetcode Solutions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/RAJ8664/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RAJ8664/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RAJ8664/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -551,6 +552,7 @@ Leetcode Solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RAJ8664/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -809,6 +811,7 @@ Leetcode Solutions
 | [1351-replace-the-substring-for-balanced-string](https://github.com/RAJ8664/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RAJ8664/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RAJ8664/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RAJ8664/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/RAJ8664/Leetcode/tree/master/1755-defuse-the-bomb) |
