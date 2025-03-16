@@ -1,9 +1,7 @@
 class Solution {
     public long repairCars(int[] ranks, int cars) {
         int n = ranks.length;
-        long ans = -1;
-        long low = 1;
-        long high = (long)(1e15);
+        long ans = -1, low = 1, high = (long)(1e15);
         while (low <= high) {
             long mid = low + (high - low) / 2;
             if (ok(mid, ranks, cars)) {
@@ -14,7 +12,6 @@ class Solution {
         }
         return ans;
     }
-
     private boolean ok(long mid, int ranks[] , int cars) {
         int n = ranks.length;
         long count = 1, total = 0;
