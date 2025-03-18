@@ -16,14 +16,11 @@ class Solution {
     private boolean ok(int mid, int arr[]) {
         int n = arr.length;
         int freq[] = new int[33];
-        HashSet<Integer> pos = new HashSet<>();
         for (int i = 0; i < mid; i++) {
             int current = arr[i];
             for (int j = 0; j < 32; j++) {
                 int bit = ((current >> j) & 1);
-                if (bit > 0) {
-                    freq[j]++;
-                }
+                if (bit > 0) freq[j]++;
             }
         }
         boolean flag = true;
@@ -33,22 +30,13 @@ class Solution {
         if (flag == true) return true;
         int start = 0;
         for (int i = mid; i < n; i++) {
-            int last = arr[start];
-            for (int j = 0; j < 32; j++) {
-                int bit = ((last >> j) & 1);
-                if (bit > 0) {
-                    freq[j]--;
-                }
-            }
-            int current = arr[i];
-            for (int j = 0; j < 32; j++) {
-                int bit = ((current >> j) & 1);
-                if (bit > 0) {
-                    freq[j]++;
-                }
-            }
+            int last = arr[start], current = arr[i];
             flag = true;
-            for (int j = 0; j <= 32; j++) {
+            for (int j = 0; j < 32; j++) {
+                int bit1 = ((last >> j) & 1);
+                int bit2 = ((current >> j) & 1);
+                if (bit1 > 0) freq[j]--;
+                if (bit2 > 0) freq[j]++;
                 if (freq[j] > 1) flag = false;
             }
             if (flag == true) return true;
