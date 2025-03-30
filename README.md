@@ -366,6 +366,7 @@ Leetcode Solutions
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
@@ -550,6 +551,7 @@ Leetcode Solutions
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -873,6 +875,7 @@ Leetcode Solutions
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
 | [0670-maximum-swap](https://github.com/RAJ8664/Leetcode/tree/master/0670-maximum-swap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RAJ8664/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0901-advantage-shuffle](https://github.com/RAJ8664/Leetcode/tree/master/0901-advantage-shuffle) |
@@ -944,6 +947,7 @@ Leetcode Solutions
 | [0061-rotate-list](https://github.com/RAJ8664/Leetcode/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJ8664/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0901-advantage-shuffle](https://github.com/RAJ8664/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
