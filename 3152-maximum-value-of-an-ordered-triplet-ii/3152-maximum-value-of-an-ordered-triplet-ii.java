@@ -16,9 +16,7 @@ class Solution {
         long res = 0;
         for (int i = 0; i < n; i++) {
             if (i + 2 < n) {
-                int left = pref_maxi[i];
-                int middle = nums[i + 1];
-                int right = suff_maxi[i + 2];
+                int left = pref_maxi[i], middle = nums[i + 1], right = suff_maxi[i + 2];
                 res = Math.max(res, (left - middle) * 1L * right);
             }
         }
