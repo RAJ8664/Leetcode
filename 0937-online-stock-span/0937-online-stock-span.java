@@ -1,20 +1,30 @@
 class StockSpanner {
-    private ArrayList<Integer> res;
+    private Stack<Pair> st;
+    static class Pair {
+        int price, span;
+        public Pair(int price, int span) {
+            this.price = price;
+            this.span = span;
+        }
+        @Override
+        public String toString() {
+            return "(" + price + " " + span + ")";
+        }
+    }
+
 
     public StockSpanner() {
-        res = new ArrayList<>();
+        st = new Stack<>();
     }
     
     public int next(int price) {
-        res.add(price);
-        int count = 0;
-        int ind = res.size() - 1;
-        while (ind >= 0) {
-            if (res.get(ind) <= price) count++;
-            else break;
-            ind--;
+        int span = 1;
+        while (st.size() > 0 && st.peek().price <= price) {
+            span += st.peek().span;
+            st.pop();
         }
-        return count;
+        st.add(new Pair(price, span));
+        return st.peek().span;
     }
 }
 
