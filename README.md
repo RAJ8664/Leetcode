@@ -107,6 +107,7 @@ Leetcode Solutions
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/RAJ8664/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/RAJ8664/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RAJ8664/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
@@ -712,6 +713,7 @@ Leetcode Solutions
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/RAJ8664/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/RAJ8664/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
