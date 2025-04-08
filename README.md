@@ -283,6 +283,7 @@ Leetcode Solutions
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3651-transformed-array](https://github.com/RAJ8664/Leetcode/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RAJ8664/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Breadth-First Search
@@ -635,6 +636,7 @@ Leetcode Solutions
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RAJ8664/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RAJ8664/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Trie
 |  |
 | ------- |
