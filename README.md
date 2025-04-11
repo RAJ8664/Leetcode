@@ -353,6 +353,7 @@ Leetcode Solutions
 | [2649-count-total-number-of-colored-cells](https://github.com/RAJ8664/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/RAJ8664/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -1179,6 +1180,7 @@ Leetcode Solutions
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
