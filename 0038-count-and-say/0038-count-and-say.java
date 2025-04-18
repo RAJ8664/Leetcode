@@ -2,15 +2,12 @@ class Solution {
     public String countAndSay(int n) {
         StringBuilder res = new StringBuilder();
         for (int i = 1; i <= n; i++) {
-            if (i == 1) {
-                res.append("1");
-            }
+            if (i == 1) res.append("1");
             else {
                 String current = res.toString();
                 res = new StringBuilder();
                 res.append(findRLE(current));
             }
-            System.out.println(res.toString());
         }
         return res.toString();
     }
@@ -21,9 +18,7 @@ class Solution {
         int count = 1;
         for (int i = 1; i < n; i++) {
             char current = s.charAt(i);
-            if (current == prev) {
-                count++;
-            }
+            if (current == prev) count++;
             else {
                 res.append(count);
                 res.append(prev);
