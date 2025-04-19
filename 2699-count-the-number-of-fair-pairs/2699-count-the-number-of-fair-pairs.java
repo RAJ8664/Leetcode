@@ -5,7 +5,6 @@ class Solution {
         Arrays.sort(nums);
         return solve(nums, upper) - solve(nums, lower - 1);
     }
-
     private long solve(int arr[], int sum) {
         int n = arr.length;
         long res = 0;
