@@ -161,6 +161,7 @@ Leetcode Solutions
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/RAJ8664/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
