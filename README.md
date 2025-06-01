@@ -398,6 +398,7 @@ Leetcode Solutions
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RAJ8664/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/RAJ8664/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1274,6 +1275,7 @@ Leetcode Solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1372,4 +1374,5 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
