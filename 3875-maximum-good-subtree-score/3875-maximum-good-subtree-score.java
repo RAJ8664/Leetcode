@@ -4,7 +4,6 @@ class Solution {
     private int dp[];
     private HashMap<Integer, ArrayList<Integer>> map;
     private int memo[][];
-    private int vis[][];
     public int goodSubtreeSum(int[] vals, int[] par) {
         int n = vals.length;
         map = new HashMap<>();
@@ -51,13 +50,13 @@ class Solution {
     private int GetAnswer(ArrayList<Integer> current) {
         int n = current.size();
         memo = new int[n + 1][1 << 10];
-        vis = new int[n + 1][1 << 10];
+        for (int temp[] : memo) Arrays.fill(temp, -1);
         int res = foo(0, 0, current);
         return res;
     }
     private int foo(int ind, int mask, ArrayList<Integer> arr) {
         if (ind >= arr.size()) return 0;
-        if (vis[ind][mask] != 0) return memo[ind][mask];
+        if (memo[ind][mask] != -1) return memo[ind][mask];
         int current_mask = mask, temp = arr.get(ind);
         boolean flag = true;
         while (temp > 0) {
@@ -69,7 +68,6 @@ class Solution {
             current_mask |= (1 << d);
             temp /= 10;
         }
-        vis[ind][mask] = 1;
         if (mask == 0) {
             int op1 = 0, op2 = 0;
             op1 = foo(ind + 1, mask, arr);
