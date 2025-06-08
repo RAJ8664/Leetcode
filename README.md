@@ -166,6 +166,7 @@ Leetcode Solutions
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RAJ8664/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/RAJ8664/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -513,6 +514,7 @@ Leetcode Solutions
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -1000,6 +1002,7 @@ Leetcode Solutions
 | [0901-advantage-shuffle](https://github.com/RAJ8664/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0991-array-of-doubled-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RAJ8664/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
