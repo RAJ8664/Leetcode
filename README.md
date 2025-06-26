@@ -143,6 +143,7 @@ Leetcode Solutions
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/RAJ8664/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/RAJ8664/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
@@ -825,6 +826,7 @@ Leetcode Solutions
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0806-domino-and-tromino-tiling](https://github.com/RAJ8664/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/RAJ8664/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
