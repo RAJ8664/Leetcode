@@ -484,6 +484,7 @@ Leetcode Solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RAJ8664/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RAJ8664/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -843,6 +844,7 @@ Leetcode Solutions
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/RAJ8664/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/RAJ8664/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RAJ8664/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1045,6 +1047,7 @@ Leetcode Solutions
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RAJ8664/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RAJ8664/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RAJ8664/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/RAJ8664/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RAJ8664/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1083,6 +1086,7 @@ Leetcode Solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Rolling Hash
 |  |
