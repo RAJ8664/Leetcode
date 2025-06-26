@@ -210,6 +210,7 @@ Leetcode Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RAJ8664/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1830-count-good-meals](https://github.com/RAJ8664/Leetcode/tree/master/1830-count-good-meals) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RAJ8664/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -687,6 +688,7 @@ Leetcode Solutions
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RAJ8664/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1830-count-good-meals](https://github.com/RAJ8664/Leetcode/tree/master/1830-count-good-meals) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
