@@ -295,6 +295,7 @@ Leetcode Solutions
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/RAJ8664/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -1073,6 +1074,7 @@ Leetcode Solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/RAJ8664/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/RAJ8664/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RAJ8664/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RAJ8664/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
