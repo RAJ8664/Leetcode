@@ -293,6 +293,7 @@ Leetcode Solutions
 | [2792-neighboring-bitwise-xor](https://github.com/RAJ8664/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
+| [2845-find-the-value-of-the-partition](https://github.com/RAJ8664/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/RAJ8664/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -565,6 +566,7 @@ Leetcode Solutions
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RAJ8664/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
+| [2845-find-the-value-of-the-partition](https://github.com/RAJ8664/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAJ8664/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
