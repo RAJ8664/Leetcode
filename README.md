@@ -165,6 +165,7 @@ Leetcode Solutions
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0991-array-of-doubled-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/RAJ8664/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/RAJ8664/Leetcode/tree/master/1028-interval-list-intersections) |
@@ -461,6 +462,7 @@ Leetcode Solutions
 | [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RAJ8664/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -858,6 +860,7 @@ Leetcode Solutions
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/RAJ8664/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RAJ8664/Leetcode/tree/master/1063-best-sightseeing-pair) |
