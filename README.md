@@ -306,6 +306,7 @@ Leetcode Solutions
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RAJ8664/Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3151-minimum-processing-time](https://github.com/RAJ8664/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RAJ8664/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RAJ8664/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RAJ8664/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -576,6 +577,7 @@ Leetcode Solutions
 | [2845-find-the-value-of-the-partition](https://github.com/RAJ8664/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3151-minimum-processing-time](https://github.com/RAJ8664/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAJ8664/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RAJ8664/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1090,6 +1092,7 @@ Leetcode Solutions
 | [2681-put-marbles-in-bags](https://github.com/RAJ8664/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/RAJ8664/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3151-minimum-processing-time](https://github.com/RAJ8664/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RAJ8664/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RAJ8664/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
