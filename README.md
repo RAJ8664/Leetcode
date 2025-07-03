@@ -215,6 +215,7 @@ Leetcode Solutions
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [1783-ways-to-make-a-fair-array](https://github.com/RAJ8664/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RAJ8664/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1266,6 +1267,7 @@ Leetcode Solutions
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RAJ8664/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAJ8664/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1783-ways-to-make-a-fair-array](https://github.com/RAJ8664/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RAJ8664/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
