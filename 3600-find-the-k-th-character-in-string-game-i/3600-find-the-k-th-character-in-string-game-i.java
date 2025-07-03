@@ -1,17 +1,21 @@
 class Solution {
     public char kthCharacter(int k) {
-        String res = "0";
+        StringBuilder current = new StringBuilder();
+        current.append("a");
         while (true) {
-            if (res.length() >= k) break;
-            String to_append = "";
-            for (int i = 0; i < res.length(); i++) {
-                int current = res.charAt(i) - '0';
-                current++;
-                current = current % 26;
-                to_append += current;
+            if (current.length() >= k)
+                break;
+            StringBuilder newString = new StringBuilder();
+            String tempCurrent = current.toString();
+            for (int i = 0; i < tempCurrent.length(); i++) {
+                char c = tempCurrent.charAt(i);
+                if (c == 'z')
+                    newString.append('a');
+                else
+                    newString.append((char)(c + 1));
             }
-            res += to_append;
+            current.append(newString);
         }
-        return (char)(res.charAt(k - 1) - '0' + 'a');
+        return current.toString().charAt(k - 1);
     }
 }
