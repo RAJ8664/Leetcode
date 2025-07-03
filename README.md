@@ -112,6 +112,7 @@ Leetcode Solutions
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/RAJ8664/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0284-peeking-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0284-peeking-iterator) |
 | [0324-wiggle-sort-ii](https://github.com/RAJ8664/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0368-largest-divisible-subset](https://github.com/RAJ8664/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -595,6 +596,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1055,6 +1057,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0284-peeking-iterator) |
 | [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 ## Greedy
 |  |
