@@ -427,6 +427,7 @@ Leetcode Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/RAJ8664/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RAJ8664/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3817-maximum-containers-on-a-ship](https://github.com/RAJ8664/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -999,6 +1000,7 @@ Leetcode Solutions
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RAJ8664/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RAJ8664/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/RAJ8664/Leetcode/tree/master/3651-transformed-array) |
 ## Doubly-Linked List
 |  |
@@ -1126,6 +1128,7 @@ Leetcode Solutions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/RAJ8664/Leetcode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1377,6 +1380,7 @@ Leetcode Solutions
 | [3394-minimum-array-end](https://github.com/RAJ8664/Leetcode/tree/master/3394-minimum-array-end) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/RAJ8664/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RAJ8664/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Enumeration
 |  |
