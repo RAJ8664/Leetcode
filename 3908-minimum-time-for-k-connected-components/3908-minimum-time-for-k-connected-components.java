@@ -10,18 +10,6 @@ class Solution {
         public String toString() {
             return "(" + u + " " + v + " " + time + ")";
         }
-        @Override
-        public boolean equals(Object obj) {
-            if (this == obj) return true;
-            if (obj == null || getClass() != obj.getClass()) 
-                return false;
-            Edge current = (Edge)(obj);
-            return current.u == u && current.v == v && current.time == time;
-        }
-        @Override
-        public int hashCode() {
-            return Objects.hash(u, v, time);
-        }
     }
     static class DSU {
         int size[];
