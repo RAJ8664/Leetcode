@@ -236,6 +236,7 @@ Leetcode Solutions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -632,6 +633,7 @@ Leetcode Solutions
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2434-design-a-number-container-system](https://github.com/RAJ8664/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -739,6 +741,7 @@ Leetcode Solutions
 | [1830-count-good-meals](https://github.com/RAJ8664/Leetcode/tree/master/1830-count-good-meals) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
