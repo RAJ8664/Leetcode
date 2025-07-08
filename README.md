@@ -523,6 +523,7 @@ Leetcode Solutions
 | [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -921,6 +922,7 @@ Leetcode Solutions
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/RAJ8664/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/RAJ8664/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RAJ8664/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1311,6 +1313,7 @@ Leetcode Solutions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/RAJ8664/Leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/RAJ8664/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2358-number-of-ways-to-split-array](https://github.com/RAJ8664/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/RAJ8664/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
