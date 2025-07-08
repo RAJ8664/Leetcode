@@ -260,6 +260,7 @@ Leetcode Solutions
 | [2262-solving-questions-with-brainpower](https://github.com/RAJ8664/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RAJ8664/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -517,6 +518,7 @@ Leetcode Solutions
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RAJ8664/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
@@ -639,6 +641,7 @@ Leetcode Solutions
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
+| [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2434-design-a-number-container-system](https://github.com/RAJ8664/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -754,6 +757,7 @@ Leetcode Solutions
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RAJ8664/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RAJ8664/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
