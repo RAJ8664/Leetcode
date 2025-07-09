@@ -361,6 +361,7 @@ Leetcode Solutions
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RAJ8664/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 ## Breadth-First Search
 |  |
@@ -1102,6 +1103,7 @@ Leetcode Solutions
 | [3483-alternating-groups-ii](https://github.com/RAJ8664/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RAJ8664/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Iterator
 |  |
 | ------- |
@@ -1165,6 +1167,7 @@ Leetcode Solutions
 | [3351-maximize-happiness-of-selected-children](https://github.com/RAJ8664/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RAJ8664/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Data Stream
 |  |
 | ------- |
