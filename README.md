@@ -361,6 +361,7 @@ Leetcode Solutions
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RAJ8664/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 ## Breadth-First Search
@@ -448,6 +449,7 @@ Leetcode Solutions
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RAJ8664/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RAJ8664/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3817-maximum-containers-on-a-ship](https://github.com/RAJ8664/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## String
@@ -622,6 +624,7 @@ Leetcode Solutions
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/RAJ8664/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Design
 |  |
 | ------- |
@@ -942,6 +945,7 @@ Leetcode Solutions
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -1569,4 +1573,5 @@ Leetcode Solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RAJ8664/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 <!---LeetCode Topics End-->
