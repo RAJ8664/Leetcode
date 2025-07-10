@@ -327,6 +327,7 @@ Leetcode Solutions
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/RAJ8664/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/RAJ8664/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RAJ8664/Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -957,6 +958,7 @@ Leetcode Solutions
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2848-special-permutations](https://github.com/RAJ8664/Leetcode/tree/master/2848-special-permutations) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/RAJ8664/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
