@@ -12,6 +12,7 @@ Leetcode Solutions
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -44,6 +45,7 @@ Leetcode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
@@ -84,6 +86,7 @@ Leetcode Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -680,6 +683,7 @@ Leetcode Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
