@@ -252,6 +252,7 @@ Leetcode Solutions
 | [2107-find-unique-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/RAJ8664/Leetcode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RAJ8664/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/RAJ8664/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -396,6 +397,7 @@ Leetcode Solutions
 | [1558-course-schedule-iv](https://github.com/RAJ8664/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/RAJ8664/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RAJ8664/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1529,6 +1531,7 @@ Leetcode Solutions
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RAJ8664/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RAJ8664/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/RAJ8664/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RAJ8664/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RAJ8664/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
