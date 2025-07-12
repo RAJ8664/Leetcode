@@ -677,6 +677,7 @@ Leetcode Solutions
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2161-stock-price-fluctuation](https://github.com/RAJ8664/Leetcode/tree/master/2161-stock-price-fluctuation) |
+| [2178-walking-robot-simulation-ii](https://github.com/RAJ8664/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2434-design-a-number-container-system](https://github.com/RAJ8664/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -1080,6 +1081,7 @@ Leetcode Solutions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2178-walking-robot-simulation-ii](https://github.com/RAJ8664/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2228-watering-plants-ii](https://github.com/RAJ8664/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
