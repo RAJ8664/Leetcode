@@ -149,6 +149,7 @@ Leetcode Solutions
 | [0739-daily-temperatures](https://github.com/RAJ8664/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RAJ8664/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0769-largest-plus-sign](https://github.com/RAJ8664/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/RAJ8664/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -938,6 +939,7 @@ Leetcode Solutions
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0769-largest-plus-sign](https://github.com/RAJ8664/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0806-domino-and-tromino-tiling](https://github.com/RAJ8664/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/RAJ8664/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
