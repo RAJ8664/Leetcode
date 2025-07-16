@@ -197,6 +197,7 @@ Leetcode Solutions
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -610,6 +611,7 @@ Leetcode Solutions
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RAJ8664/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -707,6 +709,7 @@ Leetcode Solutions
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1262-online-majority-element-in-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/RAJ8664/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -963,6 +966,7 @@ Leetcode Solutions
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/RAJ8664/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/RAJ8664/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
