@@ -140,6 +140,7 @@ Leetcode Solutions
 | [0554-brick-wall](https://github.com/RAJ8664/Leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/RAJ8664/Leetcode/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -955,6 +956,7 @@ Leetcode Solutions
 | [0474-ones-and-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
@@ -1269,6 +1271,7 @@ Leetcode Solutions
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/RAJ8664/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
@@ -1369,6 +1372,7 @@ Leetcode Solutions
 | [0282-expression-add-operators](https://github.com/RAJ8664/Leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/RAJ8664/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1510,6 +1514,7 @@ Leetcode Solutions
 | [0318-maximum-product-of-word-lengths](https://github.com/RAJ8664/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -1616,6 +1621,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2848-special-permutations](https://github.com/RAJ8664/Leetcode/tree/master/2848-special-permutations) |
