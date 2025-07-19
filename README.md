@@ -69,6 +69,7 @@ Leetcode Solutions
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2213-find-all-people-with-secret](https://github.com/RAJ8664/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RAJ8664/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RAJ8664/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -412,6 +413,7 @@ Leetcode Solutions
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/RAJ8664/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2213-find-all-people-with-secret](https://github.com/RAJ8664/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RAJ8664/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -636,6 +638,7 @@ Leetcode Solutions
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-find-all-people-with-secret](https://github.com/RAJ8664/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RAJ8664/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RAJ8664/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RAJ8664/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -1491,6 +1494,7 @@ Leetcode Solutions
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RAJ8664/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
+| [2213-find-all-people-with-secret](https://github.com/RAJ8664/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RAJ8664/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RAJ8664/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1586,6 +1590,7 @@ Leetcode Solutions
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RAJ8664/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/RAJ8664/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2201-valid-arrangement-of-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2213-find-all-people-with-secret](https://github.com/RAJ8664/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RAJ8664/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RAJ8664/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
