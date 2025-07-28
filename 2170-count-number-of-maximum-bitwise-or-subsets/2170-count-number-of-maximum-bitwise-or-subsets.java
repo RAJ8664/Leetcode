@@ -11,7 +11,6 @@ class Solution {
             }
             maxi = Math.max(maxi, res2);
         }
-        
         int count = 0;
         for(ArrayList<Integer> current : res) {
             int res1 = 0;
@@ -22,7 +21,6 @@ class Solution {
         }
         return count;
     }
-
     private void solve(int ind, int arr[], ArrayList<Integer> temp) {
         if(ind > arr.length - 1) {
             res.add(new ArrayList<>(temp));
