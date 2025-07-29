@@ -391,6 +391,7 @@ Leetcode Solutions
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RAJ8664/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/RAJ8664/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 ## Breadth-First Search
@@ -601,6 +602,7 @@ Leetcode Solutions
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RAJ8664/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/RAJ8664/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## Sorting
 |  |
 | ------- |
