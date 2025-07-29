@@ -184,6 +184,7 @@ Leetcode Solutions
 | [1025-minimum-cost-for-tickets](https://github.com/RAJ8664/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/RAJ8664/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/RAJ8664/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RAJ8664/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/RAJ8664/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -990,6 +991,7 @@ Leetcode Solutions
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/RAJ8664/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/RAJ8664/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1063-best-sightseeing-pair](https://github.com/RAJ8664/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/RAJ8664/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -1422,6 +1424,7 @@ Leetcode Solutions
 | [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/RAJ8664/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
