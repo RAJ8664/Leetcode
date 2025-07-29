@@ -171,6 +171,7 @@ Leetcode Solutions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 | [0945-snakes-and-ladders](https://github.com/RAJ8664/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -985,6 +986,7 @@ Leetcode Solutions
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RAJ8664/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/RAJ8664/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1545,6 +1547,7 @@ Leetcode Solutions
 | [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
