@@ -305,6 +305,7 @@ Leetcode Solutions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RAJ8664/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RAJ8664/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAJ8664/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RAJ8664/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RAJ8664/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1564,6 +1565,7 @@ Leetcode Solutions
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/RAJ8664/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RAJ8664/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAJ8664/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RAJ8664/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RAJ8664/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RAJ8664/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -1695,6 +1697,7 @@ Leetcode Solutions
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAJ8664/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RAJ8664/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Combinatorics
 |  |
