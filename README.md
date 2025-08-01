@@ -112,6 +112,7 @@ Leetcode Solutions
 | ------- |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
 | [0174-dungeon-game](https://github.com/RAJ8664/Leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/RAJ8664/Leetcode/tree/master/0218-the-skyline-problem) |
@@ -962,6 +963,7 @@ Leetcode Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAJ8664/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/RAJ8664/Leetcode/tree/master/0174-dungeon-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
