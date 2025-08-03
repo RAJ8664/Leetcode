@@ -55,6 +55,7 @@ Leetcode Solutions
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0565-array-nesting](https://github.com/RAJ8664/Leetcode/tree/master/0565-array-nesting) |
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -520,6 +521,7 @@ Leetcode Solutions
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RAJ8664/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
@@ -691,6 +693,7 @@ Leetcode Solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -786,6 +789,7 @@ Leetcode Solutions
 | [0554-brick-wall](https://github.com/RAJ8664/Leetcode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
@@ -890,6 +894,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/RAJ8664/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
