@@ -913,6 +913,7 @@ Leetcode Solutions
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RAJ8664/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/RAJ8664/Leetcode/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/RAJ8664/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/RAJ8664/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
