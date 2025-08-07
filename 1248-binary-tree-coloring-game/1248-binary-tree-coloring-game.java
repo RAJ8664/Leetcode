@@ -45,9 +45,6 @@ class Solution {
 
         for (int i = 1; i <= n; i++) {
             //what will happen i choose this node as second player start point;
-            if (i == 4) {
-                System.out.println(lca(i, x));
-            }
             if (i != x) {
                 int lca = lca(i, x);
                 if (lca == x || lca == i) {
@@ -60,21 +57,16 @@ class Solution {
                         secondPlayer += subtree[newI];
                         firstPlayer += n - secondPlayer;
                         if (secondPlayer > firstPlayer) {
-                            System.out.println(i);
                             return true;
                         }
                     }
                     else {
                         int times = (depth[x] - depth[i]) / 2;
                         int newX = findKthParent(x, times);
-                        System.out.println(newX);
                         firstPlayer += subtree[newX];
                         secondPlayer += n - firstPlayer;
-                        
-                        if (secondPlayer > firstPlayer) {
-                            System.out.println(i);
+                        if (secondPlayer > firstPlayer) 
                             return true;
-                        }
                     }
                 }
                 else {
@@ -88,10 +80,8 @@ class Solution {
                         int newX = findKthParent(x, times);
                         firstPlayer += subtree[newX];
                         secondPlayer += n - firstPlayer;
-                        if (secondPlayer > firstPlayer){
-                            System.out.println(i);
+                        if (secondPlayer > firstPlayer)
                             return true;
-                        }
                     }
                     else if (depth[i] < depth[x]) {
                         int totalNode = dist - 1;
@@ -99,10 +89,8 @@ class Solution {
                         int newI = findKthParent(i, times);
                         secondPlayer += subtree[newI];
                         firstPlayer += n - secondPlayer;
-                        if (secondPlayer > firstPlayer) {
-                            System.out.println(i);
+                        if (secondPlayer > firstPlayer) 
                             return true;
-                        }
                     }
                     else {
                         //what if both of them have same depth;
@@ -110,10 +98,8 @@ class Solution {
                         int newI = findKthParent(i, times);
                         secondPlayer += subtree[newI];
                         firstPlayer += n - secondPlayer;
-                        if (secondPlayer > firstPlayer) {
-                            System.out.println(i);
+                        if (secondPlayer > firstPlayer) 
                             return true;
-                        }
                     }
                 }
             }
