@@ -35,6 +35,7 @@ Leetcode Solutions
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
+| [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RAJ8664/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -81,6 +82,7 @@ Leetcode Solutions
 | [2213-find-all-people-with-secret](https://github.com/RAJ8664/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RAJ8664/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RAJ8664/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/RAJ8664/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -326,6 +328,7 @@ Leetcode Solutions
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAJ8664/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RAJ8664/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RAJ8664/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RAJ8664/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -499,6 +502,7 @@ Leetcode Solutions
 | [2050-count-good-numbers](https://github.com/RAJ8664/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/RAJ8664/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/RAJ8664/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RAJ8664/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1648,6 +1652,7 @@ Leetcode Solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RAJ8664/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/RAJ8664/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
