@@ -24,6 +24,7 @@ Leetcode Solutions
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/RAJ8664/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -62,6 +63,7 @@ Leetcode Solutions
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -103,6 +105,7 @@ Leetcode Solutions
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/RAJ8664/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
