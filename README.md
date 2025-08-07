@@ -579,6 +579,7 @@ Leetcode Solutions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RAJ8664/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RAJ8664/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -1376,12 +1377,14 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/RAJ8664/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -1390,6 +1393,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
 ## Two Pointers
 |  |
