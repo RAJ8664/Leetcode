@@ -43,6 +43,7 @@ Leetcode Solutions
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RAJ8664/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RAJ8664/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -91,6 +92,7 @@ Leetcode Solutions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RAJ8664/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RAJ8664/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RAJ8664/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RAJ8664/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1086,6 +1088,7 @@ Leetcode Solutions
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RAJ8664/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RAJ8664/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
