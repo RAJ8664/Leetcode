@@ -477,6 +477,7 @@ Leetcode Solutions
 | ------- |
 | [0223-rectangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/RAJ8664/Leetcode/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/RAJ8664/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1361,6 +1362,7 @@ Leetcode Solutions
 | [0025-reverse-nodes-in-k-group](https://github.com/RAJ8664/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/RAJ8664/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/RAJ8664/Leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/RAJ8664/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1625,6 +1627,7 @@ Leetcode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RAJ8664/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
