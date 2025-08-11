@@ -1,23 +1,17 @@
 class Solution {
     private ArrayList<Integer> arr;
     private int mod = (int)(1e9 + 7);
-
     public int[] productQueries(int n, int[][] queries) {
         arr = new ArrayList<>();
-
-        while (n > 0) {
+        while (n > 0) 
             n -= change(n);
-        }
-
         Collections.sort(arr);
-
         long pre[] = new long[arr.size()];
         long prod = 1;
         for (int i = 0; i < arr.size(); i++) {
             prod = (prod * arr.get(i)) % mod;
             pre[i] = prod;
         }
-
         int res[] = new int[queries.length];
         int k = 0;
         for (int[] temp : queries) {
@@ -33,7 +27,6 @@ class Solution {
         }
         return res;
     }
-
     private int change(int n) {
         int current = 1;
         while (current * 2 <= n) {
@@ -42,7 +35,6 @@ class Solution {
         arr.add(current);
         return current;
     }
-
     private long modPow(long base, long exp, int m) {
         long result = 1;
         base %= m;
