@@ -487,6 +487,7 @@ Leetcode Solutions
 | [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/RAJ8664/Leetcode/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/RAJ8664/Leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/RAJ8664/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/RAJ8664/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -1378,6 +1379,7 @@ Leetcode Solutions
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RAJ8664/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/RAJ8664/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/RAJ8664/Leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/RAJ8664/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
