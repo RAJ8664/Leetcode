@@ -132,6 +132,7 @@ Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/RAJ8664/Leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
@@ -1429,6 +1430,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAJ8664/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/RAJ8664/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RAJ8664/Leetcode/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJ8664/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RAJ8664/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
