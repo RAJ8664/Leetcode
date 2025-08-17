@@ -1,0 +1,52 @@
+// ==UserScript==
+// @name         LeetCode Vim :Leet run/submit
+// @namespace    http://tampermonkey.net/
+// @version      1.2
+// @description  Add :Leet run and :Leet submit in LeetCode Vim mode (Monaco editor)
+// @match        https://leetcode.com/*
+// @grant        none
+// ==/UserScript==
+
+//Install TamperMonkey extension and add this script to tampermonkey.
+(function() {
+    'use strict';
+
+    // Send a key event directly to Monaco editor
+    function sendKeyToEditor(key, ctrl=false, alt=false, shift=false) {
+        const editorEl = document.querySelector('.monaco-editor textarea');
+        if (!editorEl) return;
+        editorEl.focus();
+        editorEl.dispatchEvent(new KeyboardEvent('keydown', {key, ctrlKey: ctrl, altKey: alt, shiftKey: shift, bubbles:true}));
+        editorEl.dispatchEvent(new KeyboardEvent('keyup', {key, ctrlKey: ctrl, altKey: alt, shiftKey: shift, bubbles:true}));
+    }
+
+    // Wait for Monaco Vim to load
+    function waitForVim(callback) {
+        const id = setInterval(() => {
+            const Vim = window.monacoVim && window.monacoVim.VimMode && window.monacoVim.VimMode.Vim;
+            if (Vim) {
+                clearInterval(id);
+                callback(Vim);
+            }
+        }, 500);
+    }
+
+    waitForVim((Vim) => {
+        // Define :Leet ex-command
+        Vim.defineEx('Leet', 'Leet', (cm, params) => {
+            const arg = (params.args && params.args[0])?.toLowerCase();
+            if (!arg) return;
+
+            if (arg === 'run') {
+                sendKeyToEditor("'", true);       // Ctrl + '
+            } else if (arg === 'submit') {
+                sendKeyToEditor("Enter", true);   // Ctrl + Enter
+            }
+        });
+
+        // Map jj to <Esc> in insert mode
+        Vim.map('jj', '<Esc>', 'insert');
+
+        console.log("✅ :Leet run/submit/fullscreen ready + jj -> <Esc> mapping (Monaco Vim)");
+    });
+})();
