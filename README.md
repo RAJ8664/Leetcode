@@ -643,6 +643,7 @@ Leetcode Solutions
 | [2691-count-vowel-strings-in-ranges](https://github.com/RAJ8664/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RAJ8664/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3033-apply-operations-to-make-two-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RAJ8664/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RAJ8664/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1107,6 +1108,7 @@ Leetcode Solutions
 | [2848-special-permutations](https://github.com/RAJ8664/Leetcode/tree/master/2848-special-permutations) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RAJ8664/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RAJ8664/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [3033-apply-operations-to-make-two-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RAJ8664/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
