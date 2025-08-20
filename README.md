@@ -396,6 +396,7 @@ Leetcode Solutions
 | [3151-minimum-processing-time](https://github.com/RAJ8664/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RAJ8664/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RAJ8664/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/RAJ8664/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/RAJ8664/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RAJ8664/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1484,6 +1485,7 @@ Leetcode Solutions
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RAJ8664/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RAJ8664/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/RAJ8664/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/RAJ8664/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
