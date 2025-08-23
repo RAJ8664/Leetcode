@@ -417,6 +417,7 @@ Leetcode Solutions
 | [3427-special-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/RAJ8664/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RAJ8664/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/RAJ8664/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RAJ8664/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1208,6 +1209,7 @@ Leetcode Solutions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1737,6 +1739,7 @@ Leetcode Solutions
 | [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/RAJ8664/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RAJ8664/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Monotonic Queue
