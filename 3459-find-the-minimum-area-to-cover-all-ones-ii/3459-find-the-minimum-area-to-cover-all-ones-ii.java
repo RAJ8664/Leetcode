@@ -49,7 +49,6 @@ class Solution {
             for (int j = 0; j < m; j++)
                 res[j][n - 1 - i] = grid[i][j];
         }
-
         grid = new int[m][n];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++)
@@ -72,6 +71,8 @@ class Solution {
                 }
             }
         }
+        if (maxX == Integer.MIN_VALUE)
+            return 0;
         return (maxX - minX + 1) * (maxY - minY + 1);
     }
 }
