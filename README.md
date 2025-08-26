@@ -1841,6 +1841,7 @@ Leetcode Solutions
 | [0183-customers-who-never-order](https://github.com/RAJ8664/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/RAJ8664/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/RAJ8664/Leetcode/tree/master/0577-employee-bonus) |
+| [1670-patients-with-a-condition](https://github.com/RAJ8664/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/RAJ8664/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/RAJ8664/Leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Eulerian Circuit
