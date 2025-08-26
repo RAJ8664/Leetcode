@@ -1834,6 +1834,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RAJ8664/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/RAJ8664/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/RAJ8664/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0577-employee-bonus](https://github.com/RAJ8664/Leetcode/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/RAJ8664/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
