@@ -441,6 +441,7 @@ Leetcode Solutions
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RAJ8664/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1144,6 +1145,7 @@ Leetcode Solutions
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
 | ------- |
@@ -1220,6 +1222,7 @@ Leetcode Solutions
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RAJ8664/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/RAJ8664/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 ## Monotonic Stack
 |  |
@@ -1437,6 +1440,7 @@ Leetcode Solutions
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/RAJ8664/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Rolling Hash
 |  |
 | ------- |
