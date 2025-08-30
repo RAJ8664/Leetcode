@@ -133,6 +133,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/RAJ8664/Leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/RAJ8664/Leetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
@@ -860,6 +861,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RAJ8664/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/RAJ8664/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -1186,6 +1188,7 @@ Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RAJ8664/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/RAJ8664/Leetcode/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
