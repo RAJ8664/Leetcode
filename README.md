@@ -67,6 +67,7 @@ Leetcode Solutions
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1006,6 +1007,7 @@ Leetcode Solutions
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/RAJ8664/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/RAJ8664/Leetcode/tree/master/0859-design-circular-deque) |
@@ -1292,6 +1294,7 @@ Leetcode Solutions
 | ------- |
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Sliding Window
