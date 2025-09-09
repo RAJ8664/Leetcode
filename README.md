@@ -1038,6 +1038,7 @@ Leetcode Solutions
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/RAJ8664/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/RAJ8664/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RAJ8664/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -1146,6 +1147,7 @@ Leetcode Solutions
 | [2262-solving-questions-with-brainpower](https://github.com/RAJ8664/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/RAJ8664/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2554-minimum-total-distance-traveled](https://github.com/RAJ8664/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RAJ8664/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1286,6 +1288,7 @@ Leetcode Solutions
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2388-replace-elements-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/RAJ8664/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/RAJ8664/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2587-design-memory-allocator](https://github.com/RAJ8664/Leetcode/tree/master/2587-design-memory-allocator) |
