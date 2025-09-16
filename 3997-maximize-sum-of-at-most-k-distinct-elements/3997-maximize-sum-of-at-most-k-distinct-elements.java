@@ -6,7 +6,6 @@ class Solution {
             set.add(ele);
         int res[] = new int[Math.min(k, set.size())];
         int idx = 0;
-        System.out.println(set);
         while (k > 0 && set.size() > 0) {
             Integer curr = set.last();
             res[idx++] = curr;
