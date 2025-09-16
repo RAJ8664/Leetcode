@@ -316,6 +316,7 @@ Leetcode Solutions
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RAJ8664/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/RAJ8664/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -859,6 +860,7 @@ Leetcode Solutions
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RAJ8664/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1161,6 +1163,7 @@ Leetcode Solutions
 | [2078-maximum-compatibility-score-sum](https://github.com/RAJ8664/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RAJ8664/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/RAJ8664/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
@@ -1543,6 +1546,7 @@ Leetcode Solutions
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2228-watering-plants-ii](https://github.com/RAJ8664/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RAJ8664/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1587,6 +1591,7 @@ Leetcode Solutions
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
 | [2161-stock-price-fluctuation](https://github.com/RAJ8664/Leetcode/tree/master/2161-stock-price-fluctuation) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/RAJ8664/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -1779,6 +1784,7 @@ Leetcode Solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/RAJ8664/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1899,6 +1905,7 @@ Leetcode Solutions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2078-maximum-compatibility-score-sum](https://github.com/RAJ8664/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2848-special-permutations](https://github.com/RAJ8664/Leetcode/tree/master/2848-special-permutations) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Merge Sort
