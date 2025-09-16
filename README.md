@@ -333,6 +333,7 @@ Leetcode Solutions
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RAJ8664/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -551,6 +552,7 @@ Leetcode Solutions
 | [2050-count-good-numbers](https://github.com/RAJ8664/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -1211,6 +1213,7 @@ Leetcode Solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RAJ8664/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/RAJ8664/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RAJ8664/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1884,6 +1887,7 @@ Leetcode Solutions
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1585-the-kth-factor-of-n](https://github.com/RAJ8664/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RAJ8664/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bitmask
