@@ -159,6 +159,7 @@ Leetcode Solutions
 | [0384-shuffle-an-array](https://github.com/RAJ8664/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/RAJ8664/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/RAJ8664/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -845,6 +846,7 @@ Leetcode Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/RAJ8664/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RAJ8664/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1128,6 +1130,7 @@ Leetcode Solutions
 | [0376-wiggle-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/RAJ8664/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/RAJ8664/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -1414,6 +1417,7 @@ Leetcode Solutions
 | [0324-wiggle-sort-ii](https://github.com/RAJ8664/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/RAJ8664/Leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RAJ8664/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1647,6 +1651,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJ8664/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0878-shifting-letters](https://github.com/RAJ8664/Leetcode/tree/master/0878-shifting-letters) |
