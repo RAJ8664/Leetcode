@@ -137,6 +137,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/RAJ8664/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RAJ8664/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/RAJ8664/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RAJ8664/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
@@ -835,6 +836,7 @@ Leetcode Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RAJ8664/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJ8664/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
