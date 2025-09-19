@@ -67,6 +67,7 @@ Leetcode Solutions
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/RAJ8664/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RAJ8664/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -488,6 +489,7 @@ Leetcode Solutions
 | [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/RAJ8664/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RAJ8664/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
@@ -1769,6 +1771,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/RAJ8664/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RAJ8664/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1886,6 +1889,7 @@ Leetcode Solutions
 | ------- |
 | [0310-minimum-height-trees](https://github.com/RAJ8664/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/RAJ8664/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RAJ8664/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/RAJ8664/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RAJ8664/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
