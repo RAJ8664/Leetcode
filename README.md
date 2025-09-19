@@ -1072,6 +1072,7 @@ Leetcode Solutions
 | [1337-design-skiplist](https://github.com/RAJ8664/Leetcode/tree/master/1337-design-skiplist) |
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/RAJ8664/Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/RAJ8664/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
