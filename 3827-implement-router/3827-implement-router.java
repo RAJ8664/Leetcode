@@ -1,4 +1,10 @@
 class Router {
+    private HashSet<Tuple> packets;
+    private ArrayList<Tuple> arr;
+    private Deque<Tuple> dq;
+    private HashMap<Integer, ArrayList<Tuple >> map;
+    private int limit;
+
     static class Tuple {
         int src, dest, time;
         public Tuple(int src, int dest, int time) {
@@ -12,8 +18,10 @@ class Router {
         }
         @Override
         public boolean equals(Object obj) {
-            if (this == obj) return true;
-            if (obj == null || getClass() != obj.getClass()) return false;
+            if (this == obj)
+                return true;
+            if (obj == null || getClass() != obj.getClass())
+                return false;
             Tuple current = (Tuple)(obj);
             return current.src == src && current.dest == dest && current.time == time;
         }
@@ -22,11 +30,7 @@ class Router {
             return Objects.hash(src, dest, time);
         }
     }
-    private HashSet<Tuple> packets;
-    private ArrayList<Tuple> arr;
-    private Deque<Tuple> dq;
-    private HashMap<Integer, ArrayList<Tuple>> map;
-    private int limit;
+
     public Router(int memoryLimit) {
         packets = new HashSet<>();
         dq = new ArrayDeque<>();
@@ -34,8 +38,10 @@ class Router {
         map = new HashMap<>();
         limit = memoryLimit;
     }
+
     public boolean addPacket(int source, int destination, int timestamp) {
-        if (packets.contains(new Tuple(source, destination, timestamp))) return false;
+        if (packets.contains(new Tuple(source, destination, timestamp)))
+            return false;
         if (dq.size() == limit) {
             Tuple oldest = dq.pollFirst();
             if (map.containsKey(oldest.dest)) {
@@ -47,17 +53,21 @@ class Router {
             arr.remove(0);
         }
         Tuple current = new Tuple(source, destination, timestamp);
-        if (packets.contains(current)) return false;
-        
+        if (packets.contains(current))
+            return false;
+
         packets.add(current);
         dq.addLast(current);
         arr.add(current);
-        if (!map.containsKey(current.dest)) map.put(current.dest, new ArrayList<>());
+        if (!map.containsKey(current.dest))
+            map.put(current.dest, new ArrayList<>());
         map.get(current.dest).add(current);
         return true;
     }
+
     public int[] forwardPacket() {
-        if (dq.size() == 0) return new int[]{};
+        if (dq.size() == 0)
+            return new int[] {};
         Tuple toForward = dq.pollFirst();
         packets.remove(toForward);
         if (map.containsKey(toForward.dest)) {
@@ -66,18 +76,24 @@ class Router {
             map.put(toForward.dest, current);
         }
         int res[] = new int[3];
-        res[0] = toForward.src; res[1] = toForward.dest; res[2] = toForward.time;
+        res[0] = toForward.src;
+        res[1] = toForward.dest;
+        res[2] = toForward.time;
         return res;
     }
+
     public int getCount(int destination, int startTime, int endTime) {
         int left_ind = bs_left_ind(startTime, destination);
         int right_ind = bs_right_ind(endTime, destination);
-        if (left_ind == -1 || right_ind == -1) return 0;
+        if (left_ind == -1 || right_ind == -1)
+            return 0;
         return right_ind - left_ind + 1;
     }
+
     private int bs_left_ind(int start_time, int dest) {
         ArrayList<Tuple> domain = new ArrayList<>();
-        if (map.containsKey(dest)) domain = map.get(dest);
+        if (map.containsKey(dest))
+            domain = map.get(dest);
         int low = 0, high = domain.size() - 1;
         int ans = -1;
         while (low <= high) {
@@ -85,14 +101,16 @@ class Router {
             if (domain.get(mid).time >= start_time) {
                 ans = mid;
                 high = mid - 1;
-            }
-            else low = mid + 1;
+            } else
+                low = mid + 1;
         }
         return ans;
     }
+
     private int bs_right_ind(int end_time, int dest) {
         ArrayList<Tuple> domain = new ArrayList<>();
-        if (map.containsKey(dest)) domain = map.get(dest);
+        if (map.containsKey(dest))
+            domain = map.get(dest);
         int low = 0, high = domain.size() - 1;
         int ans = -1;
         while (low <= high) {
@@ -100,17 +118,17 @@ class Router {
             if (domain.get(mid).time <= end_time) {
                 ans = mid;
                 low = mid + 1;
-            }
-            else high = mid - 1;
+            } else
+                high = mid - 1;
         }
         return ans;
     }
 }
 
 /**
- * Your Router object will be instantiated and called as such:
- * Router obj = new Router(memoryLimit);
- * boolean param_1 = obj.addPacket(source,destination,timestamp);
- * int[] param_2 = obj.forwardPacket();
- * int param_3 = obj.getCount(destination,startTime,endTime);
- */
+    Your Router object will be instantiated and called as such:
+    Router obj = new Router(memoryLimit);
+    boolean param_1 = obj.addPacket(source,destination,timestamp);
+    int[] param_2 = obj.forwardPacket();
+    int param_3 = obj.getCount(destination,startTime,endTime);
+*/
