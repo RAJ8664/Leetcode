@@ -1,4 +1,6 @@
 class Solution {
+    private int min[][];
+    private static int dir[][] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
     static class State {
         int row, col, pRow, pCol;
         public State(int row, int col, int pRow, int pCol) {
@@ -32,29 +34,14 @@ class Solution {
     }
     public int maximumSafenessFactor(List<List<Integer>> grid) {
         int n = grid.size(), m = grid.get(0).size();
-        int low = 0, high = (int)(1e9), ans = -1;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (ok(mid, grid)) {
-                ans = mid;
-                low = mid + 1;
-            }
-            else 
-                high = mid - 1;
-        }
-        return ans;
-    }
-    private boolean ok(int target, List<List<Integer>> arr) {
-        int n = arr.size(), m = arr.get(0).size();
-        int dir[][] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
         /* How can we find the closest or minimum hamming distance wala thief for each cell ? */
-        int min[][] = new int [n][m];
+        min = new int [n][m];
         for (int curr[] : min)
             Arrays.fill(curr, (int)(1e9));
         Queue<State> q = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (arr.get(i).get(j) == 1) {
+                if (grid.get(i).get(j) == 1) {
                     q.offer(new State(i, j, i, j));
                     min[i][j] = 0;
                 }
@@ -74,8 +61,20 @@ class Solution {
                 }
             }
         }
-        
-        /* Now that we know the min hamming distance for each cell from the thief cell */
+        int low = 0, high = (int)(1e9), ans = -1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (ok(mid, grid)) {
+                ans = mid;
+                low = mid + 1;
+            }
+            else 
+                high = mid - 1;
+        }
+        return ans;
+    }
+    private boolean ok(int target, List<List<Integer>> arr) {
+        int n = arr.size(), m = arr.get(0).size();
         if (min[0][0] < target) return false;
         PriorityQueue<Tuple> pq = new PriorityQueue<>(new customSort());
         int dist[][] = new int[n][m];
