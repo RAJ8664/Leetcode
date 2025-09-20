@@ -417,6 +417,7 @@ Leetcode Solutions
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RAJ8664/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RAJ8664/Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RAJ8664/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -522,6 +523,7 @@ Leetcode Solutions
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RAJ8664/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RAJ8664/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RAJ8664/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -911,6 +913,7 @@ Leetcode Solutions
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RAJ8664/Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1312,6 +1315,7 @@ Leetcode Solutions
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1769,6 +1773,7 @@ Leetcode Solutions
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RAJ8664/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/RAJ8664/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
@@ -1798,6 +1803,7 @@ Leetcode Solutions
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RAJ8664/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RAJ8664/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAJ8664/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RAJ8664/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Indexed Tree
