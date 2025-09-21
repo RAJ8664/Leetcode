@@ -314,6 +314,7 @@ Leetcode Solutions
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/RAJ8664/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -838,6 +839,7 @@ Leetcode Solutions
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/RAJ8664/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2161-stock-price-fluctuation](https://github.com/RAJ8664/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2178-walking-robot-simulation-ii](https://github.com/RAJ8664/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
@@ -994,6 +996,7 @@ Leetcode Solutions
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/RAJ8664/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
@@ -1641,6 +1644,7 @@ Leetcode Solutions
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
+| [2023-design-movie-rental-system](https://github.com/RAJ8664/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/RAJ8664/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/RAJ8664/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -1753,6 +1757,7 @@ Leetcode Solutions
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/RAJ8664/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1953-finding-mk-average](https://github.com/RAJ8664/Leetcode/tree/master/1953-finding-mk-average) |
+| [2023-design-movie-rental-system](https://github.com/RAJ8664/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAJ8664/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2161-stock-price-fluctuation](https://github.com/RAJ8664/Leetcode/tree/master/2161-stock-price-fluctuation) |
