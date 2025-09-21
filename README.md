@@ -351,6 +351,7 @@ Leetcode Solutions
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/RAJ8664/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/RAJ8664/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -1009,6 +1010,7 @@ Leetcode Solutions
 | [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RAJ8664/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/RAJ8664/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RAJ8664/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2388-replace-elements-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2388-replace-elements-in-an-array) |
@@ -1415,6 +1417,7 @@ Leetcode Solutions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RAJ8664/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/RAJ8664/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/RAJ8664/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RAJ8664/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
