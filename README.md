@@ -535,6 +535,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
@@ -610,6 +611,7 @@ Leetcode Solutions
 | [0038-count-and-say](https://github.com/RAJ8664/Leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/RAJ8664/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
@@ -934,6 +936,7 @@ Leetcode Solutions
 | [0037-sudoku-solver](https://github.com/RAJ8664/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
