@@ -204,6 +204,7 @@ Leetcode Solutions
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/RAJ8664/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0831-largest-sum-of-averages](https://github.com/RAJ8664/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0833-bus-routes](https://github.com/RAJ8664/Leetcode/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
@@ -500,6 +501,7 @@ Leetcode Solutions
 | [0685-redundant-connection-ii](https://github.com/RAJ8664/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RAJ8664/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0833-bus-routes](https://github.com/RAJ8664/Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/RAJ8664/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -956,6 +958,7 @@ Leetcode Solutions
 | [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RAJ8664/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0833-bus-routes](https://github.com/RAJ8664/Leetcode/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/RAJ8664/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0876-hand-of-straights](https://github.com/RAJ8664/Leetcode/tree/master/0876-hand-of-straights) |
