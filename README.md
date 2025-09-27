@@ -243,6 +243,7 @@ Leetcode Solutions
 | [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/RAJ8664/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
@@ -981,6 +982,7 @@ Leetcode Solutions
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RAJ8664/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/RAJ8664/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/RAJ8664/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
@@ -1313,6 +1315,7 @@ Leetcode Solutions
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/RAJ8664/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/RAJ8664/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/RAJ8664/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1234-number-of-paths-with-max-score](https://github.com/RAJ8664/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
@@ -1719,6 +1722,7 @@ Leetcode Solutions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/RAJ8664/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/RAJ8664/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
