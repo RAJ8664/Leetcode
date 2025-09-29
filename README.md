@@ -243,6 +243,7 @@ Leetcode Solutions
 | [1072-next-greater-node-in-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/RAJ8664/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/RAJ8664/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1215,6 +1216,7 @@ Leetcode Solutions
 | [1042-minimum-cost-to-merge-stones](https://github.com/RAJ8664/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1063-best-sightseeing-pair](https://github.com/RAJ8664/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/RAJ8664/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/RAJ8664/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/RAJ8664/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
