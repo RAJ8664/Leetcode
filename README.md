@@ -837,6 +837,7 @@ Leetcode Solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/RAJ8664/Leetcode/tree/master/0460-lfu-cache) |
 | [0676-implement-magic-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
@@ -957,6 +958,7 @@ Leetcode Solutions
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/RAJ8664/Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/RAJ8664/Leetcode/tree/master/0480-sliding-window-median) |
 | [0554-brick-wall](https://github.com/RAJ8664/Leetcode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
@@ -1103,6 +1105,7 @@ Leetcode Solutions
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/RAJ8664/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/RAJ8664/Leetcode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/RAJ8664/Leetcode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0838-design-linked-list) |
@@ -1414,6 +1417,7 @@ Leetcode Solutions
 | ------- |
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/RAJ8664/Leetcode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
