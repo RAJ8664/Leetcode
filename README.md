@@ -227,6 +227,7 @@ Leetcode Solutions
 | [0940-fruit-into-baskets](https://github.com/RAJ8664/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/RAJ8664/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
+| [0947-online-election](https://github.com/RAJ8664/Leetcode/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
@@ -849,6 +850,7 @@ Leetcode Solutions
 | [0860-design-circular-queue](https://github.com/RAJ8664/Leetcode/tree/master/0860-design-circular-queue) |
 | [0936-rle-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/RAJ8664/Leetcode/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/RAJ8664/Leetcode/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/RAJ8664/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0969-number-of-recent-calls](https://github.com/RAJ8664/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -900,6 +902,7 @@ Leetcode Solutions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RAJ8664/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/RAJ8664/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [0947-online-election](https://github.com/RAJ8664/Leetcode/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1262-online-majority-element-in-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -982,6 +985,7 @@ Leetcode Solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/RAJ8664/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/RAJ8664/Leetcode/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/RAJ8664/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RAJ8664/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
