@@ -1,12 +1,12 @@
 class Solution {
-    public int maxArea(int[] arr) {
-        int n = arr.length;
-        int left = 0, right = n - 1, maxi = 0;
+    public int maxArea(int[] height) {
+        int n = height.length;
+        int maxi = 0, left = 0, right = n - 1;
         while (left < right) {
-            maxi = Math.max(maxi, Math.min(arr[left], arr[right]) * (right - left));
-            if (arr[left] < arr[right])
+            maxi = Math.max(maxi, Math.min(height[left], height[right]) * (right - left));
+            if (height[left] < height[right])
                 left++;
-            else 
+            else
                 right--;
         }
         return maxi;
