@@ -491,6 +491,7 @@ Leetcode Solutions
 | [3748-sort-matrix-by-diagonals](https://github.com/RAJ8664/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RAJ8664/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/RAJ8664/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3809-properties-graph](https://github.com/RAJ8664/Leetcode/tree/master/3809-properties-graph) |
@@ -1434,6 +1435,7 @@ Leetcode Solutions
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/RAJ8664/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1791,6 +1793,7 @@ Leetcode Solutions
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RAJ8664/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/RAJ8664/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
