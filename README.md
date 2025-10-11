@@ -465,6 +465,7 @@ Leetcode Solutions
 | [3427-special-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/RAJ8664/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RAJ8664/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/RAJ8664/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -835,6 +836,7 @@ Leetcode Solutions
 | [3351-maximize-happiness-of-selected-children](https://github.com/RAJ8664/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/RAJ8664/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RAJ8664/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -957,6 +959,7 @@ Leetcode Solutions
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/RAJ8664/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
@@ -1087,6 +1090,7 @@ Leetcode Solutions
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RAJ8664/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RAJ8664/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RAJ8664/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1190,6 +1194,7 @@ Leetcode Solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/RAJ8664/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RAJ8664/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1288,6 +1293,7 @@ Leetcode Solutions
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RAJ8664/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RAJ8664/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1685,6 +1691,7 @@ Leetcode Solutions
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/RAJ8664/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/RAJ8664/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Segment Tree
 |  |
