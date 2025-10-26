@@ -1,0 +1,89 @@
+# 2050. Count Good Numbers
+
+!!! warning "Difficulty: Medium"
+
+[:octicons-link-external-24: LeetCode Problem](https://leetcode.com/problems/count-good-numbers/){ .md-button }
+[:octicons-code-24: View on GitHub](https://github.com/RAJ8664/Leetcode/tree/master/2050-count-good-numbers){ .md-button }
+
+---
+
+<h2><a href="https://leetcode.com/problems/count-good-numbers">2050. Count Good Numbers</a></h2><h3>Medium</h3><hr><p>A digit string is <strong>good</strong> if the digits <strong>(0-indexed)</strong> at <strong>even</strong> indices are <strong>even</strong> and the digits at <strong>odd</strong> indices are <strong>prime</strong> (<code>2</code>, <code>3</code>, <code>5</code>, or <code>7</code>).</p>
+
+<ul>
+	<li>For example, <code>&quot;2582&quot;</code> is good because the digits (<code>2</code> and <code>8</code>) at even positions are even and the digits (<code>5</code> and <code>2</code>) at odd positions are prime. However, <code>&quot;3245&quot;</code> is <strong>not</strong> good because <code>3</code> is at an even index but is not even.</li>
+</ul>
+
+<p>Given an integer <code>n</code>, return <em>the <strong>total</strong> number of good digit strings of length </em><code>n</code>. Since the answer may be large, <strong>return it modulo </strong><code>10<sup>9</sup> + 7</code>.</p>
+
+<p>A <strong>digit string</strong> is a string consisting of digits <code>0</code> through <code>9</code> that may contain leading zeros.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The good numbers of length 1 are &quot;0&quot;, &quot;2&quot;, &quot;4&quot;, &quot;6&quot;, &quot;8&quot;.
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 4
+<strong>Output:</strong> 400
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 50
+<strong>Output:</strong> 564908303
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 10<sup>15</sup></code></li>
+</ul>
+
+
+---
+
+## Solution
+
+```java
+class Solution {
+    static long mod = (long)(1e9 + 7);
+    public int countGoodNumbers(long n) {
+        long res = fast_pow(5, (n + 1) / 2, mod);        
+        res = mul(res, fast_pow(4, n / 2, mod));
+        return (int)(res);
+    }
+    private long fast_pow(long a, long p, long mod) {
+        long res = 1;
+        while (p > 0) {
+            if (p % 2 == 0) {
+                a = ((a % mod) * (a % mod)) % mod;
+                p /= 2;
+            }
+            else {
+                res = ((res % mod) * (a % mod)) % mod;
+                p--;
+            }
+        }
+        return res;
+    }
+    private long mul(long a, long b) {return (long) ((long) ((a % mod) * 1L * (b % mod)) % mod);}
+}
+```
+
+## Complexity Analysis
+
+- **Time Complexity**: `O(?)`
+- **Space Complexity**: `O(?)`
+
+## Approach
+
+*Detailed explanation of the approach will be added here*
+

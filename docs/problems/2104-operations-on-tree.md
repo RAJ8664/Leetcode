@@ -1,0 +1,180 @@
+# 2104. Operations On Tree
+
+!!! warning "Difficulty: Medium"
+
+[:octicons-link-external-24: LeetCode Problem](https://leetcode.com/problems/operations-on-tree/){ .md-button }
+[:octicons-code-24: View on GitHub](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree){ .md-button }
+
+---
+
+<h2><a href="https://leetcode.com/problems/operations-on-tree">2104. Operations on Tree</a></h2><h3>Medium</h3><hr><p>You are given a tree with <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code> in the form of a parent array <code>parent</code> where <code>parent[i]</code> is the parent of the <code>i<sup>th</sup></code> node. The root of the tree is node <code>0</code>, so <code>parent[0] = -1</code> since it has no parent. You want to design a data structure that allows users to lock, unlock, and upgrade nodes in the tree.</p>
+
+<p>The data structure should support the following functions:</p>
+
+<ul>
+	<li><strong>Lock:</strong> <strong>Locks</strong> the given node for the given user and prevents other users from locking the same node. You may only lock a node using this function if the node is unlocked.</li>
+	<li><strong>Unlock: Unlocks</strong> the given node for the given user. You may only unlock a node using this function if it is currently locked by the same user.</li>
+	<li><b>Upgrade</b><strong>: Locks</strong> the given node for the given user and <strong>unlocks</strong> all of its descendants <strong>regardless</strong> of who locked it. You may only upgrade a node if <strong>all</strong> 3 conditions are true:
+	<ul>
+		<li>The node is unlocked,</li>
+		<li>It has at least one locked descendant (by <strong>any</strong> user), and</li>
+		<li>It does not have any locked ancestors.</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Implement the <code>LockingTree</code> class:</p>
+
+<ul>
+	<li><code>LockingTree(int[] parent)</code> initializes the data structure with the parent array.</li>
+	<li><code>lock(int num, int user)</code> returns <code>true</code> if it is possible for the user with id <code>user</code> to lock the node <code>num</code>, or <code>false</code> otherwise. If it is possible, the node <code>num</code> will become<strong> locked</strong> by the user with id <code>user</code>.</li>
+	<li><code>unlock(int num, int user)</code> returns <code>true</code> if it is possible for the user with id <code>user</code> to unlock the node <code>num</code>, or <code>false</code> otherwise. If it is possible, the node <code>num</code> will become <strong>unlocked</strong>.</li>
+	<li><code>upgrade(int num, int user)</code> returns <code>true</code> if it is possible for the user with id <code>user</code> to upgrade the node <code>num</code>, or <code>false</code> otherwise. If it is possible, the node <code>num</code> will be <strong>upgraded</strong>.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/07/29/untitled.png" style="width: 375px; height: 246px;" />
+<pre>
+<strong>Input</strong>
+[&quot;LockingTree&quot;, &quot;lock&quot;, &quot;unlock&quot;, &quot;unlock&quot;, &quot;lock&quot;, &quot;upgrade&quot;, &quot;lock&quot;]
+[[[-1, 0, 0, 1, 1, 2, 2]], [2, 2], [2, 3], [2, 2], [4, 5], [0, 1], [0, 1]]
+<strong>Output</strong>
+[null, true, false, true, true, true, false]
+
+<strong>Explanation</strong>
+LockingTree lockingTree = new LockingTree([-1, 0, 0, 1, 1, 2, 2]);
+lockingTree.lock(2, 2);    // return true because node 2 is unlocked.
+                           // Node 2 will now be locked by user 2.
+lockingTree.unlock(2, 3);  // return false because user 3 cannot unlock a node locked by user 2.
+lockingTree.unlock(2, 2);  // return true because node 2 was previously locked by user 2.
+                           // Node 2 will now be unlocked.
+lockingTree.lock(4, 5);    // return true because node 4 is unlocked.
+                           // Node 4 will now be locked by user 5.
+lockingTree.upgrade(0, 1); // return true because node 0 is unlocked and has at least one locked descendant (node 4).
+                           // Node 0 will now be locked by user 1 and node 4 will now be unlocked.
+lockingTree.lock(0, 1);    // return false because node 0 is already locked.
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>n == parent.length</code></li>
+	<li><code>2 &lt;= n &lt;= 2000</code></li>
+	<li><code>0 &lt;= parent[i] &lt;= n - 1</code> for <code>i != 0</code></li>
+	<li><code>parent[0] == -1</code></li>
+	<li><code>0 &lt;= num &lt;= n - 1</code></li>
+	<li><code>1 &lt;= user &lt;= 10<sup>4</sup></code></li>
+	<li><code>parent</code> represents a valid tree.</li>
+	<li>At most <code>2000</code> calls <strong>in total</strong> will be made to <code>lock</code>, <code>unlock</code>, and <code>upgrade</code>.</li>
+</ul>
+
+
+---
+
+## Solution
+
+```java
+import java.util.*;
+class LockingTree {
+    private ArrayList<ArrayList<Integer>> adj;
+    private int par[];
+    private int map[];
+    public LockingTree(int[] parent) {
+        int n = parent.length;
+        par = new int[n + 1]; par[0] = -1;
+        adj = new ArrayList<>();
+        map = new int[n + 1];
+        Arrays.fill(map, -1);
+        for (int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>());
+        }
+        for (int i = 1; i < n; i++) {
+            int p = par[i] = parent[i];
+            adj.get(p).add(i);
+        }
+    }
+    public boolean lock(int num, int user) {
+        if (map[num] == -1) {
+            map[num] = user;
+            return true;
+        }   
+        return false;
+    }
+    public boolean unlock(int num, int user) {
+        if (map[num] == user) {
+            map[num] = -1;
+            return true;
+        }
+        return false;
+    }
+    public boolean upgrade(int num, int user) {
+        if (check(num, user)) {
+            doUpgrade(num, user);
+            return true;
+        }
+        return false;
+    }
+    private boolean check(int node, int user) {
+        if (map[node] != -1) return false;
+        int boolVal1[] = new int[1];
+        int boolVal2[] = new int[1];
+        checkDescendant(node, boolVal1);
+        checkAncestor(node, boolVal2);
+        return boolVal1[0] == 1 && boolVal2[0] == 1;
+    }
+    private void doUpgrade(int node, int user) {
+        map[node] = user;
+        unLockAll(node);
+    }
+    private void unLockAll(int node) {
+        for (int v : adj.get(node)) {
+            if (v != par[v]) {
+                map[v] = -1;
+                unLockAll(v);
+            }
+        }
+    }
+    private void checkDescendant(int node, int[] boolVal) {
+        for (int v : adj.get(node)) {
+            if (v != par[v]) {
+                if (map[v] != -1) {
+                    boolVal[0] = 1;
+                    return;
+                }
+                checkDescendant(v, boolVal);
+            }
+        }
+    }
+    private void checkAncestor(int node, int[] boolVal) {
+        node = par[node];
+        boolVal[0] = 1;
+        while (node != -1) {
+            if (map[node] != -1) {
+                boolVal[0] = 0;
+                return;
+            } 
+            node = par[node];
+        }
+    }
+}
+
+/**
+ * Your LockingTree object will be instantiated and called as such:
+ * LockingTree obj = new LockingTree(parent);
+ * boolean param_1 = obj.lock(num,user);
+ * boolean param_2 = obj.unlock(num,user);
+ * boolean param_3 = obj.upgrade(num,user);
+ */
+```
+
+## Complexity Analysis
+
+- **Time Complexity**: `O(?)`
+- **Space Complexity**: `O(?)`
+
+## Approach
+
+*Detailed explanation of the approach will be added here*
+

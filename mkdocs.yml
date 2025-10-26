@@ -1,0 +1,94 @@
+site_name: LeetCode Solutions
+site_description: My LeetCode problem solutions and explanations
+site_author: Rk Roy
+site_url: https://raj8664.github.io/Leetcode/
+
+repo_name: raj8664/Leetcode
+repo_url: https://github.com/raj8664/Leetcode
+edit_uri: edit/main/docs/
+
+theme:
+    name: material
+    language: en
+    palette:
+        - scheme: slate
+          primary: indigo
+          accent: indigo
+          toggle:
+              icon: material/brightness-4
+              name: Switch to light mode
+        - scheme: default
+          primary: indigo
+          accent: indigo
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
+
+    font:
+        text: Roboto
+        code: Roboto Mono
+
+    features:
+        - navigation.instant
+        - navigation.tracking
+        - navigation.tabs
+        - navigation.top
+        - navigation.indexes
+        - navigation.sections
+        - search.suggest
+        - search.highlight
+        - content.code.copy
+        - content.code.annotate
+        - content.action.edit
+        - content.action.view
+
+    icon:
+        repo: fontawesome/brands/github
+
+markdown_extensions:
+    - pymdownx.highlight:
+          anchor_linenums: true
+          line_spans: __span
+          pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.arithmatex:
+          generic: true
+    - admonition
+    - pymdownx.details
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - tables
+    - attr_list
+    - md_in_html
+    - def_list
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - toc:
+          permalink: true
+          toc_depth: 3
+
+plugins:
+    - search:
+          lang: en
+    - minify:
+          minify_html: true
+
+extra_css:
+    - stylesheets/extra.css
+
+extra_javascript:
+    - javascripts/mathjax.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/raj8664
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/in/royraj20/
