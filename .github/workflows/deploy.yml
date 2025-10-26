@@ -23,4 +23,6 @@ jobs:
                   pip install pymdown-extensions
 
             - name: Deploy to GitHub Pages
+              env:
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
               run: mkdocs gh-deploy --force
