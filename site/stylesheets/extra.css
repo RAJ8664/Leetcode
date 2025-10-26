@@ -1,0 +1,74 @@
+:root {
+	--md-primary-fg-color: #5c6bc0;
+	--md-accent-fg-color: #7c4dff;
+}
+
+[data-md-color-scheme='slate'] {
+	--md-primary-fg-color: #7c4dff;
+	--md-accent-fg-color: #7c4dff;
+	--md-code-bg-color: #1e1e1e;
+}
+
+.highlight {
+	border-radius: 0.5rem;
+	margin: 1em 0;
+}
+
+.highlight pre {
+	padding: 1rem;
+}
+
+.md-typeset table:not([class]) {
+	border-radius: 0.5rem;
+	overflow: hidden;
+	display: table;
+	border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) th {
+	background-color: var(--md-code-bg-color);
+	font-weight: 700;
+}
+
+.difficulty-easy {
+	color: #00c853;
+	font-weight: 600;
+}
+
+.difficulty-medium {
+	color: #ff9800;
+	font-weight: 600;
+}
+
+.difficulty-hard {
+	color: #f44336;
+	font-weight: 600;
+}
+
+.grid.cards {
+	grid-gap: 1rem;
+	margin-top: 1rem;
+}
+
+.md-typeset a.problem-link {
+	text-decoration: none;
+	font-weight: 500;
+}
+
+.md-typeset a.problem-link:hover {
+	text-decoration: underline;
+}
+
+[data-md-color-scheme='slate'] .admonition {
+	border-left-width: 4px;
+}
+
+.md-clipboard {
+	color: var(--md-primary-fg-color);
+}
+
+* {
+	transition:
+		background-color 0.2s ease,
+		color 0.2s ease;
+}
