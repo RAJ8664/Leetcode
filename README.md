@@ -1258,6 +1258,7 @@ Leetcode Solutions
 | [0474-ones-and-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0629-k-inverse-pairs-array](https://github.com/RAJ8664/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
