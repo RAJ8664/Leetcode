@@ -28,11 +28,14 @@ class Solution {
         bad_cell = new HashSet<>();
         wall = new HashSet<>();
         guard = new HashSet<>();
-        for (int curr[] : guards) guard.add(new Pair(curr[0], curr[1]));
-        for (int curr[] : walls) wall.add(new Pair(curr[0], curr[1]));
+        for (int curr[] : guards) 
+            guard.add(new Pair(curr[0], curr[1]));
+        for (int curr[] : walls) 
+            wall.add(new Pair(curr[0], curr[1]));
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (guard.contains(new Pair(i, j))) fill_bad(i, j, n, m);
+                if (guard.contains(new Pair(i, j))) 
+                    fill_bad(i, j, n, m);
             }
         }       
         int count = 0;
