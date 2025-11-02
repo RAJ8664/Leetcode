@@ -147,6 +147,7 @@ Leetcode Solutions
 | [0036-valid-sudoku](https://github.com/RAJ8664/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RAJ8664/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/RAJ8664/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
@@ -792,6 +793,7 @@ Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RAJ8664/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RAJ8664/Leetcode/tree/master/0324-wiggle-sort-ii) |
