@@ -156,6 +156,7 @@ Leetcode Solutions
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJ8664/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/RAJ8664/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/RAJ8664/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -792,6 +793,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RAJ8664/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/RAJ8664/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1015,6 +1017,7 @@ Leetcode Solutions
 | [0127-word-ladder](https://github.com/RAJ8664/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0229-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/RAJ8664/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -1213,6 +1216,7 @@ Leetcode Solutions
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
