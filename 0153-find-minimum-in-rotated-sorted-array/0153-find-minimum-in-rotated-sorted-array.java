@@ -7,16 +7,14 @@ class Solution {
             if (arr[low] <= arr[high]) {
                 ans = Math.min(ans, arr[low]);
                 break;
-            }
-            else if (arr[low] <= arr[mid]) {
+            } else if (arr[low] <= arr[mid]) {
                 ans = Math.min(ans, arr[low]);
                 low = mid + 1;
-            }
-            else {
+            } else {
                 ans = Math.min(ans, arr[mid]);
                 high = mid - 1;
             }
-        }
-        return ans; 
+        } 
+        return ans;
     }
 }
