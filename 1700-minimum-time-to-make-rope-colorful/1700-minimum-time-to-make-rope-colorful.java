@@ -5,9 +5,7 @@ class Solution {
         pref[0] = neededTime[0];
         for (int i = 1; i < n; i++)
             pref[i] = pref[i - 1] + neededTime[i];
-        
         SparseMax sp = new SparseMax(neededTime);
-        
         int totalTime = 0, i = 0;
         while (i < n) {
             if (i == n - 1) break;
@@ -15,18 +13,15 @@ class Solution {
                 i++;
                 continue;
             }
-            
             int j = i;
             while (j + 1 < n && colors.charAt(j + 1) == colors.charAt(i)) {
                 j++;
             }
-            
             /* From i --> j we have same characters */
             totalTime += pref[j];
             if (i - 1 >= 0) 
                 totalTime -= pref[i - 1];
             totalTime -= sp.query(i, j);
-            
             i = j + 1;
         }
         return totalTime;
