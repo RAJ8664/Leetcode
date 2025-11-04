@@ -152,6 +152,7 @@ Leetcode Solutions
 | [0074-search-a-2d-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/RAJ8664/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAJ8664/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/RAJ8664/Leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/RAJ8664/Leetcode/tree/master/0179-largest-number) |
@@ -1017,6 +1018,7 @@ Leetcode Solutions
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/RAJ8664/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/RAJ8664/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/RAJ8664/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/RAJ8664/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/0229-majority-element-ii) |
@@ -1944,6 +1946,7 @@ Leetcode Solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RAJ8664/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/RAJ8664/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/RAJ8664/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
