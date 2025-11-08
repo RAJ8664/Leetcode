@@ -1322,6 +1322,7 @@ Leetcode Solutions
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/RAJ8664/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RAJ8664/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RAJ8664/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1697,6 +1698,7 @@ Leetcode Solutions
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/RAJ8664/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RAJ8664/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -2011,6 +2013,7 @@ Leetcode Solutions
 | [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RAJ8664/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
