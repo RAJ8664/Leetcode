@@ -392,6 +392,7 @@ Leetcode Solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RAJ8664/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/RAJ8664/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/RAJ8664/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/RAJ8664/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RAJ8664/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RAJ8664/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1441,6 +1442,7 @@ Leetcode Solutions
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RAJ8664/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/RAJ8664/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RAJ8664/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RAJ8664/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1837,6 +1839,7 @@ Leetcode Solutions
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RAJ8664/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/RAJ8664/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Prefix Sum
 |  |
@@ -2027,6 +2030,7 @@ Leetcode Solutions
 | [2308-divide-array-into-equal-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RAJ8664/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/RAJ8664/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/RAJ8664/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RAJ8664/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAJ8664/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/RAJ8664/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -2059,6 +2063,7 @@ Leetcode Solutions
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RAJ8664/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/RAJ8664/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/RAJ8664/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RAJ8664/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
