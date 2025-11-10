@@ -518,6 +518,7 @@ Leetcode Solutions
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/RAJ8664/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3809-properties-graph](https://github.com/RAJ8664/Leetcode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
@@ -1165,6 +1166,7 @@ Leetcode Solutions
 | [3797-design-spreadsheet](https://github.com/RAJ8664/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/RAJ8664/Leetcode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -1405,6 +1407,7 @@ Leetcode Solutions
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RAJ8664/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/RAJ8664/Leetcode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -1481,6 +1484,7 @@ Leetcode Solutions
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2839-maximum-sum-queries](https://github.com/RAJ8664/Leetcode/tree/master/2839-maximum-sum-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -1668,6 +1672,7 @@ Leetcode Solutions
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RAJ8664/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
 |  |
 | ------- |
