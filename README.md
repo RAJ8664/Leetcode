@@ -432,6 +432,7 @@ Leetcode Solutions
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RAJ8664/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RAJ8664/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RAJ8664/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -638,6 +639,7 @@ Leetcode Solutions
 | [2649-count-total-number-of-colored-cells](https://github.com/RAJ8664/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RAJ8664/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RAJ8664/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -2162,6 +2164,7 @@ Leetcode Solutions
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RAJ8664/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RAJ8664/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
