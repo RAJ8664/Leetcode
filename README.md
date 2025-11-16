@@ -620,6 +620,7 @@ Leetcode Solutions
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RAJ8664/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/RAJ8664/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAJ8664/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/RAJ8664/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/RAJ8664/Leetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RAJ8664/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RAJ8664/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -731,6 +732,7 @@ Leetcode Solutions
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/RAJ8664/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RAJ8664/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/RAJ8664/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/RAJ8664/Leetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RAJ8664/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
