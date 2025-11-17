@@ -289,6 +289,7 @@ Leetcode Solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RAJ8664/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RAJ8664/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/RAJ8664/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/RAJ8664/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RAJ8664/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
