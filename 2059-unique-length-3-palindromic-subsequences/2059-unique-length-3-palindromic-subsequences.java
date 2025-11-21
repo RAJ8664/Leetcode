@@ -6,7 +6,8 @@ class Solution {
             int last = s.lastIndexOf(c);
             if (first != -1 && last != -1 && first < last) {
                 Set<Character> temp = new HashSet<>();
-                for (int i = first + 1; i < last; i++) temp.add(s.charAt(i));
+                for (int i = first + 1; i < last; i++)
+                    temp.add(s.charAt(i));
                 res += temp.size();
             }
         }
