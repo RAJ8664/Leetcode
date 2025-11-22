@@ -489,6 +489,7 @@ Leetcode Solutions
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/RAJ8664/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RAJ8664/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/RAJ8664/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RAJ8664/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -655,6 +656,7 @@ Leetcode Solutions
 | [3321-type-of-triangle](https://github.com/RAJ8664/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/RAJ8664/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RAJ8664/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
