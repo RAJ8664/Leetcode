@@ -617,6 +617,7 @@ Leetcode Solutions
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/RAJ8664/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/RAJ8664/Leetcode/tree/master/1048-clumsy-factorial) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RAJ8664/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1081,6 +1082,7 @@ Leetcode Solutions
 | [0991-array-of-doubled-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RAJ8664/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/RAJ8664/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
