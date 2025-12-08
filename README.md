@@ -639,6 +639,7 @@ Leetcode Solutions
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RAJ8664/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RAJ8664/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/RAJ8664/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/RAJ8664/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -2125,6 +2126,7 @@ Leetcode Solutions
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RAJ8664/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/RAJ8664/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RAJ8664/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
