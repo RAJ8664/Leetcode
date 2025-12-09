@@ -1,4 +1,3 @@
-import java.util.HashMap;
 class Solution {
     private int mod = (int)(1e9 + 7);
     public int specialTriplets(int[] nums) {
