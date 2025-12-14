@@ -646,6 +646,7 @@ Leetcode Solutions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RAJ8664/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/RAJ8664/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/RAJ8664/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -779,6 +780,7 @@ Leetcode Solutions
 | [2232-adding-spaces-to-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RAJ8664/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RAJ8664/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/RAJ8664/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
 | [2285-design-bitset](https://github.com/RAJ8664/Leetcode/tree/master/2285-design-bitset) |
@@ -1387,6 +1389,7 @@ Leetcode Solutions
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/RAJ8664/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/RAJ8664/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/RAJ8664/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/RAJ8664/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
