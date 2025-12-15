@@ -16,9 +16,7 @@ class Solution {
             }
             prev = prices[i];
         }
-        if (len >= 1) {
-            count += (len * 1L * (len + 1) / 2);
-        }
+        count += (len * 1L * (len + 1) / 2);
         return count;
     }
 }
