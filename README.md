@@ -539,6 +539,7 @@ Leetcode Solutions
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 ## Breadth-First Search
 |  |
@@ -1423,6 +1424,7 @@ Leetcode Solutions
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Stack
 |  |
 | ------- |
