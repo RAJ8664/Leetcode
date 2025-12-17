@@ -3,18 +3,24 @@ class Solution {
     public long maximumProfit(int[] prices, int k) {
         int n = prices.length;
         dp = new long[n + 1][2][2][k + 1];
-        for (long current[][][] : dp) for (long current1[][] : current) for (long current2[] : current1) Arrays.fill(current2, -1);
-        long res = solve(0, 0, 0, k, prices);
-        return res;
+        for (long current[][][] : dp) 
+            for (long current1[][] : current) 
+                for (long current2[] : current1) 
+                    Arrays.fill(current2, -1);
+        return solve(0, 0, 0, k, prices);
     }
     private long solve(int ind, int hasBought, int hasSold, int Rem, int prices[]) {
         if (ind == prices.length - 1) {
-            if (hasBought == 1) return prices[ind];
-            else if (hasSold == 1) return -prices[ind];
+            if (hasBought == 1) 
+                return prices[ind];
+            else if (hasSold == 1) 
+                return -prices[ind];
             return 0;
         }
-        if (ind >= prices.length || Rem <= 0) return 0;
-        if (dp[ind][hasBought][hasSold][Rem] != -1) return dp[ind][hasBought][hasSold][Rem];
+        if (ind >= prices.length || Rem <= 0) 
+            return 0;
+        if (dp[ind][hasBought][hasSold][Rem] != -1) 
+            return dp[ind][hasBought][hasSold][Rem];
         if (hasBought == 0 && hasSold == 0) {
             long op1 = 0, op2 = 0, op3 = 0;
             op1 = -prices[ind] + solve(ind + 1, 1, 0, Rem, prices);
