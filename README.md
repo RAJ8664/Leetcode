@@ -242,6 +242,7 @@ Leetcode Solutions
 | [0981-delete-columns-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0991-array-of-doubled-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/RAJ8664/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -734,6 +735,7 @@ Leetcode Solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/RAJ8664/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RAJ8664/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -1680,6 +1682,7 @@ Leetcode Solutions
 | [0902-minimum-number-of-refueling-stops](https://github.com/RAJ8664/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0991-array-of-doubled-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/RAJ8664/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
