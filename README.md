@@ -729,6 +729,7 @@ Leetcode Solutions
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
@@ -1093,6 +1094,7 @@ Leetcode Solutions
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RAJ8664/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -1914,6 +1916,7 @@ Leetcode Solutions
 | [0679-24-game](https://github.com/RAJ8664/Leetcode/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/RAJ8664/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RAJ8664/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -2108,6 +2111,7 @@ Leetcode Solutions
 | [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/RAJ8664/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
