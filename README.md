@@ -149,6 +149,7 @@ Leetcode Solutions
 | [0037-sudoku-solver](https://github.com/RAJ8664/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RAJ8664/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/RAJ8664/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/RAJ8664/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
@@ -608,6 +609,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/RAJ8664/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
