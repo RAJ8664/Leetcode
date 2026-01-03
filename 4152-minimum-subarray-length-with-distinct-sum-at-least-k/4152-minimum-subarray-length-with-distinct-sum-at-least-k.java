@@ -15,31 +15,23 @@ class Solution {
     private boolean ok(int len, int arr[], int k) {
         int n = arr.length;
         long currentSum = 0;
-        HashSet<Integer> set = new HashSet<>();
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int freq[] = new int[(int)(1e5 + 1)];
         for (int i = 0; i < len; i++) {
-            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
-            if (!set.contains(arr[i])) {
-                set.add(arr[i]);
+            if (freq[arr[i]] == 0)
                 currentSum += arr[i] * 1L;
-            }
+            freq[arr[i]]++;
         }
         if (currentSum >= k)
             return true;
         int start = 0;
         for (int i = len; i < n; i++) {
             int current = arr[i], prev = arr[start];
-            map.put(arr[start], map.getOrDefault(arr[start], 0) - 1);
-            if (map.getOrDefault(arr[start], 0) == 0) {
-                map.remove(arr[start]);
-                set.remove(arr[start]);
+            freq[arr[start]]--;
+            if (freq[arr[start]] == 0)
                 currentSum -= arr[start] * 1L;
-            }
-            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
-            if (!set.contains(arr[i])) {
-                set.add(arr[i]);
+            if (freq[arr[i]] == 0)
                 currentSum += arr[i] * 1L;
-            }
+            freq[arr[i]]++;
             if (currentSum >= k)
                 return true;
             start++;
