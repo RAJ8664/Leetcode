@@ -1392,6 +1392,7 @@ Leetcode Solutions
 | [1388-greatest-sum-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RAJ8664/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/RAJ8664/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RAJ8664/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
