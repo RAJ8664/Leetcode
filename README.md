@@ -271,6 +271,7 @@ Leetcode Solutions
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-online-majority-element-in-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1284-four-divisors](https://github.com/RAJ8664/Leetcode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/RAJ8664/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1311-largest-magic-square](https://github.com/RAJ8664/Leetcode/tree/master/1311-largest-magic-square) |
 | [1331-path-with-maximum-gold](https://github.com/RAJ8664/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -641,6 +642,7 @@ Leetcode Solutions
 | [1018-largest-perimeter-triangle](https://github.com/RAJ8664/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/RAJ8664/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1284-four-divisors](https://github.com/RAJ8664/Leetcode/tree/master/1284-four-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RAJ8664/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
