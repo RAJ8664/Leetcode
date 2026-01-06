@@ -28,6 +28,7 @@ Leetcode Solutions
 | [1021-distribute-coins-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/RAJ8664/Leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -77,6 +78,7 @@ Leetcode Solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/RAJ8664/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/RAJ8664/Leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -129,6 +131,7 @@ Leetcode Solutions
 | [1021-distribute-coins-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/RAJ8664/Leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -574,6 +577,7 @@ Leetcode Solutions
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/RAJ8664/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/RAJ8664/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
