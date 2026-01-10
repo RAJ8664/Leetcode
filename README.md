@@ -750,6 +750,7 @@ Leetcode Solutions
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RAJ8664/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
@@ -1381,6 +1382,7 @@ Leetcode Solutions
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RAJ8664/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0769-largest-plus-sign](https://github.com/RAJ8664/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RAJ8664/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/RAJ8664/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
