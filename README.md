@@ -161,6 +161,7 @@ Leetcode Solutions
 | [0066-plus-one](https://github.com/RAJ8664/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/RAJ8664/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -1359,6 +1360,7 @@ Leetcode Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAJ8664/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RAJ8664/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -1473,6 +1475,7 @@ Leetcode Solutions
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/RAJ8664/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -1515,6 +1518,7 @@ Leetcode Solutions
 | [0037-sudoku-solver](https://github.com/RAJ8664/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RAJ8664/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/RAJ8664/Leetcode/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/RAJ8664/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1574,6 +1578,7 @@ Leetcode Solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/RAJ8664/Leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
