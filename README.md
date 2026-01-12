@@ -291,6 +291,7 @@ Leetcode Solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RAJ8664/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/RAJ8664/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1395-minimum-time-visiting-all-points](https://github.com/RAJ8664/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -658,6 +659,7 @@ Leetcode Solutions
 | [1064-smallest-integer-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/RAJ8664/Leetcode/tree/master/1284-four-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1395-minimum-time-visiting-all-points](https://github.com/RAJ8664/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RAJ8664/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/RAJ8664/Leetcode/tree/master/1448-maximum-69-number) |
@@ -2135,6 +2137,7 @@ Leetcode Solutions
 | ------- |
 | [0223-rectangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1395-minimum-time-visiting-all-points](https://github.com/RAJ8664/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RAJ8664/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Randomized
