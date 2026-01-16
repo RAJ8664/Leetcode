@@ -497,6 +497,7 @@ Leetcode Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RAJ8664/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RAJ8664/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RAJ8664/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1237,6 +1238,7 @@ Leetcode Solutions
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RAJ8664/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -2219,6 +2221,7 @@ Leetcode Solutions
 | [2998-count-symmetric-integers](https://github.com/RAJ8664/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RAJ8664/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/RAJ8664/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RAJ8664/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RAJ8664/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
