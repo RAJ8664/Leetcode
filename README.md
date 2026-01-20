@@ -530,6 +530,7 @@ Leetcode Solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RAJ8664/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RAJ8664/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -2207,6 +2208,7 @@ Leetcode Solutions
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RAJ8664/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RAJ8664/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RAJ8664/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RAJ8664/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Enumeration
