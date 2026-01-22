@@ -555,6 +555,7 @@ Leetcode Solutions
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RAJ8664/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3763-separate-squares-i](https://github.com/RAJ8664/Leetcode/tree/master/3763-separate-squares-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1262,6 +1263,7 @@ Leetcode Solutions
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RAJ8664/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RAJ8664/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RAJ8664/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/RAJ8664/Leetcode/tree/master/3809-properties-graph) |
@@ -1309,6 +1311,7 @@ Leetcode Solutions
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RAJ8664/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -1650,6 +1653,7 @@ Leetcode Solutions
 | [3616-make-array-elements-equal-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/RAJ8664/Leetcode/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Doubly-Linked List
@@ -1661,6 +1665,7 @@ Leetcode Solutions
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1957,6 +1962,7 @@ Leetcode Solutions
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/RAJ8664/Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 ## Backtracking
@@ -2109,6 +2115,7 @@ Leetcode Solutions
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Union Find
 |  |
 | ------- |
