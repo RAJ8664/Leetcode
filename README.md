@@ -2125,6 +2125,7 @@ Leetcode Solutions
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Union Find
 |  |
 | ------- |
@@ -2325,6 +2326,7 @@ Leetcode Solutions
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/RAJ8664/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Number Theory
 |  |
 | ------- |
@@ -2408,4 +2410,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
