@@ -19,7 +19,7 @@ class Solution {
     private ArrayList<ArrayList<Pair>> adj;
     public int minCost(int n, int[][] edges) {
         adj = new ArrayList<>();
-        for (int i = 0; i <= n; i++) 
+        for (int i = 0; i <= n + 1; i++)
             adj.add(new ArrayList<>());
         for (int edge[] : edges) {
             int u = edge[0], v = edge[1], wt = edge[2];
@@ -44,7 +44,7 @@ class Solution {
             }
         }
         if (dist[n - 1] == (int)(1e9)) 
-            return - 1;
+            return -1;
         return dist[n - 1];
     }
 }
