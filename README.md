@@ -574,6 +574,7 @@ Leetcode Solutions
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
@@ -1496,6 +1497,7 @@ Leetcode Solutions
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Stack
 |  |
@@ -1600,6 +1602,7 @@ Leetcode Solutions
 | [3748-sort-matrix-by-diagonals](https://github.com/RAJ8664/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/RAJ8664/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
 | ------- |
