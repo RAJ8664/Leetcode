@@ -215,6 +215,7 @@ Leetcode Solutions
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/RAJ8664/Leetcode/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/RAJ8664/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RAJ8664/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0769-largest-plus-sign](https://github.com/RAJ8664/Leetcode/tree/master/0769-largest-plus-sign) |
@@ -1052,6 +1053,7 @@ Leetcode Solutions
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RAJ8664/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RAJ8664/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/RAJ8664/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/RAJ8664/Leetcode/tree/master/0755-reach-a-number) |
 | [0794-swim-in-rising-water](https://github.com/RAJ8664/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
