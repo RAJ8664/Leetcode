@@ -579,6 +579,7 @@ Leetcode Solutions
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3952-trionic-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3952-trionic-array-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 ## Breadth-First Search
