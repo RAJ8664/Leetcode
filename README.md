@@ -580,6 +580,7 @@ Leetcode Solutions
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3952-trionic-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 ## Breadth-First Search
@@ -1506,6 +1507,7 @@ Leetcode Solutions
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
