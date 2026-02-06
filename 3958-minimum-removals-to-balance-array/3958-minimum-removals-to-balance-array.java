@@ -10,7 +10,8 @@ class Solution {
                 ans = mid;
                 high = mid - 1;
             }
-            else low = mid + 1;
+            else 
+                low = mid + 1;
         }
         return ans;
     }
@@ -19,10 +20,11 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int totalDel = i;
             long req = k * 1L * arr[i];
-            
             int get = findGreater(arr, i + 1, n - 1, req);
-            if (get != -1) totalDel += n - get;
-            if (totalDel <= target) return true;
+            if (get != -1) 
+                totalDel += n - get;
+            if (totalDel <= target) 
+                return true;
         }
         return false;
     }
@@ -35,7 +37,8 @@ class Solution {
                 ans = mid;
                 high = mid - 1;
             }
-            else low = mid + 1;
+            else 
+                low = mid + 1;
         }
         return ans;
     }
