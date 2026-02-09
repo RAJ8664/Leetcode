@@ -33,6 +33,7 @@ Leetcode Solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/RAJ8664/Leetcode/tree/master/1248-binary-tree-coloring-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/RAJ8664/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -86,6 +87,7 @@ Leetcode Solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/RAJ8664/Leetcode/tree/master/1248-binary-tree-coloring-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RAJ8664/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RAJ8664/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -142,6 +144,7 @@ Leetcode Solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RAJ8664/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/RAJ8664/Leetcode/tree/master/1248-binary-tree-coloring-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/RAJ8664/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -1074,6 +1077,7 @@ Leetcode Solutions
 | [0947-online-election](https://github.com/RAJ8664/Leetcode/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/RAJ8664/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1262-online-majority-element-in-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/RAJ8664/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RAJ8664/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1785,6 +1789,7 @@ Leetcode Solutions
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RAJ8664/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
+| [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/RAJ8664/Leetcode/tree/master/1304-longest-happy-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -2089,6 +2094,7 @@ Leetcode Solutions
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAJ8664/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
