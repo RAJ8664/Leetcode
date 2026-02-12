@@ -898,6 +898,7 @@ Leetcode Solutions
 | [3797-design-spreadsheet](https://github.com/RAJ8664/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/RAJ8664/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1300,6 +1301,7 @@ Leetcode Solutions
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
@@ -1400,6 +1402,7 @@ Leetcode Solutions
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
+| [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2290,6 +2293,7 @@ Leetcode Solutions
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RAJ8664/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RAJ8664/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Monotonic Queue
 |  |
 | ------- |
