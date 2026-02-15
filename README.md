@@ -653,6 +653,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RAJ8664/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RAJ8664/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RAJ8664/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/RAJ8664/Leetcode/tree/master/0224-basic-calculator) |
@@ -754,6 +755,7 @@ Leetcode Solutions
 | [0010-regular-expression-matching](https://github.com/RAJ8664/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RAJ8664/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/RAJ8664/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/RAJ8664/Leetcode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/RAJ8664/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/RAJ8664/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -1655,6 +1657,7 @@ Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RAJ8664/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/RAJ8664/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RAJ8664/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1048-clumsy-factorial](https://github.com/RAJ8664/Leetcode/tree/master/1048-clumsy-factorial) |
@@ -2220,6 +2223,7 @@ Leetcode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RAJ8664/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RAJ8664/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/RAJ8664/Leetcode/tree/master/0342-power-of-four) |
