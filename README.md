@@ -2103,6 +2103,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RAJ8664/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/RAJ8664/Leetcode/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/RAJ8664/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0324-wiggle-sort-ii](https://github.com/RAJ8664/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
@@ -2224,6 +2225,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RAJ8664/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/RAJ8664/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RAJ8664/Leetcode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RAJ8664/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/RAJ8664/Leetcode/tree/master/0342-power-of-four) |
