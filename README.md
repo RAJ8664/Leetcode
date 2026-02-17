@@ -2020,6 +2020,7 @@ Leetcode Solutions
 | [0126-word-ladder-ii](https://github.com/RAJ8664/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/RAJ8664/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/RAJ8664/Leetcode/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/RAJ8664/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
@@ -2230,6 +2231,7 @@ Leetcode Solutions
 | [0318-maximum-product-of-word-lengths](https://github.com/RAJ8664/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/RAJ8664/Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/RAJ8664/Leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/RAJ8664/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/RAJ8664/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
