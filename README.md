@@ -783,6 +783,7 @@ Leetcode Solutions
 | [0677-map-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/RAJ8664/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/RAJ8664/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0696-count-binary-substrings](https://github.com/RAJ8664/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RAJ8664/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
@@ -1936,6 +1937,7 @@ Leetcode Solutions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RAJ8664/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/RAJ8664/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/RAJ8664/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/RAJ8664/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RAJ8664/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/RAJ8664/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
