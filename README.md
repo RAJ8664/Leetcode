@@ -787,6 +787,7 @@ Leetcode Solutions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RAJ8664/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-prefix-and-suffix-search](https://github.com/RAJ8664/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
+| [0763-special-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/RAJ8664/Leetcode/tree/master/0768-partition-labels) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/RAJ8664/Leetcode/tree/master/0812-rotate-string) |
@@ -918,6 +919,7 @@ Leetcode Solutions
 | [0611-valid-triangle-number](https://github.com/RAJ8664/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RAJ8664/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RAJ8664/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-special-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/0763-special-binary-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/RAJ8664/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RAJ8664/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -2111,6 +2113,7 @@ Leetcode Solutions
 | [0324-wiggle-sort-ii](https://github.com/RAJ8664/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/RAJ8664/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
+| [0763-special-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/0763-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
