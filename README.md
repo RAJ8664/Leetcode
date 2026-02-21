@@ -673,6 +673,7 @@ Leetcode Solutions
 | [0670-maximum-swap](https://github.com/RAJ8664/Leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/RAJ8664/Leetcode/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/RAJ8664/Leetcode/tree/master/0755-reach-a-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RAJ8664/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/RAJ8664/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RAJ8664/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/RAJ8664/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -2243,6 +2244,7 @@ Leetcode Solutions
 | [0693-binary-number-with-alternating-bits](https://github.com/RAJ8664/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RAJ8664/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/RAJ8664/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
