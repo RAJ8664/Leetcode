@@ -2245,6 +2245,7 @@ Leetcode Solutions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/RAJ8664/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0757-pyramid-transition-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RAJ8664/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/RAJ8664/Leetcode/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/RAJ8664/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
