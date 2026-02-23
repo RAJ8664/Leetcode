@@ -822,6 +822,7 @@ Leetcode Solutions
 | [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RAJ8664/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/RAJ8664/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1220,6 +1221,7 @@ Leetcode Solutions
 | [1500-count-largest-group](https://github.com/RAJ8664/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/RAJ8664/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RAJ8664/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -1910,6 +1912,7 @@ Leetcode Solutions
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
 ## String Matching
 |  |
@@ -1926,6 +1929,7 @@ Leetcode Solutions
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RAJ8664/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
 ## Two Pointers
 |  |
@@ -2250,6 +2254,7 @@ Leetcode Solutions
 | [1071-binary-prefix-divisible-by-5](https://github.com/RAJ8664/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RAJ8664/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RAJ8664/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
