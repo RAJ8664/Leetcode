@@ -4,11 +4,11 @@ class Solution {
         char txt[] = s.toCharArray();
         Hashing hash = new Hashing(txt);
         HashSet<Long> found_hashes = new HashSet<>();
-        for(int i = 0; i < txt.length; i++) {
-            if(i + k - 1 >= txt.length) break;
+        for (int i = 0; i < txt.length; i++) {
+            if (i + k - 1 >= txt.length) break;
             found_hashes.add(hash.getHashbounds(i , i + k - 1));
         }
-        if(found_hashes.size() != Math.pow(2 , k)) return false;
+        if (found_hashes.size() != Math.pow(2 , k)) return false;
         return true;  
     }
     
