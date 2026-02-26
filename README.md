@@ -824,6 +824,7 @@ Leetcode Solutions
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RAJ8664/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RAJ8664/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/RAJ8664/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -1671,6 +1672,7 @@ Leetcode Solutions
 | [0592-fraction-addition-and-subtraction](https://github.com/RAJ8664/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1048-clumsy-factorial](https://github.com/RAJ8664/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RAJ8664/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -2257,6 +2259,7 @@ Leetcode Solutions
 | [1071-binary-prefix-divisible-by-5](https://github.com/RAJ8664/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/RAJ8664/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RAJ8664/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RAJ8664/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RAJ8664/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
