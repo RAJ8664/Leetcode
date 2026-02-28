@@ -594,6 +594,7 @@ Leetcode Solutions
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -753,6 +754,7 @@ Leetcode Solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## String
 |  |
 | ------- |
@@ -1540,6 +1542,7 @@ Leetcode Solutions
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
+| [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## Stack
 |  |
 | ------- |
@@ -1914,6 +1917,7 @@ Leetcode Solutions
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -2410,6 +2414,7 @@ Leetcode Solutions
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RAJ8664/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## Bitmask
 |  |
 | ------- |
