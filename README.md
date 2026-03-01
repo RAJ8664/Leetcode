@@ -842,6 +842,7 @@ Leetcode Solutions
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RAJ8664/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/RAJ8664/Leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1871-palindrome-partitioning-iv](https://github.com/RAJ8664/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RAJ8664/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1829,6 +1830,7 @@ Leetcode Solutions
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/RAJ8664/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RAJ8664/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/RAJ8664/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/RAJ8664/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/RAJ8664/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
