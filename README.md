@@ -354,6 +354,7 @@ Leetcode Solutions
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RAJ8664/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/RAJ8664/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/RAJ8664/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RAJ8664/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -2090,6 +2091,7 @@ Leetcode Solutions
 | [1783-ways-to-make-a-fair-array](https://github.com/RAJ8664/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/RAJ8664/Leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/RAJ8664/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RAJ8664/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
