@@ -336,6 +336,7 @@ Leetcode Solutions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RAJ8664/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/RAJ8664/Leetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1656-count-good-triplets](https://github.com/RAJ8664/Leetcode/tree/master/1656-count-good-triplets) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RAJ8664/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/RAJ8664/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/RAJ8664/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -1617,6 +1618,7 @@ Leetcode Solutions
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/RAJ8664/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RAJ8664/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -1828,6 +1830,7 @@ Leetcode Solutions
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RAJ8664/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RAJ8664/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/RAJ8664/Leetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RAJ8664/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/RAJ8664/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RAJ8664/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RAJ8664/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
