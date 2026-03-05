@@ -848,6 +848,7 @@ Leetcode Solutions
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/RAJ8664/Leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1871-palindrome-partitioning-iv](https://github.com/RAJ8664/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RAJ8664/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
