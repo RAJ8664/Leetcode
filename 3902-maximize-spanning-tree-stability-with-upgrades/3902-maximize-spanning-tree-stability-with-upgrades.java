@@ -18,6 +18,7 @@ class Solution {
             return Integer.compare(second.weight, first.weight);
         }
     }
+    
     public int maxStability(int n, int[][] edges, int k) {
         ArrayList<Tuple> upgradeEdge = new ArrayList<>();
         int count = 0;
