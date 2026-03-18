@@ -529,6 +529,7 @@ Leetcode Solutions
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/RAJ8664/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RAJ8664/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/RAJ8664/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RAJ8664/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1660,6 +1661,7 @@ Leetcode Solutions
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2138,6 +2140,7 @@ Leetcode Solutions
 | [2625-increment-submatrices-by-one](https://github.com/RAJ8664/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RAJ8664/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RAJ8664/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RAJ8664/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
