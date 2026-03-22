@@ -376,6 +376,7 @@ Leetcode Solutions
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RAJ8664/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RAJ8664/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2023-design-movie-rental-system](https://github.com/RAJ8664/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -1647,6 +1648,7 @@ Leetcode Solutions
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RAJ8664/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/RAJ8664/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
