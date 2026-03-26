@@ -593,6 +593,7 @@ Leetcode Solutions
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RAJ8664/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1339,6 +1340,7 @@ Leetcode Solutions
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
@@ -1683,6 +1685,7 @@ Leetcode Solutions
 | [3797-design-spreadsheet](https://github.com/RAJ8664/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RAJ8664/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/RAJ8664/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -2169,6 +2172,7 @@ Leetcode Solutions
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
@@ -2388,6 +2392,7 @@ Leetcode Solutions
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RAJ8664/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Monotonic Queue
 |  |
