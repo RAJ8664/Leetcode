@@ -28,7 +28,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>​​​​​​​At index <code>i = 1</code>, the two compared positions coincide, so both characters are <code>&#39;b&#39;</code>.</p>
+<p>âââââââAt index <code>i = 1</code>, the two compared positions coincide, so both characters are <code>&#39;b&#39;</code>.</p>
 
 <p>No smaller index satisfies the condition, so the answer is 1.</p>
 </div>
@@ -42,7 +42,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>​​​​​​​For every index <code>i</code>, the characters at positions <code>i</code> and <code>n - i - 1</code> are different.</p>
+<p>âââââââFor every index <code>i</code>, the characters at positions <code>i</code> and <code>n - i - 1</code> are different.</p>
 
 <p>Therefore, no valid index exists, so the answer is -1.</p>
 </div>
