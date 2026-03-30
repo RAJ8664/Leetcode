@@ -906,6 +906,7 @@ Leetcode Solutions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RAJ8664/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RAJ8664/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RAJ8664/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
@@ -1019,6 +1020,7 @@ Leetcode Solutions
 | [2845-find-the-value-of-the-partition](https://github.com/RAJ8664/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3151-minimum-processing-time](https://github.com/RAJ8664/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/RAJ8664/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
@@ -1317,6 +1319,7 @@ Leetcode Solutions
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RAJ8664/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
