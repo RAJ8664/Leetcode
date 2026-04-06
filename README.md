@@ -691,6 +691,7 @@ Leetcode Solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RAJ8664/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/RAJ8664/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/RAJ8664/Leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/RAJ8664/Leetcode/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/RAJ8664/Leetcode/tree/master/0755-reach-a-number) |
@@ -1113,6 +1114,7 @@ Leetcode Solutions
 | [0410-split-array-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RAJ8664/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0611-valid-triangle-number](https://github.com/RAJ8664/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/RAJ8664/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0669-trim-a-binary-search-tree](https://github.com/RAJ8664/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RAJ8664/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/RAJ8664/Leetcode/tree/master/0729-my-calendar-i) |
