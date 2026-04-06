@@ -251,6 +251,7 @@ Leetcode Solutions
 | [0901-advantage-shuffle](https://github.com/RAJ8664/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RAJ8664/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/RAJ8664/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/RAJ8664/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1226,6 +1227,7 @@ Leetcode Solutions
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RAJ8664/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/RAJ8664/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/RAJ8664/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -1727,6 +1729,7 @@ Leetcode Solutions
 | [0498-diagonal-traverse](https://github.com/RAJ8664/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RAJ8664/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/RAJ8664/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0906-walking-robot-simulation](https://github.com/RAJ8664/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1048-clumsy-factorial](https://github.com/RAJ8664/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1342-queens-that-can-attack-the-king](https://github.com/RAJ8664/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RAJ8664/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
