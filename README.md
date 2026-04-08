@@ -608,6 +608,7 @@ Leetcode Solutions
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/RAJ8664/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/RAJ8664/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/RAJ8664/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -1773,6 +1774,7 @@ Leetcode Solutions
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/RAJ8664/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2211,6 +2213,7 @@ Leetcode Solutions
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAJ8664/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/RAJ8664/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
