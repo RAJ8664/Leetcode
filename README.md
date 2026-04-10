@@ -613,6 +613,7 @@ Leetcode Solutions
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RAJ8664/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1361,6 +1362,7 @@ Leetcode Solutions
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RAJ8664/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Trie
 |  |
 | ------- |
