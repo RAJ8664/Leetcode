@@ -1,8 +1,8 @@
 class Solution:
     def triangle_angles(self, a, b, c) -> list[float]:
-        A = math.acos((b*b + c*c - a*a) / (2*b*c))
-        B = math.acos((a*a + c*c - b*b) / (2*a*c))
-        C = math.acos((a*a + b*b - c*c) / (2*a*b))
+        A = math.acos((b * b + c * c - a * a) / (2 * b * c))
+        B = math.acos((a * a + c * c - b * b) / (2 * a * c))
+        C = math.acos((a * a + b * b - c * c) / (2 * a * b))
         
         A = math.degrees(A)
         B = math.degrees(B)
