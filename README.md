@@ -465,6 +465,7 @@ Leetcode Solutions
 | [2587-design-memory-allocator](https://github.com/RAJ8664/Leetcode/tree/master/2587-design-memory-allocator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RAJ8664/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2591-frog-jump-ii](https://github.com/RAJ8664/Leetcode/tree/master/2591-frog-jump-ii) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RAJ8664/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RAJ8664/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2601-number-of-great-partitions](https://github.com/RAJ8664/Leetcode/tree/master/2601-number-of-great-partitions) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/RAJ8664/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -911,6 +912,7 @@ Leetcode Solutions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/RAJ8664/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/RAJ8664/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/RAJ8664/Leetcode/tree/master/2580-circular-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RAJ8664/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RAJ8664/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RAJ8664/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2755-extra-characters-in-a-string) |
