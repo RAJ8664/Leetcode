@@ -197,6 +197,7 @@ Leetcode Solutions
 | [0416-partition-equal-subset-sum](https://github.com/RAJ8664/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RAJ8664/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/RAJ8664/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RAJ8664/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/RAJ8664/Leetcode/tree/master/0457-circular-array-loop) |
@@ -694,6 +695,7 @@ Leetcode Solutions
 | [0372-super-pow](https://github.com/RAJ8664/Leetcode/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/RAJ8664/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/RAJ8664/Leetcode/tree/master/0396-rotate-function) |
+| [0447-number-of-boomerangs](https://github.com/RAJ8664/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RAJ8664/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/RAJ8664/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1215,6 +1217,7 @@ Leetcode Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/RAJ8664/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/RAJ8664/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RAJ8664/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0447-number-of-boomerangs](https://github.com/RAJ8664/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/RAJ8664/Leetcode/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/RAJ8664/Leetcode/tree/master/0460-lfu-cache) |
