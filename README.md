@@ -98,6 +98,7 @@ Leetcode Solutions
 | [1558-course-schedule-iv](https://github.com/RAJ8664/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RAJ8664/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/RAJ8664/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/RAJ8664/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
@@ -355,6 +356,7 @@ Leetcode Solutions
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RAJ8664/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1830-count-good-meals](https://github.com/RAJ8664/Leetcode/tree/master/1830-count-good-meals) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/RAJ8664/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RAJ8664/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RAJ8664/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RAJ8664/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -2597,6 +2599,7 @@ Leetcode Solutions
 ## Union-Find
 |  |
 | ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/RAJ8664/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
