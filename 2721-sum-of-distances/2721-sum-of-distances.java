@@ -6,8 +6,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int curr_ele = nums[i];
             if (map.containsKey(curr_ele)) {
-                ArrayList<Integer> temp = new ArrayList<>();
-                temp = map.get(curr_ele);
+                ArrayList<Integer> temp = map.get(curr_ele);
                 temp.add(i);
                 map.put(curr_ele, temp);
             } else {
@@ -20,31 +19,28 @@ class Solution {
         HashMap<Integer, ArrayList<Long>> pref = new HashMap<>();
         for (Map.Entry<Integer, ArrayList<Integer>> curr : map.entrySet()) {
             int key = curr.getKey();
-            ArrayList<Integer> arr = new ArrayList<>();
-            arr = curr.getValue();
-
+            ArrayList<Integer> arr = curr.getValue();
             if (arr.size() == 0) continue;
 
             ArrayList<Long> prefix = new ArrayList<>();
             for (int i = 0; i < arr.size(); i++) 
                 prefix.add(0L);
-                
             prefix.set(0, arr.get(0) * 1L);
             for (int i = 1; i < arr.size(); i++) 
                 prefix.set(i, prefix.get(i - 1) * 1L + arr.get(i) * 1L);
+        
             pref.put(key, prefix);
         }
 
         long res[] = new long[n];
         for (int i = 0; i < n; i++) {
             int ele = nums[i];
-            ArrayList<Integer> curr_idx = new ArrayList<>();
-            ArrayList<Long> curr_pref = new ArrayList<>();
-            curr_idx = map.get(ele);
-            curr_pref = pref.get(ele);
+            ArrayList<Integer> curr_idx = map.get(ele);
+            ArrayList<Long> curr_pref = pref.get(ele);
+            
+            int left_idx = binary_search_left(curr_idx, i);
             
             long total_sum = 0;
-            int left_idx = binary_search_left(curr_idx, i);
             if (left_idx != -1) {
                 total_sum = (total_sum + (left_idx + 1) * 1L * i);
                 total_sum = (total_sum - curr_pref.get(left_idx));
