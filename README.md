@@ -932,6 +932,7 @@ Leetcode Solutions
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RAJ8664/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3019-furthest-point-from-origin](https://github.com/RAJ8664/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RAJ8664/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1477,6 +1478,7 @@ Leetcode Solutions
 | [2448-count-number-of-bad-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/RAJ8664/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3019-furthest-point-from-origin](https://github.com/RAJ8664/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RAJ8664/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
