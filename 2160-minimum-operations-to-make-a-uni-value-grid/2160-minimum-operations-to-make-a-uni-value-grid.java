@@ -8,7 +8,6 @@ class Solution {
                 if (grid[i][j] % x != mod) return -1;
             }
         }   
-
         ArrayList<Integer> res = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) res.add(grid[i][j]);
