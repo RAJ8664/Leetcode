@@ -511,6 +511,7 @@ Leetcode Solutions
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/RAJ8664/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2892-check-if-array-is-good](https://github.com/RAJ8664/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RAJ8664/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -1053,6 +1054,7 @@ Leetcode Solutions
 | [2846-robot-collisions](https://github.com/RAJ8664/Leetcode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2892-check-if-array-is-good](https://github.com/RAJ8664/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3151-minimum-processing-time](https://github.com/RAJ8664/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/RAJ8664/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -1356,6 +1358,7 @@ Leetcode Solutions
 | [2778-frequency-tracker](https://github.com/RAJ8664/Leetcode/tree/master/2778-frequency-tracker) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RAJ8664/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2892-check-if-array-is-good](https://github.com/RAJ8664/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
