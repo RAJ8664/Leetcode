@@ -803,6 +803,7 @@ Leetcode Solutions
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/RAJ8664/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
+| [4303-count-k-th-roots-in-a-range](https://github.com/RAJ8664/Leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
 ## String
 |  |
 | ------- |
@@ -1220,6 +1221,7 @@ Leetcode Solutions
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
+| [4303-count-k-th-roots-in-a-range](https://github.com/RAJ8664/Leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Hash Table
 |  |
 | ------- |
