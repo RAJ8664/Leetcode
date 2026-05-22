@@ -971,6 +971,7 @@ Leetcode Solutions
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4305-check-adjacent-digit-differences](https://github.com/RAJ8664/Leetcode/tree/master/4305-check-adjacent-digit-differences) |
 ## Sorting
 |  |
 | ------- |
