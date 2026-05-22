@@ -628,6 +628,7 @@ Leetcode Solutions
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
+| [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RAJ8664/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -1221,6 +1222,7 @@ Leetcode Solutions
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
+| [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/RAJ8664/Leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Hash Table
 |  |
@@ -1398,6 +1400,7 @@ Leetcode Solutions
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RAJ8664/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -2042,6 +2045,7 @@ Leetcode Solutions
 | [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -2059,6 +2063,7 @@ Leetcode Solutions
 | [1508-longest-happy-prefix](https://github.com/RAJ8664/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RAJ8664/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2275-find-substring-with-given-hash-value](https://github.com/RAJ8664/Leetcode/tree/master/2275-find-substring-with-given-hash-value) |
+| [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2639,4 +2644,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
