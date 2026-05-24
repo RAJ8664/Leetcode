@@ -318,6 +318,7 @@ Leetcode Solutions
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RAJ8664/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1466-jump-game-v](https://github.com/RAJ8664/Leetcode/tree/master/1466-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RAJ8664/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1011,6 +1012,7 @@ Leetcode Solutions
 | [1388-greatest-sum-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/RAJ8664/Leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1466-jump-game-v](https://github.com/RAJ8664/Leetcode/tree/master/1466-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RAJ8664/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RAJ8664/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/RAJ8664/Leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -1566,6 +1568,7 @@ Leetcode Solutions
 | [1388-greatest-sum-divisible-by-three](https://github.com/RAJ8664/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RAJ8664/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RAJ8664/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1466-jump-game-v](https://github.com/RAJ8664/Leetcode/tree/master/1466-jump-game-v) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/RAJ8664/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RAJ8664/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
