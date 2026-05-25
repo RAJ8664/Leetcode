@@ -903,6 +903,7 @@ Leetcode Solutions
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RAJ8664/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2001-jump-game-vii](https://github.com/RAJ8664/Leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RAJ8664/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1590,6 +1591,7 @@ Leetcode Solutions
 | [1871-palindrome-partitioning-iv](https://github.com/RAJ8664/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/RAJ8664/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
+| [2001-jump-game-vii](https://github.com/RAJ8664/Leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RAJ8664/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2078-maximum-compatibility-score-sum](https://github.com/RAJ8664/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RAJ8664/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1867,6 +1869,7 @@ Leetcode Solutions
 | [1755-defuse-the-bomb](https://github.com/RAJ8664/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2001-jump-game-vii](https://github.com/RAJ8664/Leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RAJ8664/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RAJ8664/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RAJ8664/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -2220,6 +2223,7 @@ Leetcode Solutions
 | [1940-maximum-xor-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2001-jump-game-vii](https://github.com/RAJ8664/Leetcode/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/RAJ8664/Leetcode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RAJ8664/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
