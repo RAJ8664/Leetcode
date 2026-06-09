@@ -631,6 +631,7 @@ Leetcode Solutions
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/RAJ8664/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4005-maximum-total-subarray-value-i](https://github.com/RAJ8664/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
@@ -2020,6 +2021,7 @@ Leetcode Solutions
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RAJ8664/Leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4005-maximum-total-subarray-value-i](https://github.com/RAJ8664/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Data Stream
 |  |
 | ------- |
