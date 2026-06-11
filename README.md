@@ -634,6 +634,7 @@ Leetcode Solutions
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RAJ8664/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RAJ8664/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
@@ -2025,6 +2026,7 @@ Leetcode Solutions
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RAJ8664/Leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RAJ8664/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -2163,6 +2165,7 @@ Leetcode Solutions
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/RAJ8664/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
@@ -2359,6 +2362,7 @@ Leetcode Solutions
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Union Find
 |  |
 | ------- |
