@@ -56,6 +56,7 @@ Leetcode Solutions
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RAJ8664/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RAJ8664/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RAJ8664/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/RAJ8664/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 ## Depth-First Search
@@ -124,6 +125,7 @@ Leetcode Solutions
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RAJ8664/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3809-properties-graph](https://github.com/RAJ8664/Leetcode/tree/master/3809-properties-graph) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/RAJ8664/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
@@ -614,6 +616,7 @@ Leetcode Solutions
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -809,6 +812,7 @@ Leetcode Solutions
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/RAJ8664/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/RAJ8664/Leetcode/tree/master/3830-find-closest-person) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/RAJ8664/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -1652,6 +1656,7 @@ Leetcode Solutions
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
@@ -2477,6 +2482,7 @@ Leetcode Solutions
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RAJ8664/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Enumeration
 |  |
 | ------- |
