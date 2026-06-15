@@ -1465,6 +1465,7 @@ Leetcode Solutions
 | [1767-design-front-middle-back-queue](https://github.com/RAJ8664/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/RAJ8664/Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/RAJ8664/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2389-design-a-text-editor](https://github.com/RAJ8664/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -2133,6 +2134,7 @@ Leetcode Solutions
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RAJ8664/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RAJ8664/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/RAJ8664/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/RAJ8664/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RAJ8664/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
