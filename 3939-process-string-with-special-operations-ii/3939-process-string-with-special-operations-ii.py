@@ -1,5 +1,6 @@
 class Solution:
     def processStr(self, s: str, k: int) -> str:
+        # can't figure it out!!!!!
         length = 0
         for c in s:
             if c == "*":
