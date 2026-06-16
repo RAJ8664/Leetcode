@@ -991,6 +991,7 @@ Leetcode Solutions
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/RAJ8664/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 | [4305-check-adjacent-digit-differences](https://github.com/RAJ8664/Leetcode/tree/master/4305-check-adjacent-digit-differences) |
@@ -1859,6 +1860,7 @@ Leetcode Solutions
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RAJ8664/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3931-process-string-with-special-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/RAJ8664/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Doubly-Linked List
 |  |
