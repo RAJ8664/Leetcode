@@ -33,12 +33,10 @@ class Solution:
                 
                 # check if this can be a valid path
                 if child_label == curr_data.last_char:
-                    if curr_data.repeat + 1 <= k:
-                        if dist[child_node] > curr_data.curr_weight + child_weight:
+                    if curr_data.repeat + 1 <= k and dist[child_node] > curr_data.curr_weight + child_weight:
                             dist[child_node] = curr_data.curr_weight + child_weight 
                             heapq.heappush(pq, Data(child_node, dist[child_node], child_label, curr_data.repeat + 1))
-                else:
-                    if dist[child_node] > curr_data.curr_weight + child_weight:
+                elif dist[child_node] > curr_data.curr_weight + child_weight:
                         dist[child_node] = curr_data.curr_weight + child_weight 
                         heapq.heappush(pq, Data(child_node, dist[child_node], child_label, 1))
 
