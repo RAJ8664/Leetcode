@@ -1,11 +1,3 @@
-class Pair:
-    def __init__(self, node: int, weight: int) -> None:
-        self.node = node
-        self.weight = weight
-
-    def __repr__(self) -> str:
-        return f"({self.node}, {self.weight})"
-
 class Data:
     def __init__(self, node: int, curr_weight: int, last_char: str, repeat: int) -> None:
         self.node = node
@@ -25,7 +17,7 @@ class Solution:
 
         for edge in edges:
             u, v, wt = edge[0], edge[1], edge[2]
-            adj[u].append(Pair(v, wt))
+            adj[u].append((v, wt))
 
         if n == 1:
             return 0
@@ -36,22 +28,19 @@ class Solution:
         
         while pq:
             curr_data = heapq.heappop(pq)
-            for child_pair in adj[curr_data.node]:
-                child_node = child_pair.node
-                child_dist = child_pair.weight
+            for child_node, child_weight in adj[curr_data.node]:
                 child_label = str(labels[child_node])
                 
                 # check if this can be a valid path
                 if child_label == curr_data.last_char:
                     if curr_data.repeat + 1 <= k:
-                        if dist[child_node] > curr_data.curr_weight + child_dist:
-                            dist[child_node] = curr_data.curr_weight + child_dist
+                        if dist[child_node] > curr_data.curr_weight + child_weight:
+                            dist[child_node] = curr_data.curr_weight + child_weight 
                             heapq.heappush(pq, Data(child_node, dist[child_node], child_label, curr_data.repeat + 1))
                 else:
-                    if dist[child_node] > curr_data.curr_weight + child_dist:
-                        dist[child_node] = curr_data.curr_weight + child_dist
+                    if dist[child_node] > curr_data.curr_weight + child_weight:
+                        dist[child_node] = curr_data.curr_weight + child_weight 
                         heapq.heappush(pq, Data(child_node, dist[child_node], child_label, 1))
 
         if dist[n - 1] == 10 ** 9: return -1
         return dist[n - 1]        
-
