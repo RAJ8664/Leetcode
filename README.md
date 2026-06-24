@@ -744,6 +744,7 @@ Leetcode Solutions
 | [0870-magic-squares-in-grid](https://github.com/RAJ8664/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [0913-random-flip-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0913-random-flip-matrix) |
 | [0946-smallest-range-ii](https://github.com/RAJ8664/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/RAJ8664/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -1304,6 +1305,7 @@ Leetcode Solutions
 | [0900-reordered-power-of-2](https://github.com/RAJ8664/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RAJ8664/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/RAJ8664/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0913-random-flip-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0913-random-flip-matrix) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAJ8664/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RAJ8664/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/RAJ8664/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -2444,6 +2446,7 @@ Leetcode Solutions
 | ------- |
 | [0384-shuffle-an-array](https://github.com/RAJ8664/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0912-random-pick-with-weight](https://github.com/RAJ8664/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [0913-random-flip-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0913-random-flip-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2720,4 +2723,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/RAJ8664/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/RAJ8664/Leetcode/tree/master/0913-random-flip-matrix) |
 <!---LeetCode Topics End-->
