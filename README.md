@@ -823,6 +823,7 @@ Leetcode Solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/RAJ8664/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
@@ -1675,6 +1676,7 @@ Leetcode Solutions
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/RAJ8664/Leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## Stack
