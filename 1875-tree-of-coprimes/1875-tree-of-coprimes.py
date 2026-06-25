@@ -1,3 +1,6 @@
+# Probably not the best solution, but i do it the way i imagine the solution....
+# Alone with music ............................ 
+
 class Solution:
     def build_dp(self, u, par, adj, dp, depth) -> None:
         dp[u][0] = par
