@@ -40,6 +40,7 @@ Leetcode Solutions
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/RAJ8664/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [1875-tree-of-coprimes](https://github.com/RAJ8664/Leetcode/tree/master/1875-tree-of-coprimes) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2531-create-components-with-same-value](https://github.com/RAJ8664/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -103,6 +104,7 @@ Leetcode Solutions
 | [1663-detect-cycles-in-2d-grid](https://github.com/RAJ8664/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RAJ8664/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/RAJ8664/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1875-tree-of-coprimes](https://github.com/RAJ8664/Leetcode/tree/master/1875-tree-of-coprimes) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/RAJ8664/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/RAJ8664/Leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
@@ -374,6 +376,7 @@ Leetcode Solutions
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/RAJ8664/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/RAJ8664/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1875-tree-of-coprimes](https://github.com/RAJ8664/Leetcode/tree/master/1875-tree-of-coprimes) |
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RAJ8664/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RAJ8664/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -770,6 +773,7 @@ Leetcode Solutions
 | [1728-fancy-sequence](https://github.com/RAJ8664/Leetcode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RAJ8664/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1875-tree-of-coprimes](https://github.com/RAJ8664/Leetcode/tree/master/1875-tree-of-coprimes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RAJ8664/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1968-maximum-building-height](https://github.com/RAJ8664/Leetcode/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2628,6 +2632,7 @@ Leetcode Solutions
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/RAJ8664/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1585-the-kth-factor-of-n](https://github.com/RAJ8664/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1875-tree-of-coprimes](https://github.com/RAJ8664/Leetcode/tree/master/1875-tree-of-coprimes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RAJ8664/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RAJ8664/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
