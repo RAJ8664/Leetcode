@@ -52,6 +52,7 @@ Leetcode Solutions
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAJ8664/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RAJ8664/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RAJ8664/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -123,6 +124,7 @@ Leetcode Solutions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RAJ8664/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RAJ8664/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RAJ8664/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -545,6 +547,7 @@ Leetcode Solutions
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/RAJ8664/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/RAJ8664/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RAJ8664/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RAJ8664/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/RAJ8664/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RAJ8664/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -1676,6 +1679,7 @@ Leetcode Solutions
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RAJ8664/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RAJ8664/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/RAJ8664/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -2112,6 +2116,7 @@ Leetcode Solutions
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/RAJ8664/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RAJ8664/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RAJ8664/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
@@ -2518,6 +2523,7 @@ Leetcode Solutions
 | [2792-neighboring-bitwise-xor](https://github.com/RAJ8664/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RAJ8664/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2848-special-permutations](https://github.com/RAJ8664/Leetcode/tree/master/2848-special-permutations) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/RAJ8664/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/RAJ8664/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
