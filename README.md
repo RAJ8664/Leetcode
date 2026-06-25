@@ -62,6 +62,7 @@ Leetcode Solutions
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/RAJ8664/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Leetcode Solutions
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/RAJ8664/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
 ## Binary Tree
 |  |
@@ -646,6 +648,7 @@ Leetcode Solutions
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3952-trionic-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3958-minimum-removals-to-balance-array](https://github.com/RAJ8664/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RAJ8664/Leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -841,6 +844,7 @@ Leetcode Solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -1458,6 +1462,7 @@ Leetcode Solutions
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
@@ -1570,6 +1575,7 @@ Leetcode Solutions
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RAJ8664/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -2657,6 +2663,7 @@ Leetcode Solutions
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RAJ8664/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 ## Bitmask
 |  |
