@@ -9,7 +9,7 @@ class Solution:
         vis = [0] * n
         self.max_val = 0
 
-        def dfs(i, time, val):
+        def dfs(i: int, time: int, val: int):
             vis[i] += 1
             if vis[i] == 1:
                 val += vals[i]
