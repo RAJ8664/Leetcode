@@ -388,6 +388,7 @@ Leetcode Solutions
 | [1876-map-of-highest-peak](https://github.com/RAJ8664/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RAJ8664/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RAJ8664/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RAJ8664/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/RAJ8664/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/RAJ8664/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1075,6 +1076,7 @@ Leetcode Solutions
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RAJ8664/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RAJ8664/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RAJ8664/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/RAJ8664/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/RAJ8664/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -1237,6 +1239,7 @@ Leetcode Solutions
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RAJ8664/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RAJ8664/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/RAJ8664/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RAJ8664/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -1380,6 +1383,7 @@ Leetcode Solutions
 | [1813-maximum-erasure-value](https://github.com/RAJ8664/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/RAJ8664/Leetcode/tree/master/1830-count-good-meals) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/RAJ8664/Leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1905-design-authentication-manager](https://github.com/RAJ8664/Leetcode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RAJ8664/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1555,6 +1559,7 @@ Leetcode Solutions
 | [1502-construct-k-palindrome-strings](https://github.com/RAJ8664/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/RAJ8664/Leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RAJ8664/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RAJ8664/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -2183,6 +2188,7 @@ Leetcode Solutions
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RAJ8664/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/RAJ8664/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1923-sentence-similarity-iii](https://github.com/RAJ8664/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/RAJ8664/Leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RAJ8664/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -2748,6 +2754,7 @@ Leetcode Solutions
 ## Graph Theory
 |  |
 | ------- |
+| [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/RAJ8664/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RAJ8664/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
