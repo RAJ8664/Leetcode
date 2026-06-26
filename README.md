@@ -432,6 +432,7 @@ Leetcode Solutions
 | [2179-most-beautiful-item-for-each-query](https://github.com/RAJ8664/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RAJ8664/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/RAJ8664/Leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RAJ8664/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/RAJ8664/Leetcode/tree/master/2228-watering-plants-ii) |
@@ -2288,6 +2289,7 @@ Leetcode Solutions
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RAJ8664/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RAJ8664/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RAJ8664/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/RAJ8664/Leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RAJ8664/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/RAJ8664/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -2755,6 +2757,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1891-count-pairs-of-nodes](https://github.com/RAJ8664/Leetcode/tree/master/1891-count-pairs-of-nodes) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/RAJ8664/Leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/RAJ8664/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RAJ8664/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
