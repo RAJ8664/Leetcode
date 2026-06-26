@@ -662,6 +662,7 @@ Leetcode Solutions
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RAJ8664/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -1467,6 +1468,7 @@ Leetcode Solutions
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4105-smallest-unique-subarray](https://github.com/RAJ8664/Leetcode/tree/master/4105-smallest-unique-subarray) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RAJ8664/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/RAJ8664/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -2228,6 +2230,7 @@ Leetcode Solutions
 | [4007-maximum-total-subarray-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2352,6 +2355,7 @@ Leetcode Solutions
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2371,6 +2375,7 @@ Leetcode Solutions
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/RAJ8664/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/RAJ8664/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -2684,6 +2689,7 @@ Leetcode Solutions
 | [1772-create-sorted-array-through-instructions](https://github.com/RAJ8664/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Database
 |  |
 | ------- |
