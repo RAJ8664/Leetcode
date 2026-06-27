@@ -568,6 +568,7 @@ Leetcode Solutions
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RAJ8664/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RAJ8664/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RAJ8664/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RAJ8664/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RAJ8664/Leetcode/tree/master/3321-type-of-triangle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/RAJ8664/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -1440,6 +1441,7 @@ Leetcode Solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/RAJ8664/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RAJ8664/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RAJ8664/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RAJ8664/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RAJ8664/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/RAJ8664/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -2585,6 +2587,7 @@ Leetcode Solutions
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RAJ8664/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RAJ8664/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RAJ8664/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RAJ8664/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
