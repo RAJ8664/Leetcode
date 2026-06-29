@@ -512,6 +512,7 @@ Leetcode Solutions
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RAJ8664/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2662-check-knight-tour-configuration](https://github.com/RAJ8664/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2673-maximize-win-from-two-segments](https://github.com/RAJ8664/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2681-put-marbles-in-bags](https://github.com/RAJ8664/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RAJ8664/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/RAJ8664/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -1270,6 +1271,7 @@ Leetcode Solutions
 | [2618-maximize-the-minimum-powered-city](https://github.com/RAJ8664/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RAJ8664/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RAJ8664/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2673-maximize-win-from-two-segments](https://github.com/RAJ8664/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/RAJ8664/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RAJ8664/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -1976,6 +1978,7 @@ Leetcode Solutions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RAJ8664/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RAJ8664/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2673-maximize-win-from-two-segments](https://github.com/RAJ8664/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RAJ8664/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RAJ8664/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
