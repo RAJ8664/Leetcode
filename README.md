@@ -572,6 +572,7 @@ Leetcode Solutions
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RAJ8664/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RAJ8664/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RAJ8664/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3272-find-the-grid-of-region-average](https://github.com/RAJ8664/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RAJ8664/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RAJ8664/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RAJ8664/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -1841,6 +1842,7 @@ Leetcode Solutions
 | [3031-construct-product-matrix](https://github.com/RAJ8664/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RAJ8664/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/RAJ8664/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3272-find-the-grid-of-region-average](https://github.com/RAJ8664/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RAJ8664/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RAJ8664/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
