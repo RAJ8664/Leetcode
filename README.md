@@ -482,6 +482,7 @@ Leetcode Solutions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RAJ8664/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RAJ8664/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2502-sort-the-people](https://github.com/RAJ8664/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAJ8664/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/RAJ8664/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -989,6 +990,7 @@ Leetcode Solutions
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RAJ8664/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/RAJ8664/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RAJ8664/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2502-sort-the-people](https://github.com/RAJ8664/Leetcode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/RAJ8664/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/RAJ8664/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/RAJ8664/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -1108,6 +1110,7 @@ Leetcode Solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RAJ8664/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RAJ8664/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RAJ8664/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/RAJ8664/Leetcode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/RAJ8664/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RAJ8664/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1419,6 +1422,7 @@ Leetcode Solutions
 | [2448-count-number-of-bad-pairs](https://github.com/RAJ8664/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RAJ8664/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RAJ8664/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2502-sort-the-people](https://github.com/RAJ8664/Leetcode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/RAJ8664/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJ8664/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RAJ8664/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
