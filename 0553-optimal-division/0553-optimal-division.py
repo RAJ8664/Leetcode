@@ -18,6 +18,8 @@ class Solution:
                 generate += str(nums[i]) + "/"
 
         return str(nums[0]) + "/" + generate
+
+        # Peace !!!!!
         
         
         
