@@ -2,10 +2,11 @@ class Solution:
     def optimalDivision(self, nums: List[int]) -> str:
         n = len(nums)
         # a, b, c
-        # Don't you think its alsways better to do a / (x1 / x2 / x3 / x5/ ...) ? Let's try
+        # Don't you think its always better to do -> a / (x1 / x2 / x3 / x5/ ...) ? Let's try
 
         if n == 1:
             return str(nums[0])
+        
         if n == 2:
             return str(nums[0]) + "/" + str(nums[1])
         
