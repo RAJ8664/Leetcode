@@ -436,6 +436,7 @@ Leetcode Solutions
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RAJ8664/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/RAJ8664/Leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/RAJ8664/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [2200-stamping-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2200-stamping-the-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RAJ8664/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RAJ8664/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/RAJ8664/Leetcode/tree/master/2228-watering-plants-ii) |
@@ -1823,6 +1824,7 @@ Leetcode Solutions
 | [2145-grid-game](https://github.com/RAJ8664/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RAJ8664/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/RAJ8664/Leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [2200-stamping-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2200-stamping-the-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RAJ8664/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RAJ8664/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -2065,6 +2067,7 @@ Leetcode Solutions
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RAJ8664/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RAJ8664/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2200-stamping-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2200-stamping-the-grid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RAJ8664/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RAJ8664/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/RAJ8664/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -2344,6 +2347,7 @@ Leetcode Solutions
 | [2001-jump-game-vii](https://github.com/RAJ8664/Leetcode/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/RAJ8664/Leetcode/tree/master/2145-grid-game) |
+| [2200-stamping-the-grid](https://github.com/RAJ8664/Leetcode/tree/master/2200-stamping-the-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RAJ8664/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/RAJ8664/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/RAJ8664/Leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
