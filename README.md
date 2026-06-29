@@ -414,6 +414,7 @@ Leetcode Solutions
 | [2066-add-minimum-number-of-rungs](https://github.com/RAJ8664/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/RAJ8664/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAJ8664/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/RAJ8664/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2104-operations-on-tree](https://github.com/RAJ8664/Leetcode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -958,6 +959,7 @@ Leetcode Solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAJ8664/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAJ8664/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/RAJ8664/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAJ8664/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RAJ8664/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
