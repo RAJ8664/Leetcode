@@ -605,6 +605,7 @@ Leetcode Solutions
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RAJ8664/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RAJ8664/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RAJ8664/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -735,6 +736,7 @@ Leetcode Solutions
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/RAJ8664/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RAJ8664/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RAJ8664/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RAJ8664/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3809-properties-graph](https://github.com/RAJ8664/Leetcode/tree/master/3809-properties-graph) |
@@ -1848,6 +1850,7 @@ Leetcode Solutions
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RAJ8664/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/RAJ8664/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RAJ8664/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RAJ8664/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -2461,6 +2464,7 @@ Leetcode Solutions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RAJ8664/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RAJ8664/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RAJ8664/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -2688,6 +2692,7 @@ Leetcode Solutions
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/RAJ8664/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RAJ8664/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -2788,6 +2793,7 @@ Leetcode Solutions
 | [2803-modify-graph-edge-weights](https://github.com/RAJ8664/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RAJ8664/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
