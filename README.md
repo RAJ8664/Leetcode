@@ -659,6 +659,7 @@ Leetcode Solutions
 | [3886-count-number-of-trapezoids-i](https://github.com/RAJ8664/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3952-trionic-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
@@ -1303,6 +1304,7 @@ Leetcode Solutions
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RAJ8664/Leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4035-maximum-partition-factor](https://github.com/RAJ8664/Leetcode/tree/master/4035-maximum-partition-factor) |
@@ -1736,6 +1738,7 @@ Leetcode Solutions
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3956-trionic-array-ii](https://github.com/RAJ8664/Leetcode/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/RAJ8664/Leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -2476,6 +2479,7 @@ Leetcode Solutions
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RAJ8664/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/RAJ8664/Leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Union Find
 |  |
@@ -2684,6 +2688,7 @@ Leetcode Solutions
 | [2176-parallel-courses-iii](https://github.com/RAJ8664/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RAJ8664/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RAJ8664/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2703,6 +2708,7 @@ Leetcode Solutions
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RAJ8664/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RAJ8664/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 ## Number Theory
 |  |
 | ------- |
@@ -2804,6 +2810,7 @@ Leetcode Solutions
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
