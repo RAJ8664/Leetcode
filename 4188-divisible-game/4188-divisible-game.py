@@ -26,17 +26,13 @@ class Solution:
         divisors.sort()
 
         for k in divisors:
-            arr = []
-            for ele in nums:
-                if ele % k == 0:
-                    arr.append(ele)
-                else:
-                    arr.append(-ele)
-
             sum = 0
             curr_maxi = -10 ** 9
-            for ele in arr:
-                sum += ele
+            for ele in nums:
+                if ele % k == 0:
+                    sum += ele
+                else:
+                    sum += -ele
                 curr_maxi = max(curr_maxi, sum)
                 if sum < 0:
                     sum = 0
@@ -46,7 +42,3 @@ class Solution:
                 res = (curr_maxi % MOD * k % MOD) % MOD
 
         return res % MOD
-                
-             
-
-        
