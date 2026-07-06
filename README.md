@@ -310,6 +310,7 @@ Leetcode Solutions
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RAJ8664/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
 | [1219-longest-well-performing-interval](https://github.com/RAJ8664/Leetcode/tree/master/1219-longest-well-performing-interval) |
+| [1222-remove-covered-intervals](https://github.com/RAJ8664/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RAJ8664/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/RAJ8664/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -1076,6 +1077,7 @@ Leetcode Solutions
 | [1095-two-city-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/RAJ8664/Leetcode/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/RAJ8664/Leetcode/tree/master/1169-largest-values-from-labels) |
+| [1222-remove-covered-intervals](https://github.com/RAJ8664/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/RAJ8664/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/RAJ8664/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RAJ8664/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
