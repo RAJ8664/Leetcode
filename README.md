@@ -416,6 +416,7 @@ Leetcode Solutions
 | [2047-find-a-peak-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RAJ8664/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2058-concatenation-of-array](https://github.com/RAJ8664/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/RAJ8664/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/RAJ8664/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2089-maximum-matrix-sum](https://github.com/RAJ8664/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -1914,6 +1915,7 @@ Leetcode Solutions
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RAJ8664/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RAJ8664/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RAJ8664/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/RAJ8664/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RAJ8664/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/RAJ8664/Leetcode/tree/master/2169-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/RAJ8664/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
