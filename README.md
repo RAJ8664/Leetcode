@@ -868,6 +868,7 @@ Leetcode Solutions
 | [3957-sum-of-perfect-square-ancestors](https://github.com/RAJ8664/Leetcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RAJ8664/Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/RAJ8664/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/RAJ8664/Leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
