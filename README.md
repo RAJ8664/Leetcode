@@ -870,6 +870,7 @@ Leetcode Solutions
 | [3964-number-of-zigzag-arrays-ii](https://github.com/RAJ8664/Leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [4065-count-sequences-to-k](https://github.com/RAJ8664/Leetcode/tree/master/4065-count-sequences-to-k) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RAJ8664/Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/RAJ8664/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/RAJ8664/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/RAJ8664/Leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
@@ -1049,6 +1050,7 @@ Leetcode Solutions
 | [3939-process-string-with-special-operations-ii](https://github.com/RAJ8664/Leetcode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/RAJ8664/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4305-check-adjacent-digit-differences](https://github.com/RAJ8664/Leetcode/tree/master/4305-check-adjacent-digit-differences) |
 ## Sorting
 |  |
@@ -2410,6 +2412,7 @@ Leetcode Solutions
 | [4056-longest-balanced-substring-ii](https://github.com/RAJ8664/Leetcode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RAJ8664/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/RAJ8664/Leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RAJ8664/Leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
