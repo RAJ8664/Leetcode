@@ -651,6 +651,7 @@ Leetcode Solutions
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -1311,6 +1312,7 @@ Leetcode Solutions
 | [3763-separate-squares-i](https://github.com/RAJ8664/Leetcode/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1494,6 +1496,7 @@ Leetcode Solutions
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/RAJ8664/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RAJ8664/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/RAJ8664/Leetcode/tree/master/3885-count-special-triplets) |
@@ -2827,6 +2830,7 @@ Leetcode Solutions
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RAJ8664/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
@@ -2837,6 +2841,7 @@ Leetcode Solutions
 | [1663-detect-cycles-in-2d-grid](https://github.com/RAJ8664/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/RAJ8664/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
