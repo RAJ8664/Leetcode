@@ -26,7 +26,6 @@ class DSU:
         self.parent[v] = u
         self.size[u] += self.size[v] 
 
-
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
         dsu = DSU(n) 
@@ -38,7 +37,6 @@ class Solution:
             while right < n and abs(nums[left] - nums[right]) <= maxDiff:
                 dsu.unite(left, right)
                 right += 1
-
             left += 1
 
         ans = []
