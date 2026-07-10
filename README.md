@@ -656,6 +656,7 @@ Leetcode Solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RAJ8664/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/RAJ8664/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/RAJ8664/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/RAJ8664/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/RAJ8664/Leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RAJ8664/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1168,6 +1169,7 @@ Leetcode Solutions
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RAJ8664/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/RAJ8664/Leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RAJ8664/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RAJ8664/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/RAJ8664/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1313,6 +1315,7 @@ Leetcode Solutions
 | [3790-fruits-into-baskets-ii](https://github.com/RAJ8664/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RAJ8664/Leetcode/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1750,6 +1753,7 @@ Leetcode Solutions
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RAJ8664/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/RAJ8664/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/RAJ8664/Leetcode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/RAJ8664/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
@@ -2136,6 +2140,7 @@ Leetcode Solutions
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RAJ8664/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RAJ8664/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RAJ8664/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RAJ8664/Leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -2264,6 +2269,7 @@ Leetcode Solutions
 | [3195-separate-black-and-white-balls](https://github.com/RAJ8664/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RAJ8664/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RAJ8664/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RAJ8664/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RAJ8664/Leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/RAJ8664/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -2617,6 +2623,7 @@ Leetcode Solutions
 | [3649-minimum-time-to-break-locks-i](https://github.com/RAJ8664/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RAJ8664/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/RAJ8664/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -2831,6 +2838,7 @@ Leetcode Solutions
 | [3386-find-edges-in-shortest-paths](https://github.com/RAJ8664/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RAJ8664/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/RAJ8664/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/RAJ8664/Leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/RAJ8664/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/RAJ8664/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/RAJ8664/Leetcode/tree/master/3919-network-recovery-pathways) |
