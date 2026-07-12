@@ -16,8 +16,8 @@ class Solution:
             return dp[prev_considered_col + 1][curr_col]
 
         else:
-            # We have two options here as well, but need to be careful where we are allowed to consider this col or not, because 
-            # we have already considered some prev col, so we need to check if we can take this col or not.
+            # We have two options here as well, but need to be careful whether we are allowed to consider this col or not, because 
+            # we have already considered some prev col, so we need to check if we can take this col or not as its neighbour col.
 
             op1 = 0 + self.solve(prev_considered_col, curr_col + 1, dp, grid, limit) # Let it go
             op2 = 0 # Check if we can consider this col
