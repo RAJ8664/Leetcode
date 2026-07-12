@@ -71,7 +71,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[]</span></p>
 
-<p><strong>Explanation:</strong>â</p>
+<p><strong>Explanation:</strong>​</p>
 
 <p>No grid exists with exactly <code>k = 2</code> valid paths for a <code>1 x 4</code> grid, so the answer is an empty array.</p>
 </div>
